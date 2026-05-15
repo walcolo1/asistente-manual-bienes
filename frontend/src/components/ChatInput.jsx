@@ -32,7 +32,7 @@ const ChatInput = ({ onSend, disabled }) => {
         style={{
           flex: '1 1 0',
           minWidth: 0,
-          fontSize: 14,
+          fontSize: 16,
           padding: '10px 16px',
           borderRadius: 8,
           border: '1px solid #c4c6cf',
@@ -60,8 +60,8 @@ const ChatInput = ({ onSend, disabled }) => {
         disabled={isDisabled}
         style={{
           flexShrink: 0,
-          width: 42,
-          height: 42,
+          width: 44,
+          height: 44,
           borderRadius: 8,
           border: 'none',
           background: isDisabled ? '#c4c6cf' : '#1b365d',

@@ -172,6 +172,9 @@ const saveLocal = (key, val) => {
 
 // ── App ───────────────────────────────────────────────────────────────────────
 function App() {
+  // ── Mobile Menu State ──
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
   // ── Vista activa ──
   const [activeView, setActiveView] = useState('chat'); // 'chat' | 'toc' | 'references' | 'history' | 'settings'
 
@@ -223,6 +226,7 @@ function App() {
     setViewerData(null);
     setViewerError(null);
     setActiveView('chat');
+    setIsMobileMenuOpen(false);
   }, []);
 
   /** Limpiar solo el chat */
@@ -330,6 +334,7 @@ function App() {
       { role: 'system', content: item.answer, sources: item.sources, usedChunks: item.usedChunks },
     ]);
     setActiveView('chat');
+    setIsMobileMenuOpen(false);
   }, []);
 
   /** Click en fuente → abre SourceViewer */
@@ -363,6 +368,7 @@ function App() {
     // Si estábamos en TOC, nos quedamos; si venimos de otro panel, cambiamos a chat para ver el viewer
     // En realidad el viewer se muestra en la columna central cuando activeView === 'toc'
     setActiveView('toc');
+    setIsMobileMenuOpen(false);
   }, []);
 
   /** "Preguntar sobre esta sección" → llama a /api/ask-section con sectionId directo */
@@ -436,7 +442,7 @@ function App() {
     } catch (err) {
       let userMsg = err.message;
       if (!userMsg || userMsg === 'Failed to fetch') {
-        userMsg = 'No se pudo conectar al servidor. Verifique que el backend esté activo en el puerto 3000.';
+        userMsg = 'No se pudo conectar al servidor. Verifique su conexión o intente nuevamente en unos segundos (el servidor podría estar despertando).';
       }
       setMessages(prev => [...prev, { role: 'system', content: userMsg, isError: true, sources: [], usedChunks: [] }]);
     } finally {
@@ -451,10 +457,10 @@ function App() {
     switch (activeView) {
       case 'toc':
         return (
-          <div style={{ display: 'flex', height: '100%', overflow: 'hidden' }}>
+          <div className="toc-layout-container" style={{ display: 'flex', height: '100%', overflow: 'hidden' }}>
             {/* Árbol de contenido */}
-            <div style={{
-              width: 300, flexShrink: 0,
+            <div className={`toc-sidebar ${activeSectionId ? 'hidden-on-mobile' : ''}`} style={{
+              flexShrink: 0,
               borderRight: '1px solid #e0e3e5',
               overflow: 'hidden',
             }}>
@@ -464,7 +470,7 @@ function App() {
               />
             </div>
             {/* Detalle de sección */}
-            <div style={{ flex: 1, minWidth: 0, overflow: 'hidden' }}>
+            <div className={`toc-main ${!activeSectionId ? 'hidden-on-mobile' : ''}`} style={{ flex: 1, minWidth: 0, overflow: 'hidden' }}>
               <SectionViewer
                 sectionId={activeSectionId}
                 onAskAbout={handleAskAboutSection}
@@ -504,13 +510,21 @@ function App() {
       default:
         return (
           <>
-            {/* Header chat */}
-            <header style={{
+            {/* Header chat desktop - kept inline but you can also refactor later */}
+            <header className="hidden-mobile-header" style={{
+              flexShrink: 0,
+              display: 'none', // Overridden via media query if needed, but since we have mobile-header now, let's keep it visible on desktop only
+              padding: '12px 20px',
+              background: '#ffffff', borderBottom: '1px solid #c4c6cf',
+            }}>
+               {/* This is the inner content but we want a flex layout. We will use className instead of display none */}
+            </header>
+            <div style={{
               flexShrink: 0,
               display: 'flex', alignItems: 'center', justifyContent: 'space-between',
               padding: '12px 20px',
               background: '#ffffff', borderBottom: '1px solid #c4c6cf',
-            }}>
+            }} className="desktop-chat-header">
               <div>
                 <p style={{ margin: 0, fontSize: 14, fontWeight: 600, color: '#191c1e', lineHeight: 1.2 }}>
                   Manual de Bienes
@@ -540,7 +554,7 @@ function App() {
                 </svg>
                 Limpiar chat
               </button>
-            </header>
+            </div>
 
             {/* Messages */}
             <div
@@ -596,7 +610,7 @@ function App() {
         activeView === 'history' || activeView === 'settings') {
       // Panel derecho informativo
       return (
-        <aside style={{
+        <aside className="right-panel-container" style={{
           height: '100%', display: 'flex', flexDirection: 'column',
           overflow: 'hidden',
           background: '#ffffff', borderLeft: '1px solid #c4c6cf',
@@ -659,11 +673,13 @@ function App() {
 
     // Vista chat → panel de fuentes completo
     return (
-      <SourcesPanel
-        sources={latestSources}
-        usedChunks={latestUsedChunks}
-        onSourceClick={handleSourceClick}
-      />
+      <div className="right-panel-container" style={{ height: '100%' }}>
+        <SourcesPanel
+          sources={latestSources}
+          usedChunks={latestUsedChunks}
+          onSourceClick={handleSourceClick}
+        />
+      </div>
     );
   };
 
@@ -678,22 +694,53 @@ function App() {
         onClose={handleCloseViewer}
       />
 
+      {/* Mobile overlay */}
+      <div 
+        className={`sidebar-overlay ${isMobileMenuOpen ? 'open' : ''}`}
+        onClick={() => setIsMobileMenuOpen(false)}
+      />
+
       {/* Root layout */}
-      <div style={{
-        height: '100vh', width: '100vw', overflow: 'hidden',
-        display: 'grid',
-        gridTemplateColumns: '260px minmax(0, 1fr) 320px',
-        fontFamily: "'Inter', sans-serif",
-        background: '#f7f9fb',
-      }}>
+      <div className="app-container">
+        
+        {/* Mobile Header (only visible on mobile via CSS) */}
+        <div className="mobile-header">
+          <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
+            <button 
+              onClick={() => setIsMobileMenuOpen(true)}
+              style={{ background: 'transparent', border: 'none', color: '#1b365d', padding: 4, cursor: 'pointer' }}
+            >
+              <svg width="24" height="24" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+              </svg>
+            </button>
+            <h1 style={{ margin: 0, fontSize: 16, fontWeight: 600, color: '#1b365d' }}>Manual de Bienes</h1>
+          </div>
+          
+          <button
+            onClick={handleNewConsulta}
+            style={{
+              background: '#1b365d', color: 'white', border: 'none', borderRadius: 8,
+              padding: '6px 12px', fontSize: 12, fontWeight: 600, cursor: 'pointer'
+            }}
+          >
+            Nueva Consulta
+          </button>
+        </div>
+
         {/* COL 1: SIDEBAR */}
-        <Sidebar
-          activeView={activeView}
-          onView={setActiveView}
-          onNewConsulta={handleNewConsulta}
-          historyCount={history.length}
-          refCount={latestSources.length}
-        />
+        <div className={`sidebar-container ${isMobileMenuOpen ? 'open' : ''}`}>
+          <Sidebar
+            activeView={activeView}
+            onView={(view) => {
+              setActiveView(view);
+              setIsMobileMenuOpen(false);
+            }}
+            onNewConsulta={handleNewConsulta}
+            historyCount={history.length}
+            refCount={latestSources.length}
+          />
+        </div>
 
         {/* COL 2: PANEL CENTRAL */}
         <main style={{

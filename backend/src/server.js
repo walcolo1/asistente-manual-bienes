@@ -18,16 +18,25 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
 ];
-if (process.env.FRONTEND_URL) {
-  allowedOrigins.push(process.env.FRONTEND_URL);
+let frontendUrl = process.env.FRONTEND_URL;
+if (frontendUrl) {
+  // Remover barra final si existe
+  frontendUrl = frontendUrl.replace(/\/$/, '');
+  allowedOrigins.push(frontendUrl);
 }
 
 app.use(cors({
   origin: function(origin, callback) {
-    // Permitir si no hay origen (ej. curl, postman) o si está en la lista permitida
-    if (!origin || allowedOrigins.includes(origin)) {
+    // Permitir si no hay origen, está en la lista exacta, es un subdominio de vercel o frontendUrl es '*'
+    if (
+      !origin || 
+      frontendUrl === '*' ||
+      allowedOrigins.includes(origin) || 
+      (origin && origin.endsWith('.vercel.app'))
+    ) {
       callback(null, true);
     } else {
+      console.warn(`[CORS] Origen bloqueado: ${origin}`);
       callback(new Error('No permitido por CORS'));
     }
   }

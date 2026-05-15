@@ -317,7 +317,7 @@ const TableOfContents = ({ activeSectionId, onSectionClick }) => {
               }} />
             ))}
           </div>
-          Cargando índice del manual...
+          <span>Cargando índice del manual...</span>
         </div>
       </div>
     );
@@ -329,7 +329,7 @@ const TableOfContents = ({ activeSectionId, onSectionClick }) => {
         <div style={S.error}>
           <strong>No se pudo cargar la tabla de contenido.</strong>
           <br /><br />
-          Detalle: {error}
+          <span>Detalle: {error}</span>
         </div>
       </div>
     );
