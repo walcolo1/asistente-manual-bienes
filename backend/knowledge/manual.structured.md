@@ -1,0 +1,4270 @@
+---title: "Manual de Bienes Estructurado"source: "manual.md"normalized: true---
+
+## Objetivo
+ Determinar, unificar y diseñar los conceptos, lineamientos y procedimientos para el registro, manejo, responsabilidad y control de los bienes de propiedad del Ministerio de Defensa Nacional. 
+## Alcance
+ Su campo de aplicación va dirigido a todas las Unidades Ejecutoras que conforman la Sección Presupuestal 1501 Ministerio de Defensa Nacional. Las definiciones, procedimientos y demás disposiciones contenidas en el presente Manual se circunscriben exclusivamente a los trámites administrativos y financieros para el manejo de los bienes de las Unidades Ejecutoras de la Sección Presupuestal 1501 Ministerio de Defensa Nacional. Elaborado por: PS Lida Yecenia Alfonso Valderrama Cargo: Asesora Dirección de Finanzas MDN Firma: Revisado por: PD. Fharit Ney Quintero Padilla Cargo: Coordinador Grupo Contabilidad General MDN Firma: Aprobado por: DD. Clara Inés Chiquillo Díaz Cargo: Directora de Finanzas MDN Firma:
+
+# CAPÍTULO I
+
+## 1. MARCO CONCEPTUAL DE LOS BIENES
+
+La g estión y a dministración de los bienes adquiridos a cualquier título por el Ministerio de Defensa Nacional - MDN , se realizará a través de la plataforma tecnológica , Sistema de Información Logístico – SILOG . 
+
+Esta herramienta permite soportar todos los procesos de negocio relacionados con las operaciones de la g estión de los b ienes y s ervicios en complemento al Sistema Integrado de Información Financiera - SIIF Nación. 
+
+### 1.1 CONCEPTO DE BIEN
+
+Son todos los artículos inventariables o activos de cualquier clase, tangibles e intangibles controlados por el Ministerio de Defensa Nacional que resultan de un evento pasado y de los cuales se espera obtener un potencial de servicio o generar beneficios económicos futuros, requeridos por la Entidad para el cumplimiento de sus funciones los cuales pueden ser propios o de terceros. 
+
+Se manejarán y controlarán de acuerdo con su naturaleza y en concordancia con las respectivas cuentas establecidas en el Catálogo G eneral de C uentas aplicable para entidades de Gobierno. 
+
+### 1.2 CLASIFICACIÓN DE LOS BIENES
+
+Los bienes del Ministerio de Defensa se clasifican por sus características de acuerdo con su clase, naturaleza , dinámica, uso y condición , de conformidad con lo establecido en las cuentas d el catálogo general de cuentas del M arco N ormativo para entidades de gobierno, se clasifican en: 
+
+#### 1.2.1 Bienes Tangibles
+
+Son bienes que ocupan un espacio y tienen un valor de acuerdo con sus especificaciones físicas y técnicas. 
+
+##### 1.2.1.1 Inventarios
+
+Son los activos adquiridos, los que se encuentran en proceso de transformación y los producidos, así como los productos agropecuarios, que se tengan con la intención de a) venderse a precios de mercado o de no mercado en el curso normal de la operación, b) distribuirse en forma grat uita en el curso normal de la operación; o c) transformarse o consumirse en la producción de bienes que serán vendidos, a precios de mercado o no mercado, o distribuidos en forma gratuita; o d) consumirse en la prestación de servicios que generarán ingreso s de transacciones con contraprestación. Así mismo, incluye los bienes recibidos en dación de pago que la entidad espera vender. 
+
+También se reconocerán como inventarios los materiales que se incluirán como parte del costo de otros activos, de acuerdo con las normas de Propiedades, planta y equipo; Propiedades de inversión; Bienes de uso público; Bienes históricos y culturales; o Activos intangibles. Adicionalmente, se reconocerán como inventarios los repuestos que no serán componentes de un ele mento de propiedades, planta y equipo; los materiales que se adquieran para consumirse en la prestación gratuita de los servicios de educación; y las municiones y explosivos. Bienes producidos Mercancías en existencia Materias primas Materiales y suminstros Productos en proceso Semovientes Repuestos Maquinaria y equipo Equipo médico y científico Muebles, enseres y equipo de oficina Equpo de comunicación y computación Equipo de transporte, tracción y elevación Equipo de comedor, cocina, despensa y hotelería Bienes de arte y cultura Serviciable Reparado Terrenos Construcciones en curso Edificaciones Plantas,ductos y túneles Redes; Líneas y cables Bienes con control administrativo (inventarios, propiedades plantas y equipo) Bienes historicos y culturales Marcas Patentes Derechos Licencias Software Activos intangibles en fase de desarrollo Otros activos intangibles Intangibles con control administrativo Nota1: c ondiciones Administrativas de los bienes: * En tránsito * En poder de terceros * Maquinaria, planta y equipo en montaje * Propiedades, planta y equipo en tránsito * Bienes muebles en bodega * Propiedades, planta y equipo en mantenimiento * Propiedades, planta y equipo no explotados Inmuebles Intangibles BIENES Tangibles Inventarios Propiedades, planta y equpo Muebles Devolutivos Reparable 
+
+###### 1.2.1.1.1 Bienes producidos o producto terminado
+
+Representa el valor de los bienes obtenidos mediante procesos de transformación, explotación, cultivo o construcción y se encuentran disponibles para la venta o para distribuirlos sin contraprestación. 
+
+Se caracteriza por ser un producto dispuesto para su consumo. 
+
+###### 1.2.1.1.2 Mercancías en existencia
+
+Bienes adquiridos a cualquier título por el Ministerio de Defensa Nacional , que en cumplimiento de sus funciones pueden ser vendidos o distribuidos sin contraprestación y que no requieren ser sometidos a ningún proceso de transformación, explotación, cultivo, construcción o tratamiento. 
+
+###### 1.2.1.1.3 Materias primas
+
+Elementos adquiridos o producidos que deben ser sometidos a un proceso de transformación para convertirlos en bienes finales o intermedios. 
+
+###### 1.2.1.1.4 Materiales y suministros
+
+Representa el valor de los elementos, distintos de materias primas, adquiridos o producidos para ser consumidos o utilizados en la producción de bienes y la prestación de servicios. 
+
+###### 1.2.1.1.5 Productos en proceso
+
+Bienes semielaborados que requieren procesos adicionales de producción para convertirlos en productos terminados que estarán disponibles para la venta o para distribuirlos sin contraprestación. 
+
+##### 1.2.1.2 Propiedades, planta y Equipo
+
+Son activos tangibles empleados por la entidad para la producción o suministro de bienes, para la prestación de servicios y para propósitos administrativos. 
+
+Estos activos se caracterizan porque no se espera venderlos en el curso de las actividades ordinari as de la entidad y se prevé usarlos durante más de 12 meses . 
+
+También incluye los bienes muebles e inmuebles de propiedad de terceros, recibidos sin contraprestación de otras entidades del gobierno general y los bienes históricos y culturales, que cumplan con la definición de propiedades, planta y equipo. 
+
+Se clasifican en este grupo aquellos bienes que no se consumen con el primer uso que se hace de ellos, aunque se deterioren y perezcan con el tiempo por razón de su naturaleza, y que su vida probable es superior a un año. También, porque deben ser devuelto s por los servidores públicos o contratistas, a quienes la administración se los entregó para su uso y cumplimiento de las funciones asignadas. 
+
+###### 1.2.1.2.1 Muebles
+
+Son aquellos bienes que pueden ser transportado fácilmente de un lugar a otro manteniendo su integridad y por lo tanto brindando exactamente la misma utilidad. 
+
+####### 1.2.1.2.1.1 Devolutivos
+
+Corresponde a los bienes que no se consumen con el primer uso, por el contrario, por su naturaleza se deterioran y perecen con el tiempo. Deben ser devueltos a la administración que los entregó una vez hayan cumplido su vida útil, no se encuentren aptos para prestar el servicio, o no se requieran . 
+
+######## 1.2.1.2.1.1.1 Semovientes
+
+Comprende los animales que se utilicen para investigación, educación, seguridad, transporte, entretenimiento, esparcimiento, control de aduanas o para cualquier otra actividad que no sea agro pecuaria. También incluye los semovientes de propiedad de terceros que cumplan la definición de activo . 
+
+####### 1.2.1.2.1.1. 2
+
+Repuestos de las propiedades, planta y equipo Repuestos de las propiedades, planta y equipo que se utilizan durante más de 12 meses y se capitalizan en el respectivo elemento previa baja de componente sustituido. 
+
+Aplica únicamente para repuestos de equipo de transporte aéreo, marítimo y fluvial y terrestre (blindados), distintos de aquellos considerados de carácter reservado con fines estratégicos. 
+
+######## 1.2.1.2.1.1.3 Maquinaria y equipo
+
+Representa, entre otros, el valor de la maquinaria industrial, el equipo para la construcción y perforación, así como las herramientas y accesorios que se emplean en la producción de bienes y la prestación de servicios. 
+
+También incluye la maquinaria y equi po de propiedad de terceros que cumplan la definición de activo. 
+
+######## 1.2.1.2.1.1.4 Equipo médico y científico
+
+Representa el valor de los equipos médicos, científicos, de investigación y de laboratorio que son utilizados en la prestación de servicios, así como los destinados a apoyar la gestión administrativa. También incluye el equipo médico y científico de propiedad de terceros que cumplan la definición de activo. 
+
+######## 1.2.1.2.1.1.5 Muebles, enseres y equipo de oficina
+
+Representa el valor de los muebles, enseres y equipo de oficina empleados para la producción de bienes y la prestación de servicios, así como aquellos destinados para apoyar la gestión administrativa. También incluye los muebles, enseres y equipo de oficin a de propiedad de terceros que cumplan la definición de activo. 
+
+######## 1.2.1.2.1.1.6 Equipo de comunicaciones y computación
+
+Representa el valor de los equipos de comunicación, de computación, satélites, antenas y radares, entre otros, que se emplean para la producción de bienes y la prestación de servicios, así como los destinados a apoyar la gestión administrativa. 
+
+También inc luye los equipos de comunicación y computación de propiedad de terceros que cumplan la definición de activo. 
+
+######## 1.2.1.2.1.1.7 Equipo de transporte,
+
+tracción y elevación Representa el valor de los equipos de transporte aéreo, terrestre, férreo, marítimo y fluvial, así como los equipos de tracción y elevación, que se emplean para la producción de bienes, la prestación de servicios y el apoyo a la gestión administrativa. También incluye los equipos de transporte, tracción y elevación de propiedad de terceros que cumplan la definición de activo. 
+
+######## 1.2.1.2.1.1.8 Equipo de comedor, cocina, despensa y hotelería
+
+Representa el valor del equipo de comedor, cocina, despensa y hotelería empleados para la prestación de servicios, así como los destinados a apoyar la gestión administrativa. 
+
+También incluye los equipos de comedor, cocina, despensa y hotelería de propiedad de terceros que cumplan la definición de activo. 
+
+####### 1.2.1.2.1.1. 9
+
+Bienes de arte y cultura Representa el valor de las obras de arte, los bienes de culto, las joyas, los elementos de museo, los elementos musicales, los libros y publicaciones de investigación y consulta de la entidad, entre otros, que son utilizados por la entidad para decorar o para la prestación de servicios. 
+
+####### 1.2.1.2.1.2 Reparables
+
+Son todas las partes o elementos de equipos terrestres, aéreos y marítimos, que han cumplido su tiempo de operación o que se dañan por el uso, y para el cual la orden técnica acepta reparación con el fin de recuperar su potencial de servicio. 
+
+######## 1.2.1.2.1.2.1 Serviciable
+
+Es un elemento o parte reparable, que es desmontado de un equipo, pero se encuentra técnicamente en condiciones de uso. 
+
+######## 1.2.1.2.1.2.2 Reparado
+
+Elemento o parte reparable que después de haber sufrido una reparación, recupera su potencial de servicio. 
+
+###### 1.2.1.2.2 Bienes inmuebles
+
+Los terrenos y c onstrucciones, que se emplean para propósitos administrativos o para la producción de bienes o la prestación de servicios. 
+
+También incluye las edificaciones de propiedad de terceros que cumplen la definición de activo “Son recursos controlados por el Minis terio de Defensa y Policía Nacional que resultan de un evento pasado y de los cuales se espera obtener un potencial de servicio o generar beneficios económicos futuros”. 
+
+Pertenecen a este grupo todos aquellos bienes que no pueden transportarse de un lugar a otro sin que se destruyan o deterioren. 
+
+####### 1.2.1.2.2.1 Terrenos
+
+Representa el valor de los predios en los cuales están construidas las diferentes edificaciones, los destinados a futuras ampliaciones o construcciones. 
+
+También incluye los terrenos de propiedad de terceros que cumplan con la definición de activo. 
+
+####### 1.2.1.2.2.2 Construcciones en curso
+
+Corresponde a todos los costos y demás cargos incurridos en el proceso de edificación o ampliación de bienes inmuebles, hasta cuando estén en condiciones de ser utilizados en las labores productivas, operativas o administrativas del ente público. 
+
+####### 1.2.1.2.2.3 Edificaciones
+
+Representa el valor de las construcciones, tales como edificios, bodegas, locales, oficinas, fábricas y hospitales, entre otros, que se emplean para propósitos administrativos o para la producción de bienes o la prestación de servicios. También incluye las edificaciones de propiedad de terceros que cumplen la definición de activo. 
+
+Los b ienes inmuebles por a dhesión corresponden a todo aquel, que se incorpora al suelo o a un inmueble y pasa hacer parte de este. 
+
+####### 1.2.1.2.2.4 Planta s , ductos y Túneles
+
+Representa el valor de las plantas, ductos y túneles empleados para la producción de bienes y la prestación de servicios. También incluye las plantas, ductos y túneles de propiedad de terceros que cumplan la definición de activo. 
+
+####### 1.2.1.2.2.5 Redes, líneas y cables
+
+Representa el valor de las redes de distribución, recolección y alimentación, así como las líneas y cables de interconexión, transmisión y conducción, que se emplean para la producción de bienes y la prestación de servicios. También incluye las redes, líne as y cables de propiedad de terceros que cumplan la definición de activo. 
+
+##### 1.2.1.3 Bienes con control administrativo
+
+Son aquellos bienes de cuantía inferior a 50 UVT adquiridos durante la vigencia fiscal que no se extinguen con el primer uso que se hace de ellos, deben ser devueltos por los Servidores públicos o contratistas a quienes la administración se los entregó para su uso y cumplimiento de sus funciones, que por sus características y valor no se consideran como propiedades, planta y equipo, no obstante, deben ser controlados administrativamente. N o aplicará a los bienes de armamento y equipo reservado equipos de comunicaciones reservadas (operacionales) y semovientes, los cuales se reconocerán como propiedades, planta y equipo sin considerar su valor. 
+
+Los bienes con control administrativo tendrán los mismos controles que las demás propiedades, planta y equipo y se deben realizar transacciones a través del sistema de información Logístico SILOG sin efecto contable. 
+
+En control administrativo se incorporarán aquellos bienes de consumo ( mercancías, elementos, insumos, materiales y suministros .), que no cumplan con las condiciones normativas para ser clasificados en las cuentas de Inventarios, los cuales deberán ser controlados en el Sistema de Información Logístic o – SILOG , hasta su consumo o baja en cuentas de orden . 
+
+Asimismo, se considerarán los bienes que por sus características particulares o especiales requieran ser controlados administrativamente. 
+
+##### 1.2.1.4 Bienes históricos y culturales
+
+Representa el valor de los bienes tangibles controlados por la entidad a los que se les atribuye, entre otros, valores colectivos, históricos, estéticos y simbólicos, y que, por tanto, la colectividad los reconoce como parte de su memoria e identidad; que hayan sido declarados como históricos y culturales mediante acto administrativo. 
+
+#### 1.2.2 Bienes intangibles
+
+Recursos identificables, de carácter no monetario y sin apariencia física, sobre los cuales el Ministerio de Defensa tenga el control, se espera obtener potencial de servicio al emplearlos en el cumplimiento del cometido estatal o misión de la Entidad, y se puede realizar mediciones fiables. Estos activos se caracterizan porque no se espera venderlos en el curso de las actividades de la entidad y se prevé usarlos duran te más de 12 meses. 
+
+##### 1.2.2.1 Marca
+
+Se representa en un nombre, término, señal, símbolo o diseño, o una combinación de todos ellos, que busca identificar los bienes y servicios de una Entidad, o un grupo de entidades, y diferenciarlos de los de sus competidores. 
+
+##### 1.2.2.2 Patentes
+
+C onsiste en el derecho otorgado a un inventor mediante acto administrativo para que terceros no exploten este beneficio con fines comerciales su invención tiene un plazo limitado, que suele ser de 20 años . 
+
+##### 1.2.2.3 Derechos
+
+Es un bien o un derecho propiedad de una entidad no tiene una forma física (no es material) y que puede producir beneficios en el futuro. Los derechos de autor , propiedad intelectual pero que, debido a su valor jurídico, social y económico, se reconocen y protegen legalmente. 
+
+##### 1.2.2.4 Licencias
+
+L as licencias son documentos legales que permiten a las entidades llevar a cabo ciertas operaciones o actividades específicas. Existen diferentes tipos de licencias, cada una con sus propias características y requisitos, se cuenta con el permiso de su autor para el uso y beneficio de las operaciones. 
+
+##### 1.2.2.5 Software
+
+Son aquellos programas informáticos, conjunto de instrucciones, algoritmos y partes visuales colección de programas diseñados para operar, controlar y ampliar las capacidades de procesamiento de la propia computadora. 
+
+##### 1.2.2.6 Activos intangibles en fase de desarrollo
+
+Comprende todos los bienes intangibles que se encuentra en proceso de desarrollo y no han cumplido con todos los requisitos establecidos, esto con el propósito de que la entidad pueda obtener beneficios económicos futuros o potencial de servicio y puede realizar mediciones fiables. 
+
+##### 1.2.2.7 Otros activos intangibles
+
+Esta cuenta se registra todos los intangibles que necesitan ser controlados por la entidad que no han sido incluidos en otro grupo y de los cuales se espera obtener un potencial de servicio o generar beneficios económicos futuros. 
+
+##### 1.2.2.8 Bienes intangibles con control administrativo
+
+Son aquellos activos intangibles de cuantía inferior a UVT que, por sus características y valor , contablemente se reconocen al gasto, no obstante, deben ser controlados administrativamente por las dependencias de TICs en cada Unidad Ejecutora . 
+
+#### 1.2.3 Condiciones Administrativas de los bienes
+
+### 1.2. 3.1
+
+En tránsito Comprende la adquisición de mercancías, materias primas, materiales y suministros, que no están disponibles para ser utilizados por encontrarse en procesos de importación, trámite, transporte, legalización o entrega, a cargo de los proveedores o terceros responsables. 
+
+##### 1.2.3.2 En poder de terceros
+
+Inventarios que se encuentran en poder de terceros en virtud de actos administrativos que así lo dispongan, pero cuyos riesgos y beneficios inherentes a la propiedad del activo no han sido transferidos sustancialmente. 
+
+##### 1.2.3.3 Maquinaria, planta y equipo en montaje
+
+Representa el valor de la maquinaria y equipo recibido que para su operación requiere que se surtan procedimientos especiales de instalación, ensamble, conexión de piezas o componentes en forma previa a su puesta en servicio; así como los costos en que se incurre para la adquisición y montaje de plantas, ductos y túneles; redes, líneas y cables; maquinaria y equipo; equipo médico y científico; entre otros, los cuales aún no se encuentran en condiciones de utilización. 
+
+##### 1.2.3.4. Propiedades planta y equipo en
+
+tránsito Comprende la propiedad, planta y equipo que no están disponibles para ser utilizadas por encontrarse en procesos de importación, trámite, transporte, legalización o entrega. 
+
+##### 1.2.3.5 Bienes
+
+muebles en bodega Representa el valor de los bienes muebles nuevos adquiridos a cualquier título por la entidad, los cuales se espera serán usados por la entidad durante más de 12 meses para la producción o suministro de bienes, para la prestación de servicios o para propósitos administrativos. 
+
+A bodega también ingresan los bienes cuyo valor individual sea inferior a 50 Unidades de Valor Tributario (U.V.T.) según la Política Contable No.01 del Ministerio de Defensa Nacional – MDN, luego de la entrada, se reconocerán como gasto del período y en tal forma d eberá efectuarse la salida a control administrativo. 
+
+### 1.2. 3.6
+
+Propiedades, Planta y Equipo en Mantenimiento Representa el valor de las propiedades, planta y equipo retirados del servicio, que requieren actualización o mantenimiento preventivo o correctivo especifico, de los cuales no exista incertidumbre sobre la disponibilidad de los recursos necesarios para adelantar el procedimiento requerido. 
+
+### 1.2. 3.7 .
+
+Propiedades, Planta y Equipo no Explotados Representa el valor de los bienes muebles e inmuebles, que por características o circunstancias especiales no son objeto de uso o explotación en desarrollo de las actividades de la Entidad, así mismo , se consideran bienes no explotados, aquellos bienes sobre los que exista una expectativa de mantenimiento que no se pueda llevar a cabo por recursos in suficientes, no hay a personal técnico capacitado o no se encuentr e n los repuestos para llevar a cabo el mantenimiento o reparación requerida . 
+
+Incluye el conjunto de bienes usados que han sido devueltos a los almacenes de la Unidad. 
+
+### 1.3 CONCEPTOS QUE AFECTAN EL VALOR DE LOS BIENES
+
+#### 1.3.1 Depreciación
+
+La depreciación es la distribución sistemática del valor depreciable de un activo a lo largo de su vida útil en función del consumo de los beneficios económicos futuros o del potencial de servicio. 
+
+El valor depreciable corresponde al valor del activo o de sus componentes menos el valor residual. La depreciación inicia cuando el bien esté disponible para su uso, esto es, cuando se encuentre en la ubicación y en las condiciones necesarias para operar de la forma prevista para lo cual fue adquirido. 
+
+### 1.3. 2
+
+Deterioro El deterioro del valor de un activo es la pérdida parcial estimada de su potencial de servicio, adicional al reconocimiento sistemático realizado a través de la depreciación o amortización. 
+
+### 1.3. 3
+
+Amortización Representa el reconocimiento del consumo de los beneficios económicos futuros o el potencial de servicio que incorpora un activo intangible. 
+
+### 1.3. 4
+
+Adiciones y mejoras Representa las erogaciones en que incurre la entidad para aumentar la vida útil del activo, ampliar su capacidad productiva y eficiencia operativa, mejorar la calidad de los productos y servicios, o reducir significativamente los costos , s e reconocerán como mayor valor del activo y, en consecuencia, afectarán el cálculo futuro de la depreciación. 
+
+### 1.3. 5
+
+Valor residual El valor residual de la propiedad, planta y equipo es el precio de venta de un activo (bienes y servicios) o valor estimado que la entidad podría obtener actualmente por la disposición del elemento después de deducir los costos estimados por tal disposición, si el activo ya hubiera alcanzado la antigüedad y las demás condiciones esperadas al término de su vida Si la entidad considera que, durante la vida útil del activo, se consumen sus beneficios económicos o su potencial de servicio en forma significativa, el valor residual puede ser cero; de lo contrario, la entidad estimará dicho valor. 
+
+### 1.4 RECONOCIMIENTO DE BIENES
+
+#### 1.4.1 De los Inventarios
+
+Se reconocerán como inventarios los activos adquiridos, los que se encuentren en proceso de transformación y los producidos, así como los productos agropecuarios, que se tengan con la intención de: a) venderse a precios de mercado o de no mercado en el cur so normal de la operación; b) distribuirse en forma gratuita en el curso normal de la operación; c) transformarse o consumirse en la producción de bienes que serán vendidos, a precios de mercado o de no mercado, o distribuidos en forma gratuita; o d) consumirse en la prestación de servicios que generarán ingresos de transacciones con contraprestación. 
+
+También se reconocerán como inventarios los materiales que se incluirán como parte del costo de otros activos, de acuerdo con las normas de Propiedades, planta y equipo; Propiedades de inversión; Bienes de uso público; Bienes históricos y culturales; o Act ivos intangibles. Adicionalmente, se reconocerán como inventarios los repuestos que no serán componentes de un elemento de propiedades, planta y equipo; los materiales que se adquieran para consumirse en la prestación gratuita de los servicios de educación ; y las municiones y explosivos. 
+
+### 1.4. 2
+
+De las propiedades, planta y equipo Se reconocerán como propiedades, planta y equipo: a) los activos tangibles empleados por la entidad para la producción o suministro de bienes, para la prestación de servicios o para propósitos administrativos; b) los bienes muebles que se tengan para gener ar ingresos producto de su arrendamiento; c) los bienes inmuebles arrendados por un valor inferior al valor de mercado del arrendamiento; y d) los repuestos que serán componentes de un elemento de propiedades, planta y equipo. Estos activos se caracterizan porque se prevé usarlos durante más de 12 meses y no se espera venderlos ni distribuirlos en forma gratuita, en el curso normal de la operación. 
+
+Los terrenos sobre los que se construyan las propiedades, planta y equipo se reconocerán por separado. 
+
+Los bienes históricos y culturales, que cumplan con la definición de propiedades, planta y equipo, se reconocerán como tal; en caso contrario, se aplicará lo establecido en la Norma de bienes históricos y culturales. 
+
+Las adiciones y mejoras efectuadas a una propiedad, planta y equipo se reconocerán como mayor valor de esta y, en consecuencia, afectarán el cálculo futuro de la depreciación. Las adiciones y mejoras son erogaciones en que incurre la entidad para aumentar la vida útil del activo, ampliar su capacidad productiva o eficiencia operativa, mejorar la calidad de los productos o servicios, o reducir significativamente los costos. 
+
+Por su parte, las reparaciones de las propiedades, planta y equipo se reconocerán como gasto en el resultado del periodo. Las reparaciones son erogaciones en que incurre la entidad con el fin de recuperar la capacidad normal de uso del activo, sin mejorar su capacidad productiva o eficiencia operativa. 
+
+El mantenimiento de las propiedades, planta y equipo se reconocerá como gasto en el resultado del periodo, salvo que deba incluirse como parte del costo de otros activos de acuerdo con la Norma de inventarios. El mantenimiento corresponde a erogaciones en que incurre la entidad con el fin de conservar la capacidad normal de uso del activo. 
+
+#### 1.4.3 Intangibles
+
+Se reconocerán como activos intangibles los recursos identificables, de carácter no monetario y sin apariencia física, sobre los cuales la entidad tiene el control, espera obtener beneficios económicos futuros o potencial de servicio, y puede realizar mediciones fiables. Estos activos se caracteriza n porque se prevé usarlos durante más de 12 meses y no se espera venderlos ni distribuirlos en forma gratuita, en el curso normal de la operación. 
+
+Un activo intangible es identificable cuando es susceptible de separarse de la entidad y, en consecuencia, venderse, transferirse, entregarse en explotación, arrendarse o intercambiarse, ya sea individualmente o junto con otros activos identificables o pas ivos con los que guarde relación, independientemente de que la entidad tenga o no la intención de llevar a cabo la separación. Un activo intangible también es identificable cuando surge de acuerdos vinculantes incluyendo derechos contractuales u otros dere chos legales. 
+
+La entidad controla un activo intangible cuando puede obtener los beneficios económicos futuros o el potencial de servicio de los recursos derivados de este y puede restringir el acceso de terceras personas a tales beneficios o a dicho potencial de servici o. Un activo intangible produce beneficios económicos futuros o potencial de servicio cuando a) puede generar ingresos procedentes de la venta de bienes o servicios en los cuales se usa el activo intangible, b) puede generar rendimientos diferentes de los derivados del uso del activo por parte de la entidad, c) le permite a la entidad disminuir sus costos o gastos, o d) le permite a la entidad mejorar la prestación de los servicios. 
+
+La medición de un activo intangible es fiable cuando existe evidencia de transacciones para el activo u otros similares, o cuando la estimación del valor depende de variables que se pueden medir en términos monetarios. 
+
+Cuando un activo esté conformado por elementos tangibles e intangibles, la entidad determinará cuál de los dos elementos tiene un peso más significativo con respecto al valor total del activo, con el fin de tratarlo como propiedades, planta y equipo o como activo intangible, según corresponda. 
+
+Las adiciones y mejoras efectuadas a un activo intangible se reconocerán como mayor valor de este y, en consecuencia, afectarán el cálculo futuro de la amortización. Las adiciones y mejoras son erogaciones en que incurre la entidad para aumentar la vida út il del activo, ampliar su capacidad productiva y eficiencia operativa, mejorar la calidad de los productos y servicios, o reducir significativamente los costos. 
+
+##### 1.4.3.1 Activos intangibles adquiridos
+
+El costo de un activo intangible que se adquiere en forma separada estará conformado por el precio de adquisición, los aranceles de importación e impuestos no recuperables que recaigan sobre la adquisición y cualquier costo directamente atribuible a la pre paración del activo para su uso previsto. Cualquier descuento o rebaja del precio se reconocerá como un menor valor del activo intangible y afectará la base de amortización. 
+
+Cuando se adquiera un activo intangible en una transacción sin contraprestación, la entidad medirá el activo adquirido de acuerdo con la Norma de Ingresos de Transacciones sin Contraprestación. 
+
+En todo caso, al valor determinado, se le adicionará cualquier desembolso que sea directamente atribuible a la preparación del activo para el uso previsto. 
+
+Los activos intangibles adquiridos mediante permuta se medirán por su valor de mercado; a falta de este, por el valor de mercado de los activos entregados y en ausencia de ambos, por el valor en libros de los activos entregados. En todo caso, al valor determinado, se le adicionará cualquier desembolso que sea directamente atribuible a la preparación del activo para el uso previsto. 
+
+##### 1.4.3.2 Activos intangibles generados internamente
+
+Los desembolsos que se realicen en la fase de investigación se separarán de aquellos que se realicen en la fase de desarrollo. Los primeros se reconocerán como gastos en el resultado del periodo en el momento en que se produzcan y los segundos formarán parte d e los componentes del costo de los activos intangibles desarrollados internamente siempre y cuando cumplan con los criterios de reconocimiento para la fase de desarrollo. 
+
+Si no es posible separar los desembolsos en las fases de investigación y desarrollo, estos se tratarán como si se hubieran realizado en la fase de investigación . 
+
+El costo de un activo intangible que surja en la fase de desarrollo estará conformado por todos los desembolsos realizados que sean directamente atribuibles y necesarios en la creación, producción y preparación del activo para que pueda operar de la forma prevista por la administración de la entidad. 
+
+Estos desembolsos comprenderán, entre otros los siguientes: costos de materiales y servicios utilizados o consumidos en la generación del activo intangible, los costos de beneficios a los empleados relacionados con la generación del activo intangible, honorarios para registrar los derechos legales, y amortización de patentes y licencias que se utilizan para generar activos intangibles. 
+
+No formarán parte del costo de los activos intangibles generados internamente, los gastos administrativos de venta u otros gastos indirectos de carácter general no atribuibles a la preparación del activo para su uso; las cantidades que excedan los rangos n ormales de consumo de materiales, mano de obra u otros factores empleados; las pérdidas operativas; ni los desembolsos para formación del personal que trabaje con el activo. Los desembolsos sobre un activo intangible reconocidos inicialmente como gastos en el resultado no se reconocerán posteriormente como parte del costo de un activo intangible. 
+
+### 1.4. 4 . Bienes Históricos y culturales
+
+Se reconocerán como bienes históricos y culturales los bienes tangibles controlados por la entidad, a los que se les atribuye, entre otros, valores colectivos, históricos, estéticos y simbólicos, y que, por tanto, la colectividad los reconoce como parte de su memoria e identidad. 
+
+Dichos activos presentan, entre otras, las siguientes características: Es poco probable que su valor en términos históricos y culturales quede perfectamente reflejado en un valor financiero basado puramente en un precio de mercado; Las obligaciones legales o reglamentarias imponen prohibiciones o restricciones severas para su disposición por venta; Son a menudo irreemplazables y su valor puede incrementarse con el tiempo, incluso si sus condiciones físicas se deterioran; y Se espera que tengan una vida útil larga, generalmente indefinida, debido a su creciente valor colectivo, histórico, estético y simbólico. 
+
+Para que un bien pueda ser reconocido como histórico y cultural, debe existir el acto administrativo que lo declare como tal y su medición monetaria debe ser fiable. No obstante, aquellos bienes que habiendo sido declarados como históricos y culturales, cu mplan con las condiciones para ser clasificados como propiedades, planta y equipo, propiedades de inversión o bienes de uso público se reconocerán en estas clasificaciones de activos y se les aplicará la norma que corresponda. 
+
+Son ejemplos de bienes históricos y culturales, los monumentos históricos, los lugares arqueológicos y las obras de arte. 
+
+Los bienes históricos y culturales se reconocerán de manera individual, no obstante, cuando sea impracticable la individualización, se podrán agrupar con otros bienes de características similares. 
+
+Las restauraciones periódicas de un bien histórico y cultural se reconocerán como mayor valor de este. Por su parte, el mantenimiento y la conservación de los bienes históricos y culturales se reconocerán como gasto en el resultado del periodo. 
+
+#### 1.4.5 Sistema de Inventario
+
+El sistema de inventarios en el Ministerio de Defensa es permanente. 
+
+#### 1.4.6 Método Valuación de Inventario
+
+En el Ministerio de Defensa los bienes catalogados en la Grupo 15 Inventarios, se valuarán por el Método de Promedio Ponderado 
+
+#### 1.4.7 Sistema de
+
+identificación Es el código numérico o alfanumérico asignado a cada bien de uso devolutivo, que lo identifica para todos los eventos, utilizando para ello el sistema de código de barras implementado por el Ministerio de Defensa Nacional. 
+
+Todos los bienes devolutivos del Ministerio de Defensa se identifican de forma individual con la colocación de una placa de inventario autoadhesiva. 
+
+### 1.5 MEDICIÓN INICIAL
+
+#### 1.5.1 Inventarios
+
+Los inventarios se medirán por el costo de adquisición o transformación. 
+
+Costo de adquisición : incluirá el precio de compra, los aranceles y otros impuestos no recuperables, el transporte y otras erogaciones necesarias para colocar los inventarios en condiciones de uso o distribución gratuita. Cuando se adquiera un inventario en una transacción si n contraprestación, la entidad medirá el activo adquirido de acuerdo con la Norma de ingresos de transacciones sin contraprestación. 
+
+En todo caso, al valor determinado se le adicionará cualquier desembolso que sea directamente atribuibl e a la preparación del activo para el uso, venta o distribución gratuita. 
+
+Costo de transformación : Estarán conformados por las erogaciones y cargos directos e indirectos relacionados con a) la producción de bienes con la intención de venderlos, a precios de mercado o de no mercado, o distribuirlos en forma gratuita en el curso normal de la operación y b) la prestación de servicios que generarán ingresos de transacciones con contraprestación. 
+
+Producción de bienes : El costo de transformación de los bienes estará determinado por el valor de los inventarios utilizados y de los cargos asociados con la transformación de las materias primas en productos terminados. También harán parte del costo, el mantenimiento, las depreciaciones y amortizaciones de activos directamente relacionados con la elaboración de bienes. 
+
+Prestación de servicios : Se medirán por las erogaciones y cargos de la mano de obra, materiales y costos indirectos en los que haya incurrido y que estén Estarán conformados por las erogaciones y cargos directos e indirectos relacionados con la producción de bienes y la prestaci ón de este. La mano de obra y los demás costos relacionados con las ventas y con el personal de administración general no se incluirán en el costo del servicio, sino que se contabilizarán como gasto en el resultado del periodo en el que se haya incurrido en ellos. 
+
+#### 1.5.2 Propiedades Planta y equipo
+
+Las propiedades, planta y equipo se medirán por el costo, el cual comprende, entre otros, lo siguiente: • El precio de adquisición; los aranceles de importación y los impuestos indirectos no recuperables que recaigan sobre la adquisición; • Los costos de beneficios a los empleados que procedan directamente de la construcción o adquisición de un elemento de propiedades, planta y equipo; • Los costos de preparación del lugar para su ubicación física; • Los costos de entrega inicial y los de manipulación o transporte posterior; • Los costos de instalación y montaje; • Los costos de comprobación del adecuado funcionamiento del activo originados después de deducir el valor neto de la venta de los elementos producidos durante el proceso de instalación y puesta a punto del activo (por ejemplo, las muestras producidas mientr as se prueba el equipo); • Los honorarios profesionales; • Todos los costos directamente atribuibles a la ubicación del activo en el lugar y en las condiciones necesarias para que pueda operar de la forma prevista. 
+
+• Cualquier descuento o rebaja del precio se reconocerá como un menor valor de las propiedades, planta y equipo, y afectará la base de depreciación. 
+
+• En todo caso, no se reconocerán como parte del elemento, los siguientes conceptos: los costos de puesta en marcha (a menos que sean necesarios para poner la propiedad en las condiciones necesarias para que opere de la manera prevista por la administración de la entidad); las pérdidas de operación en las que se incurra antes de que la propiedad, planta y equipo logre el nivel planeado de ocupación; ni las cantidades anormales de desperdicios, de mano de obra o de otros recursos en los que se incurra para la construcción de la propiedad. 
+
+• Los costos por desmantelamiento, retiro o rehabilitación del lugar sobre el que se asiente el elemento de propiedades, planta y equipo se reconocerán como un mayor valor de las propiedades, planta y equipo y se medirán por el valor presente de los costos e stimados en los que incurrirá la entidad para llevar a cabo el desmantelamiento y retiro del elemento al final de su vida útil, o la rehabilitación del lugar. Esto, cuando dichos costos constituyan obligaciones en las que incurra la entidad como consecuencia de adquirir o utilizar el activo durante un determinado periodo. 
+
+• Cuando se adquiera una propiedad, planta y equipo en una transacción sin contraprestación, se medirá el activo adquirido por el valor de mercado del activo recibido y, en ausencia de este, por el costo de reposición. 
+
+En todo caso, al valor determinado, se le adicionará cualquier desembolso que sea directamente atribuible a la preparación del activo para el uso previsto. 
+
+• Las propiedades, planta y equipo que se reciban en permuta se medirán por su valor de mercado. A falta de este, se medirán por el valor de mercado de los activos entregados y, en ausencia de ambos, por el valor en libros de los activos entregados. 
+
+En todo caso, al valor determinado se le adicionará cualquier desembolso que sea directamente atribuible a la preparación del activo para el uso previsto. 
+
+#### 1.5.3 Intangibles
+
+Los activos intangibles se medirán al costo, el cual dependerá de la forma en que se obtenga el intangible. 
+
+##### 1.5.3.1 Activos intangibles adquiridos
+
+El costo de un activo intangible que se adquiere en forma separada estará conformado por el precio de adquisición, los aranceles de importación e impuestos no recuperables que recaigan sobre la adquisición y cualquier costo directamente atribuible a la preparación del activo para su uso previsto. Cualquier descuento o rebaja del precio se reconocerá como un menor valor del activo intangible y afectará la base de amortización. 
+
+Cuando se adquiera un activo intangible en una transacción sin contraprestación, la entidad medirá el activo adquirido de acuerdo con la Norma de Ingresos de Transacciones sin Contraprestación. 
+
+En todo caso, al valor determinado, se le adicionará cualquier desembolso que sea directamente atribuible a la preparación del activo para el uso previsto. 
+
+Los activos intangibles adquiridos mediante permuta se medirán por su valor de mercado; a falta de este, por el valor de mercado de los activos entregados y en ausencia de ambos, por el valor en libros de los activos entregados. En todo caso, al valor dete rminado, se le adicionará cualquier desembolso que sea directamente atribuible a la preparación del activo para el uso previsto. 
+
+##### 1.5.3.2 Activos intangibles generados internamente
+
+Los desembolsos que se realicen en la fase de investigación se separarán de aquellos que se realicen en la fase de desarrollo. Los primeros se reconocerán como gastos en el resultado del periodo en el momento en que se produzcan y los segundos formarán par te de los componentes del costo de los activos intangibles desarrollados internamente siempre y cuando cumplan con los criterios de reconocimiento para la fase de desarrollo. 
+
+Si no es posible separar los desembolsos en las fases de investigación y desarrol lo, estos se tratarán como si se hubieran realizado en la fase de investigación. 
+
+El costo de un activo intangible que surja en la fase de desarrollo estará conformado por todos los desembolsos realizados que sean directamente atribuibles y necesarios en la creación, producción y preparación del activo para que pueda operar de la forma prevista por la administración de la entidad. 
+
+Estos desembolsos comprenderán, entre otros los siguientes: costos de materiales y servicios utilizados o consumidos en la generación del activo intangible, los costos de beneficios a los empleados relaci onados con la generación del activo intangible, honorarios para registrar los derechos legales, y amortización de patentes y licencias que se utilizan para generar activos intangibles. 
+
+No formarán parte del costo de los activos intangibles generados internamente, los gastos administrativos de venta u otros gastos indirectos de carácter general no atribuibles a la preparación del activo para su uso; las cantidades que excedan los rangos n ormales de consumo de materiales, mano de obra u otros factores empleados; las pérdidas operativas; ni los desembolsos para formación del personal que trabaje con el activo. Los desembolsos sobre un activo intangible reconocidos inicialmente como gastos en el resultado no se reconocerán posteriormente como parte del costo de un activo intangible. 
+
+#### 1.5.4 Bienes
+
+históricos y culturales Los bienes históricos y culturales se medirán por el costo. 
+
+Cuando se adquiera un bien histórico y cultural en una transacción sin contraprestación, la entidad medirá el activo adquirido de acuerdo con la Norma de Ingresos de Transacciones sin Contraprestación. En todo caso, al valor determinado, se le adicionará c ualquier desembolso que sea directamente atribuible a la preparación del activo para el uso previsto. 
+
+### 1.6 ESTADO DIARIO DE ALMAC É N
+
+Es el informe mediante el cual se reflejan los movimientos diarios de entradas y salida de bienes, por grupo de elementos, de acuerdo con la desagregación contable; documento que se constituye en el único soporte para confrontar las cifras de los estados contables de los almacenes, así como la propiedad, planta y equipo , inventarios, intangibles en servicio. 
+
+Este informe será responsabilidad del almacenista o encargado del almacén respectivo . 
+
+Para el caso de combustible de aviación, el estado de almacén se efectuará en forma diaria y la información se consolidará y enviará de forma mensual. 
+
+Las Unidades Ejecutoras podrán de manera excepcional establecer una periodicidad diferente (semanal, mensual, etc.), de acuerdo con los movimientos y organización propia de cada almacén, la cual será establecida mediante acto administrativo por el Ordenador del G asto o quien haga sus veces , por delegación o en cumplimiento de sus funciones, Comandante de la Unidad C entralizada A dministrativamente que tenga a cargo el control de bienes en la Unidad Ejecutora, en la Fuerza o Dirección del Ministerio de Defensa Nacional , en el que se establezcan mecanismos de control y seguimiento sobre el recurso . 
+
+### 1.7 ESTADO CONSOLIDADO DE ALMACÉN
+
+Es el informe mediante el cual se reflejan los movimientos consolidados de entradas y salida de bienes, por grupo de elementos, de acuerdo con la desagregación contable; documento que se constituye en el único soporte para confrontar las cifras de los esta dos contables de los almacenes, así como la propiedad, planta y equipo, inventarios, intangibles en servicio. Este soporte de la gestión s erá responsabilidad del almacenista o encargado del almacén respectivo. 
+
+### 1.8 INFORME DE BIENES EN SERVICIO
+
+Se entenderá por informe de Bienes en servicio a la relación ordenada, completa y detallada de todos los activos que se encuentran a disposición de los funcionarios y hacen parte del patrimonio de la Unidad. El cual se constituye en una herramienta para la elaboración del Plan Anual de Adquisiciones. 
+
+La verificación, cuantificación, clasificación, valoración, control y análisis del estado de los bienes, será el producto del control permanente de los mismos, con el propósito de conocer de manera real sus existencias y evitar errores de identificación, p érdidas, deterioro, merma, inmovilización o desperdicio. 
+
+Adicionalmente, a través del conteo físico y la comparación, se mantendrá actualizado el informe, lo cual se realizará por lo menos una vez por año, al cierre de la vigencia fiscal. 
+
+El Informe de bienes en servicio deberá contener como mínimo el Nombre de la Unidad, código contable, periodo de corte, saldo inicial, movimientos, saldo final, nombre y firma del almacenista y del responsable de bienes en servicio. 
+
+### 1.9 INFORME DE BIENES CON CONTROL ADMINISTRATIVO
+
+Se entenderá por informe de Bienes con control administrativa la relación ordenada, completa y detallada de todos los activos de cuantía inferior a 50 UVT de la vigencia en que se adquieran. El cual se constituye en una herramienta imprescindible para el control de estos . 
+
+# CAPÍTULO II
+
+ALMACEN 
+
+### 2.1 CONCEPTO
+
+Es la estructura administrativa encargada de orientar y ejecutar las funciones de recibo, almacenamiento, control, custodia , distribución, bajas y suministro de bienes; de acuerdo con las políticas definidas para el manejo de los recursos de las Unidades Ejecutoras del Ministerio de Defensa Nacional. 
+
+E l almacén virtual, se concibe como un almacén sin estructura física a través del cual se controlan bienes derivados de procesos de adquisición centralizados, generando operaciones de enlace entre las entradas físicas y la ejecución presupuestal de gasto, a través del control de la distribución de los bienes en la Unidad Ejecutora. 
+
+Se crea mediante acto administrativo expedido por el ordenador de gasto. 
+
+Así mismo, en las Unidades donde exista almacén virtual y almacén físico deberán crear centro s de forma independiente para identificar los movimientos por separado . 
+
+Nota 1: e l almacén es la instancia administrativa a través de la cual se formaliza el recibo de bienes de consumo como de devolutivos materializado en la entrada de almacén. 
+
+### 2.2 TIPOS DE ALMACENES
+
+Los almacenes están definidos de acuerdo con la especialidad y complejidad de cada una de las Unidades así: • General • Intendenci a • Farmacia y Equipo médico • Marítimo y Fluvial • Semovientes, remonta y veterinari a • Economat o • Telemática • Vehículos • Aeronáuticos • Material de Guerra • Ingenieros • Combustibles, grasas y lubricantes • Materia prima • Producto terminado • Incautados *Cuando de acuerdo con la estructura de la Unidad no se manejen especialidades 
+
+### 2.2. 1 Almacenes
+
+– Sistema de Información Logístico - SILOG E n el S istema de I nformación Logístic o - SILOG cada tipo de almacén estará compuesto por varias clases de almacén, así: Parágrafo 1: a partir la fecha se crearán en el S istema de I nformación L ogístico, - SILOG únicamente los tipos y clases de almacén que se encuentran establecidos TIPO DE ALMACÉN CLASE DE ALMACÉN TIPO DE ALMACÉN CLASE DE ALMACÉN General Alm Aeronáutico Donación Alm Respuestos Cooperación Internacional Alm Equipo FARE Colombia Humana Alm Herramientas Alm Muebles Enseres Alm Reparables Alm de Bajas Alm Black Hawk Alm Virtual Out Alm Grasas Aviones Alm Misceláneos Alm Armamento Alm Intendencia Alm Optrónicos Alm Vestuario Alm Municiones Alm Vest Rops Alm Artillería Alm Torpedos Alm Cirugías Alm Urgencias Alm Ingenieros S* sanidad todas las fuerzas Alm Explosivos Alm Puentes Alm Herramientas Alm Pozos Alm Repuestos Alm Reparables Alm Combustibles Alm Ciudades Alm Bombas Alm Comb prest y reinte Alm Economato Alm Víveres Alm Comunicaciones Alm Radares Alm Transportes Alm Incautados Alm Respuestos Alm Evidencias Alm Blindados Alm Armas decomisadas Alm Herramientas Alm Movilidad Alm Vehículos Incautados CA General 1 Intendencia 2 Farmacia y Equipo Medico 3 Marítimo y Fluvial 4 Semovientes, remonta y veterinaria Ingenieros 17 Combustibles, grasas y Lubricantes 21 Telemática 7 Semovientes, remonta y veterinaria 5 Material de Guerra 11 Aeronáutico 9 Materia Prima 42 Alm WM Materia P Producto Terminado 47 Alm WM Producto T Vehículos 8 Economato 6 dentro del Manual de Procedimientos Administrativos y Financieros para el m anejo de bie nes del Ministerio de Defensa Nacional. 
+
+Parágrafo 2: a sí mismo, dada la dinámica operativa de los procesos de adquisición centralizados, se emplea la figura de almacén virtual, como un almacén sin estructura física a través del cual se controlan bienes derivados de procesos de adquisición centralizados, generando operaciones de enlace entre las entradas físicas y la ejecución presupuestal de gasto, a través del control de la distribuc ión de los bienes en la Unidad Ejecutora. 
+
+Teniendo en cuenta que la finalidad de los almacenes virtuales es la integración logística y financiera de procesos de compras centralizadas, deben estar autorizado s mediante acto administrativo por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, autorizar , bajo cuya responsabilidad se adelanta n esos procesos contractuales, en el cual se determinen los controles y términos de utilización de los mismos. 
+
+### 2.3 CREACI Ó N Y
+
+ORGANIZACIÓN DEL ALMACEN Con excepción de los almacenes virtuales, c orresponde al Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , la creación u organización del almacén, de conformidad con las normas sobre almacenamiento de materiales, y las órdenes técnicas aplicables, como manuales, disposiciones, directivas e instrucciones específicas impartidas al interior de la Unidad Ejecutora. 
+
+#### 2.3.1 Áreas de almacenamiento
+
+La utilización del espacio para el almacenamiento debe planearse y adecuarse de acuerdo con las características y cantidades de materiales que se manejen. Estas áreas deben estar separadas de los sitios ocupados por las otras dependencias. 
+
+Para la ubicación y acondicionamiento de los almacenes deben considerarse factores como: • Elegir construcciones a prueba de incendio, con piso en concreto o baldosín, de tal suerte que facilite la acción de los bomberos. 
+
+• Ventilación suficiente para librarse del polvo y vapores solventes nocivos, como también facilidades de acceso. 
+
+• Espacios y distribución adecuada para la colocación de los equipos contra incendio y extintores de mano. 
+
+• Las instalaciones de tomacorriente y enchufes, al igual que la iluminación deben ser apropiadas, de tal manera que faciliten la manipulación de equipos eléctricos. 
+
+• El equipo para las operaciones de conservación y manipulación de bienes en los almacenes debe estar de acuerdo con la cantidad y tipo de bienes que lo necesiten . 
+
+• Selección de un espacio apropiado para el tratamiento de materiales que necesiten cuidados especiales. 
+
+• Los bienes se almacenarán de acuerdo con su naturaleza , clase y tipo de material, con el fin de evitar el deterioro y la contaminación. Se deben ubicar los elementos pesados en la parte inferior de los estantes o estibas y los de menor peso y uso en la parte superior. 
+
+#### 2.3.2 Almacenamiento de materiales
+
+El almacenamiento, manejo y distribución de los bienes en el almacén, al igual que la aplicación de las normas de seguridad para su conservación, es responsabilidad del almacenista. 
+
+Para el almacenamiento de bienes el almacenista debe considerar los siguientes aspectos; siendo este responsable de su correcta aplicación, así: • Brindar protección contra efectos deteriorantes de tiempo, calor, luz, humedad, insectos y roedores. 
+
+• Distribuir adecuada y suficientemente el espacio en los estantes, piso, estiba, isla y/o sitio de almacenamiento, considerando que no se deben almacenar en el mismo estante materiales y/o bienes que por condiciones técnicas, químicas, etc., no deban estar en contacto; no quiere decir ello que no se pueda almacenar diferente clase de bienes dentro de un mismo almacén o área, lo que se debe evitar es que unos no o casionen daño o deterioro a los otros; por lo tanto debe haber una adecuada clasificación que determine su ubicación. 
+
+• Espacio suficiente y adecuado en los estantes, piso, estiba, isla, bahía y sitios para colocar toda clase de material. 
+
+• La ubicación de los bienes debe permitir la toma física de bienes sin dificultad y facilitar sus movimientos e inspección, teniendo en cuenta la rotación de los bienes . 
+
+• El retiro de bienes de los estantes para entrega debe llevarse a cabo con un mínimo de manipulación. 
+
+• Optimizar el espacio, brindando un almacenamiento eficiente y económico. 
+
+• La colocación de bienes no debe interferir con el sistema de extinción de incendios, ni con el libre tránsito por corredores internos y puertas. 
+
+• Los bienes almacenados con fecha de vencimiento deben ser suministrados teniendo en cuenta la fecha más reciente a vencerse . 
+
+• No debe apilarse el material en cajas, sino hasta un máximo de carga permitido a fin de evitar el daño de los que se hallan como base del arrume, y sobre piso (debe usarse avisos que indiquen el peso permitido). 
+
+• Cada clase de bienes debe estar identificada con su respectiva tarjeta de identificación, la cual debe contener como mínimo la siguiente información: o Nombre del bien o Codificación grupo de bien o Unidad de medida (caja, paquete, kilo, etc.) o Cantidad o Ubicación en el almacén o Cantidad máxima, mínima y de urgencia establecida (stock) • Materiales voluminosos y pesados deben colocarse sobre estibas, facilitando así su manejo con montacargas. 
+
+• Los materiales almacenados al descubierto deben colocarse cuidadosamente sobre estibas, como si estuviesen bajo techo, respetando su altura y carga máxima permitida para su bodegaje. 
+
+• En el almacenamiento al descubierto (sin techo), se usará lona, plástico u otra clase de cubierta, para proteger los materiales y equipos, tomándose medidas apropiadas para evitar su deterioro. 
+
+• Todos los materiales almacenados al descubierto requieren inspección y atención frecuente para garantizar la preservación, evitando así que se presenten daños por la falta de prevención por parte del almacenista, siendo esta su responsabilidad. 
+
+• En temporadas de lluvias intensas, huracanes y cambios bruscos de clima, deberán inspeccionarse las áreas de almacenamiento para comprobar si hay cubiertas rotas o desplazadas, acumulaciones de agua, arena en los equipos, o si se ha perdido la acción de lo s anticorrosivos de las superficies metálicas. 
+
+• Los equipos retirados del servicio por inservibles, irreparables u obsoletos, deberán ser ubicados por separado en el almacén al cual pertenecen, identificándolos como obsoletos y efectuar las gestiones necesarias para realizar el proceso de baja y disposición final . 
+
+• Los bienes tóxicos y/o radiactivos deben almacenarse por aparte con las medidas de seguridad adecuadas, a fin de evitar la contaminación de otros materiales, al igual, el almacén debe contar con ventilación adecuada, que evite la concentración de gases. 
+
+• No deben almacenarse por largos períodos de tiempo bienes inservibles, que por su desgaste, deterioro u obsolescencia no sirvan para el servicio al cual fueron asignados y que tampoco son susceptibles de readaptación o reparación. 
+
+Debe almacenarse estricta mente lo necesario , por lo que los servidores públicos competentes deberán adoptar las medidas para establecer su disposición final . 
+
+• Las municiones y explosivos deben ser almacenados en polvorines, en zonas alejadas a sitios residenciales y áreas de trabajo • L os bienes devolutivos deben permanecer el menor tiempo posible almacenados, en caso de persistir esta situación, se debe realizar las gestiones del caso para su puesta al servicio o transferencia a otra Unidad, de tal forma que se evite su deterioro u obsolescencia. 
+
+• Para el almacenamiento de llantas se debe considerar que no se pueden apilar y no deben estar en una ubicación estática por más de 20 días, por lo cual se deben estar rotando, además es necesario que sean utilizadas antes de los 
+
+## 1 80
+
+días de almacenamiento, para ello se debe adquirir la estantería adecuada para tal fin. 
+
+#### 2.3.3 Estantes
+
+Corresponde al almacenista identificar los estantes mediante un sistema de ubicación demarcada alfanuméricamente, con el fin de dar una rápida localización al bien requerido, la cual debe estar registrada en la tarjeta de identificación y el S istema de I nformación Logístico - SILOG para el manejo de bienes. 
+
+• Los estantes deben colocarse mínimo a un metro de las paredes y entre ellos, con el fin de brindar una completa utilización de estos , permitiendo una rápida y fácil toma física de bienes . 
+
+• La distancia entre estantes colocados de frente debe tener el espacio adecuado. Teniendo en cuenta los medios de manipulación, con el fin de ofrecer suficiente espacio para el tránsito entre ellos. 
+
+• Los estantes de madera requieren mínimo de dos inspecciones anuales para verificar su estado de conservación y daños causados por plagas de la madera. 
+
+Se practicará mínimo dos veces al año, mantenimiento preventivo, basado en fumigación o inmunización d e estos. 
+
+• En los almacenes ubicados en mezanines deben usarse estantes livianos para el almacenaje de materiales o bienes de la misma condición, a fin de evitar el sobrepeso y consecuentes daños en material y vidas humanas. 
+
+• Los pasillos ubicados debajo de los mezanines y formados entre estantes deben estar iluminados y debidamente identificados, facilitando la recepción y despacho de los materiales. 
+
+• La distancia entre estanterías debe permitir el paso de maquinaria en caso de ser necesario. 
+
+### 2.4 FUNCIONES DEL ALMACENISTA
+
+Las autoridades administrativas deben procurar que en las funciones de los almacenistas se consideren por lo menos las siguientes: 
+
+#### 2.4.1 Generales
+
+• Responder por los bienes del almacén. 
+
+• Efectuar oportunamente el registro de todas las operaciones en el Sistema de I nformación L ogístico - SILOG y mantenerlo actualizado. 
+
+• Verificar y recibir los bienes que entrega el proveedor a través del supervisor con los documentos soporte, los cuales deben ajustarse a las especificaciones que estipule el contrato como cantidad, calidad, marca y unidad de medida, para lo cual debe haber recibido con anterioridad la copia del contrato, constatando el estado físico, sin perjuicio de la recepción de materiales y verificación las condiciones de calidad que deben efectuarse por parte de las áreas técnicas en coordinación con el (los) supervisor(es) de contrato. 
+
+• Verificar que los elementos adquiridos son entregados en su totalidad por parte del proveedor en el a lmacén o en el lugar que estipule el contrato. 
+
+previa validación del contenido del informe de recibo a satisfacción emitido por el supervisor del contrato cuando aplique. 
+
+• V erificar que se cuente con toda la documentación que soporta la entrada del bien, entre estos las pólizas y certificado de garantías por parte de los proveedores. 
+
+• Verificar que los bienes recibidos por transferencia correspondan con la salida de almacén y soporte correspondiente de quien entrega. 
+
+• Responder por la conservación y seguridad del material que se encuentre en depósito . 
+
+• Velar por la correcta organización y clasificación de los bienes en el almacén, de tal forma que permita y facilite la movilización de estos . 
+
+La ubicación física debe coincidir con lo especificado en Sistema de Información Logístico - SILOG para el manejo de bienes. 
+
+• Revisar bimensualmente que los equipos de seguridad (incendio, amarres de estantes, estibas, etc.) se mantengan en condiciones óptimas y su ubicación permita la utilización inmediata. 
+
+• Reportar al j efe inmediato, las novedades referentes a pérdidas, faltantes, sobrantes, robo o hurto . 
+
+• Reportar al jefe inmediato, en forma periódica los reintegros de bienes y el estado en que fueron devueltos al almacén. 
+
+• Llevar correctamente el archivo de correspondencia y documentos soporte del movimiento de la dependencia . 
+
+• Realizar el conteo físico de los bienes en bodega, elaborando el informe respectivo ; su periodicidad será establecida por la Unidad Ejecutora MDN , de acuerdo con el grado de complejidad y las necesidades de control de sus almacenes, garantizando la aplicación de la norma de control interno contable regulada por la Resolución CGN No. 193 de fecha 05 de mayo de 2016. 
+
+Este informe puede efectuarse de forma digital cumpliendo con los requisitos de autenticidad, fiabilidad, integridad y disponibilidad establecidos en las Le yes de 1999, de 2000, de 2011, la directiva presidencial 04/2012 y las normas que las regulen o modifiquen. 
+
+• Efectuar las entregas y cambios de material, cumpliendo con las normas establecidas . 
+
+• Elaborar y firmar los comprobantes de entrada, salida y actas sobre el movimiento de los bienes. 
+
+• Elaborar y rendir el e stado d iario de almacén, de acuerdo con los formatos establecidos. 
+
+• Elaborar y rendir el e stado de almacén consolidado del mes, de acuerdo con los formatos establecidos y efectuar la conciliación con el área de contabilidad. 
+
+• Llevar el control de los bienes que están en el almacén y en servicio, mediante el Sistema de Información Logístico - SILOG para el manejo de bienes. 
+
+• Elaborar pruebas selectivas de los bienes en bodega con una frecuencia ( mensual) , dejando constancia por medio de un acta, donde se especificarán las diferencias encontradas. Este informe / acta puede efectuarse de forma digital cumpliendo con los requisitos de autenticidad, fiabilidad, integridad y disponibilidad establecidos en las Leyes de 1999, 
+
+## 594 de 2000,
+
+de 2011, la directiva presidencial 04/2012 y las normas que las regulen o modifiquen. 
+
+• Llevar el control y hacer seguimiento de los bienes enviados hasta el recibo del almacenista de la unidad receptora. 
+
+• Verificar permanentemente los bienes registrados en la cuenta 1637XX Propiedades, planta y equipo no explotados, con el fin de recomendar reasignarlos al servicio o trasladarlos a otra Unidad, de tal forma que se evite su deterioro u obsolescencia , o de acuerdo con su estado, gestionar la baja de los bienes con los documentos soporte. 
+
+• Evaluar los bienes muebles a dar de baja. 
+
+• Establecer la periodicidad para dar de baja los bienes inservibles de la Unidad . 
+
+• Realizar inspección de los bienes a dar de baja , y verificar los conceptos técnicos emitidos para dar la baja de los bienes . 
+
+• Suministrar el informe de los bienes para la suscripción del contrato de la póliza de seguros. 
+
+• Suministrar el informe de los activos fijos mensualmente al j efe de s ervicios o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , para realizar la verificación de l a vida útil de la propiedad planta y equipo, con la parte técnica para mitigar el riesgo de que existan bienes con valor contable cero. 
+
+• Suministrar el informe de los activos fijos mensualmente al Jefe Finca Raíz o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , para la verificación de todos los inmuebles para que realice sus respectivas conciliaciones. 
+
+El almacenista con el fin de garantizar el adecuado funcionamiento administrativo y operativo de la unidad podrá en casos excepcionales y al cierre de vigencia anual , y debidamente autorizado por el O rdenador del G a sto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, C omandante de la U nidad C entralizada administrativamente que tenga a cargo el control de bienes , entregar bienes del almacén mediante vales provisionales. 
+
+U na vez se reestablezca n las condiciones que dieron o rig e n a la contingencia se debe registrar inmediatamente la salida de almacén con su firma respectiva y dejando el soporte firmado. 
+
+Igualmente, el almacenista no podrá hacer firmar la salida de almacén por el destinatario, mientras no entregue los bienes. 
+
+El almacenista no puede variar el destinatario ni el lugar de destino en la salida de almacén, ni cambiar o reemplazar bienes por otros, aunque sean similares o tengan el mismo valor. 
+
+Nota 2: El almacenista debe recibir, almacenar, clasificar, distribuir y realizar las demás actividades propias de sus funciones, de acuerdo con los bienes correspondientes a la especialidad del Almacén. 
+
+#### 2.4.2 Específicas
+
+Las autoridades administrativas deben procurar que en las funciones específicas de los almacenistas se consideren por lo menos las siguientes: 
+
+##### 2.4.2.1 Ecónomo
+
+• Responder por los bienes del almacén. 
+
+• Controlar diariamente el servicio de alimentación, en lo que respecta a preparación y distribución . 
+
+• Proponer al Jefe de la dependencia responsable, cambios en el menú y/o en los ingredientes , para mejorar la calidad y/o costo de la alimentación. 
+
+• Elaborar y mantener actualizada la cuenta diaria de alimentación (cuadro de vituallas). 
+
+• Entregar los víveres, de acuerdo con los requerimientos y requisitos exigidos. 
+
+• Coordinar con el oficial de servicio o quien haga sus veces, la cantidad y calidad de los víveres o bienes, que llegan para consumo en la Unidad. 
+
+• Revisar y controlar la calidad y cantidad de los bienes recibidos, registrándolos en el Sistema de Información Logístico - SILOG para el manejo de bienes. 
+
+• Almacenar las frutas y vegetales en los mismos empaques en que se reciben, con el propósito de conservar la humedad. 
+
+• Almacenar los alimentos que absorben olores, lejos de aquellos que lo emiten. 
+
+• Cuando se reciban los víveres, examinar fecha de vencimiento, cantidad, calidad y estado de conservación de las frutas y vegetales antes del almacenamiento, así mismo, se debe colocar en los respectivos empaques la fecha de llegada y de vencimiento de estos . 
+
+• Almacenar los alimentos de una misma clase . 
+
+• Colocar los alimentos en áreas de almacenamiento adecuados que garanticen la conservación de acuerdo con el tipo de víveres. 
+
+• Almacenar los alimentos recién llegados detrás o debajo de los que más tiempo lleven, de tal manera que los primeros en llegar sean los primeros en salir . 
+
+• Colocar los alimentos alejados de la pared, en estantes o tarimas de madera, lo que ayuda a evitar la humedad. 
+
+• Almacenar los productos más pesados cerca del suelo y los más livianos en la parte alta. 
+
+• Colocar los bultos en forma entrecruzada y no más de 8 por arrume . 
+
+• Tener suficiente circulación de aire y ventilación en la bodega, para evitar la descomposición de productos y los malos olores. 
+
+• Clasificar y separar los víveres de los bienes de aseo, químicos e insecticidas. 
+
+• Proteger los víveres del sol y de la humedad. 
+
+• Disponer de estantería apropiada que incluya recipientes para el grano . 
+
+• Limpiar, asear y organizar diariamente la bodega, con el fin de evitar la presencia de plagas que contaminen los alimentos, como: roedores, polillas, gorgojos, cucarachas y gusanos. 
+
+• Mantener en cuartos fríos los alimentos de fácil descomposición como: carnes, legumbres, frutas, queso, mantequilla, levadura y embutidos. Cuando no se disponga de ningún sistema de refrigeración, su almacenamiento se hará en lugares ventilados y su consum o tendrá prioridad. 
+
+• Coordinar el mantenimiento de los cuartos fríos, con base en un cronograma predeterminado, el cual incluya acciones preventivas, actividades para su óptimo funcionamiento y programas de recuperación. 
+
+• Mantener cerrada la puerta del cuarto frío y evitar introducir cajas de cartón o envolturas que absorban humedad . 
+
+• Los cortes o piezas de carne en canal deben estar elevadas y colgadas en ganchos dentro del cuarto frío. 
+
+• Almacenar en bolsas de poliuretano las verduras y frutas y colocarlas en la parte baja del cuarto frío. 
+
+• Verificar y diligenciar la actualización de la licencia de higiene, la cual es expedida por la autoridad competente. 
+
+• Elaborar y firmar las Entradas y Salidas de Almacén. 
+
+##### 2.4.2.2 Farmaceuta
+
+• Responder por los bienes del almacén . 
+
+• Despachar las fórmulas únicamente de acuerdo con la formulación médica . 
+
+• Elaborar y registrar en el Sistema de Información Logístico - SILOG las Entradas y Salidas de medicamentos. 
+
+• Elaborar los requerimientos de medicamentos y bienes, de acuerdo con las estadísticas de consumo. 
+
+• Conciliar las fórmulas despachadas contra el Sistema de Información Logístico - SILOG para el manejo de medicamentos. 
+
+• Verificar y controlar la fecha de vencimiento de los medicamentos e informar al jefe inmediato con tres meses de anticipación a su vencimiento, para que se coordine con los proveedores respectivos el cambio de los medicamentos y se informe oportunamente al cuerpo médico. 
+
+Limpiar , asear y organizar diariamente la farmacia, con el fin de evitar la presencia de plagas como: roedores, polillas, gorgojos, cucarachas y gusanos que causan daños y contaminan. 
+
+##### 2.4.2.3 Almacenista de armamento
+
+• Responder por los bienes del almacén . 
+
+• Responder por el almacenamiento y mantenimiento adecuado del armamento, municiones y demás material de guerra existente . 
+
+• Inspeccionar periódicamente el material a su cargo y verificar las medidas de seguridad . 
+
+• Llevar estricto control del suministro y asignación de armamento, munición y demás material de guerra, teniendo en cuenta el acto administrativo, serie, tipo, marca, cantidad y lote de fabricación, clase de valoración según corresponda, dando prioridad a l a más antigua. 
+
+• Elaborar la documentación administrativa requerida, relacionada con el manejo y funcionamiento del almacén de armamento. 
+
+• Propone r al Comando de la Unidad las acciones del caso para corregir o mejorar la administración y control del material de guerra. 
+
+• Responde por el aseo y mantenimiento general de los depósitos de la Unidad. 
+
+• Elaborar y registrar diariamente en el S istema de I nformación Logístico - SILOG para el manejo de armamento las entradas y salidas de armamento y munición. 
+
+##### 2.4.2.4 Auxiliar de almacén
+
+• Elaborar la hoja de vida de los bienes uso devolutivo, de acuerdo con el formato anexo. 
+
+• Participar en la realización de los conteos físicos . 
+
+• Apoyar en la elaboración del Estado Diario de almacén . 
+
+• Apoyar en la elaboración de las conciliaciones del Estado Diario de almacén con los saldos contables. 
+
+• Apoyar la verificación de la información correspondiente a los bienes transferidos o recibidos de otras unidades. 
+
+• Apoyar en las pruebas selectivas a las existencias en almacén o en servicio. 
+
+### 2.5 FUNCIONES
+
+DEL RESPONSABLE DE LOS BIENES EN SERVICIO Y BIENES CON CONTROL ADMINISTRATIVO Corresponde al jefe de Abastecimiento, j efe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , en la organización procurar que, en las funciones del responsable de los bienes en servicio y bienes con control administrativo, se consideren por los menos las siguientes: • Diseñar un plan de control para efectuar revistas periódicas de verificación a las dependencias. 
+
+• Llevar control de los bienes que están en servicio . 
+
+• Coordinar la actualización de la base de datos de bienes por dependencia y usuarios. 
+
+• Coordinar la realización de los movimientos de almacén que se requiera con el a lmacenista respectivo. 
+
+• Practicar pruebas selectivas y confrontarlas con la base de datos. 
+
+• Verificar las existencias físicas con el Estado de bienes en servicio. 
+
+• Elaborar las planillas de bienes en servicio, mínimo cada trimestre para realizar los conteos físicos. 
+
+• Elaborar el informe de bienes en servicio y bienes con control administrativo de acuerdo con los lineamientos establecidos. 
+
+• I nformar por escrito al j efe inmediato, las novedades detectadas al realizar la verificación de los bienes en las dependencias . 
+
+• Enviar a las dependencias copia de la planilla de los bienes a su cargo. 
+
+• Hacer conciliación semestral con el área de c ontabilidad, verificando existencias físicas contra registros contables, de acuerdo con el informe de bienes en servicio, certificando que están acordes con los registros contables, en caso de diferencia se debe especificar los faltantes o sobrantes. 
+
+• Elaborar y rendir el informe de bienes en servicio y bienes con control administrativo consolidado del mes referido en el numeral 1.8 informe de bienes de servicios , de acuerdo con los formatos establecidos y efectuar la conciliación con el área de Contabilidad. 
+
+• Realizar y enviar mensualmente la conciliación contable de los movimientos de almacén, incluyendo el detalle de los movimientos tanto de ingresos, bajas, adiciones, cambios de vida útil, valor en libros, amortizaciones u otros cambios que se generen en los activos de propiedad, planta y equipo durante el periodo contable a reportar. 
+
+• Adelantará ante la compañía de seguros respectiva, el siniestro para la reposición o pago del bien faltante. 
+
+### 2.6 RELEVO DE
+
+ALMACENISTAS Existen varios motivos para efectuar la entrega de un almacén, como son: 
+
+#### 2.6.1 Relevo normal del almacenista
+
+Cuando se requiere relevar un almacenista se deben tener en cuenta los siguientes aspectos: • Que exista un acto administrativo ( R esolución) o se legalice por la Orden del Día el nombramiento del nuevo almacenista el cual debe cumplir con los requisitos y perfil para ejercer el cargo, de acuerdo con la especialidad e idoneidad requerida . 
+
+• Que se haya constituido la póliza de seguro que ampare el manejo del almacén. 
+
+• Que se haya informado con acto administrativo a las personas que intervendrán en la entrega, el día y la hora del inicio de la diligencia. 
+
+• Nombrar supervisor de la entrega mediante acto administrativo para que dé cuenta y razón de la entrega. 
+
+• Capacitar al almacenista entrante en el S istema de I nformación Logístico - SILOG gestionando la misma con el grupo SILOG del MDN en cada fuerza, buscando la idoneidad y competencias para el cargo , y hacer las coordinaciones con el Grupo - SILOG para la reasignación de la licencia . 
+
+• Ordenar para la entrega del almacén la presencia de las siguientes personas: o Almacenista entrante . 
+
+o Almacenista saliente . 
+
+o Jefe del Área a la cual pertenece el almacé n . 
+
+o Superviso r. 
+
+• No se podrá abrir el almacén hasta que todos los funcionarios anteriormente nombrados se encuentren presentes. 
+
+• El almacenista saliente responderá únicamente por los bienes que se encuentran en el almacén como de aquellos que le hayan sido entregados para el desarrollo de su trabajo, como son: escritorio, calculadora, silla, etc. 
+
+• Una vez se abra el almacén se iniciará el conteo de los bienes que se encuentran en el almacén. 
+
+• Verificar la existencia de la totalidad de los bienes del almacén con sus respecti v os documentos soporte . 
+
+• En los formatos diseñados únicamente para la toma física, se relacionarán los diferentes bienes, se registrarán sus características como: marca, peso, modelo, cantidad, valor unitario, valor total y estado de conservación. 
+
+• Los bienes inventariados deben corresponder exactamente a los registrados en los listados sistematizados, por tanto, se verificará que no existan entradas o salidas pendientes de registrar y que todos los bienes correspondientes a las salidas se hayan desp achado. 
+
+• En forma diaria se firmarán todos los documentos elaborados en tinta (esfero no lápiz) por el personal que tiene a cargo el seguimiento de la entrega del almacén ( jefe de área a la que pertenece el almacén). 
+
+• Una vez se termine el conteo de los bienes del almacén, se podrán liquidar los faltantes y sobrantes. 
+
+• El valor que arroje la sumatoria de los bienes entregados deberá ser igual al valor que presente el Estado Diario de almacén. 
+
+• La entrega del almacén se hará constar a través de acta, la cual será firmada por las personas que intervinieron en la diligencia y llevará anexo la relación física de los bienes entregados, dejando constancia de las irregularidades, inconsistencias y dife rencias encontradas. 
+
+• Con el fin de no paralizar las funciones del almacén se fijará un horario para la atención al público. 
+
+• Durante el lapso que dure la entrega del almacén, los e stados d iarios de almacén serán firmados por el almacenista saliente. 
+
+Hasta que se formalice el documento del almacenista entrante. 
+
+• Se podrán hacer compensaciones cuando existan faltantes, siempre y cuando , de acuerdo con un concepto técnico, sean de la misma naturaleza. 
+
+#### 2.6.2 Relevo
+
+por abandono de cargo , inhabilidad o incompatibilidad sobreviniente o muerte del almacenista Si el almacenista se ausentó injustificadamente (abandono de cargo) , se encuentre inhabili tado o presenta incompatibilidad de acuerdo con la Ley o este inmerso en una investigación de carácter penal, administrativa, fiscal o disciplinaria que no le permita el desarrollo de sus funciones o fallecimiento del almacenista, es necesario tener en cuenta los siguientes aspectos: • Que exista un acto administrativo (resolución) o se legalice por la orden del día el nombramiento del nuevo almacenista y el motivo del relevo. 
+
+• Que se haya constituido la póliza de seguro que ampare el manejo del almacén . 
+
+• Nombrar un interventor mediante acto administrativo para que dé cuenta y razón de la entrega. 
+
+• El j efe del área a la cual pertenece el almacén hará entrega de los bienes al nuevo almacenista. 
+
+• El recibo de los bienes se hará constar mediante un acta; a la diligencia de elaboración del acta pueden concurrir, en el caso de fallecimiento del responsable de manejo, el cónyuge y las demás personas que se consideren con derecho, siempre y cuando demue stren el carácter con que obran. 
+
+• E n el acto se dejará constancia de los bienes sobrantes y faltantes que resulten al comparar el número de unidades físicas, con el de los registros actualizados. 
+
+• Si existen entradas y salidas de almacén que no hayan sido registradas, es necesario entregarlos al auxiliar de contabilidad para su registro e inclusión en el “Estado Diario de almacén”. 
+
+• Durante el lapso que dure la entrega del almacén los Estados Diarios de almacén, serán firmados por el almacenista entrante. 
+
+• Una vez se termine el conteo de los bienes del almacén, se podrán liquidar los faltantes y sobrantes. 
+
+• Se podrán hacer compensaciones cuando existan faltantes, siempre y cuando , de acuerdo con un concepto técnico, sean de la misma naturaleza. 
+
+• El valor que arroje la sumatoria de los bienes entregados deberá ser igual al valor que presente el Balance del Área de Contabilidad. 
+
+• Con el fin de no paralizar las funciones del almacén se fijará un horario para la atención a los usuarios. 
+
+### 2.7 PERFILES
+
+Las autoridades administrativas deben procurar que, en los perfiles para el desempeño como almacenista, auxiliar de almacén y responsable de los bienes en servicio, se consideren por lo menos las siguientes condiciones: 
+
+#### 2.7.1 Almacenista
+
+Para ejercer el cargo como a lmacenista en una Unidad, los siguientes perfiles ocupacionales: • Educación Técnico o Tecnólogo / Logística y Abastecimientos / Ciencias Económicas . 
+
+• Experiencia en temas específicos (idóneo) de acuerdo con el tipo de material a administrar . 
+
+• Tener por lo menos un ( 6 ) meses de experiencia relacionada . 
+
+• Conocimiento en el manejo de gestión y administración de bienes . 
+
+• Conocimiento en el manejo de modelos de inventarios e indicadores de gestión . 
+
+• Conocimiento de los procesos logísticos (Abastecimientos, Mantenimiento) y su interacción con los procesos financieros . 
+
+• Conocimiento de las normas de la responsabilidad fiscal y del estado . 
+
+• Conocimientos básicos en informática (Word, Excel, PowerPoint). 
+
+Haber realizado el curso de a lmacenista en el Sistema de Información Logístico – SILOG . 
+
+#### 2.7.2 Auxiliar del almacén
+
+Para ejercer el cargo como Auxiliar del Almacén en una Unidad, los siguientes perfiles ocupacionales: • Educación Técnico o Tecnólogo / Logística y Abastecimientos / Ciencias Económicas. 
+
+• Tener por lo menos seis (6) meses de experiencia relacionada . 
+
+• Conocimiento en el manejo de gestión y administración de bienes. 
+
+• Conocimiento en el manejo de modelos de inventarios e indicadores de gestión. 
+
+• Conocimiento de los procesos logísticos (Abastecimientos, Mantenimiento) y su interacción con los procesos financieros. 
+
+• Conocimiento de las normas de la responsabilidad fiscal y del estado. 
+
+• Conocimientos básicos en informática (Word, Excel, PowerPoint). 
+
+#### 2.7.3 Responsable
+
+de los bienes en servicio y bienes con control administrativo Para ejercer el cargo como responsable de los bienes en servicio y bienes con control administrativo en una Unidad, los siguientes perfiles ocupacionales: • Educación Técnico o Tecnólogo / Logística y Abastecimientos / Ciencias Económicas. 
+
+• Tener por lo menos un ( 6 ) meses de experiencia relacionada. 
+
+• Conocimiento en el manejo de gestión y administración de bienes. 
+
+• Conocimiento en el manejo de modelos de inventarios e indicadores de gestión. 
+
+• Conocimiento de los procesos logísticos Abastecimientos, Mantenimiento y su interacción con los procesos financieros. 
+
+• Conocimiento de las normas de la responsabilidad fiscal y del estado. 
+
+• Conocimientos básicos en informática (Word, Excel, PowerPoint). 
+
+# CAPÍTULO III
+
+MOVIMIENTOS DE ALMACEN Todo movimiento de bienes en el almacén o en cualquiera de las dependencias de las unidades, se soporta mediante una entrada o salida de almacén, expedida por el responsable de este , teniendo en cuenta lo establecido en el numeral 2.4.1 Funciones generales del almacenista. 
+
+### 3.1 ENTRADA DE ALMACEN
+
+Es el único documento que acredita el recibo formal de bienes por parte de la unidad. 
+
+Es el documento idóneo que acredita y certifica la entrada de los bienes al almacén , y el respaldo para los registros Contables asegurando y reflejando adecuadamente la incorporación en los estados financieros de la entidad . 
+
+#### 3.1.1 Entrada de bienes de acuerdo con su origen
+
+##### 3.1.1.1 Adquisiciones
+
+Son operaciones mercantiles a través de las cuales la unidad adquiere bienes, mediante la erogación de fondos del presupuesto autorizado de conformidad con las disposiciones legales vigentes que rigen la materia. 
+
+###### 3.1.1.1.1 Adquisiciones nacionales
+
+Son los bienes o servicios provenientes de una adquisición en el país. 
+
+Aplica cuando el Ministerio de Defensa adquiere bienes de consumo y/o devolutivo s mediante procesos contractuales de diferentes modalidades y las demás autorizadas por la ley con cargo al presupuesto aprobado para una vigencia fiscal. 
+
+Así mismo , representa el valor de las obligaciones contraídas por la entidad con terceros por concepto de a) la adquisición de bienes o servicios de proveedores nacionales, en desarrollo de sus actividades y b) la adquisición de bienes y servicios para proyectos de inversión específicos . 
+
+###### 3.1.1.1.2 Adquisiciones en el exterior
+
+Representa el valor de las obligaciones contraídas por la entidad con proveedores del exterior por concepto de a) la adquisición de bienes o servicios para el desarrollo de sus actividades y b) la adquisición de bienes o servicios para proyectos de inversi ón específicos. 
+
+###### 3.1.1.1.3 Adquisiciones de bienes en control administrativo
+
+Son los bienes adquiridos en el país o con proveedores del exterior a cualquier título, por valor inferior a UVT que por sus características no se consideran como propiedades, planta y equipo, no obstante, deben ser controlados administrativamente Para el efecto de la adquisición de bienes (entrada de almacén) cuyo valor individual sea inferior a 50 U.V.T., se registrará en la cuenta 1635 Bienes Muebles en Bodega, luego de la entrada, se reconocerán como gasto del período y en tal forma deberá efect uarse la salida a control administrativo. 
+
+Así mismo las mercancías, elementos, insumos, materiales y suministros. 
+
+que no cumplen con el criterio de reconocimiento de inventario según lo dispuesto por el Marco Normativo para Entidades de Gobierno. 
+
+Se hace necesario el control administrativo 
+
+##### 3.1.1.2 Transferencias internas
+
+Es el procedimiento mediante el cual se cambia la ubicación física de bienes dentro de las dependencias del Ministerio de Defensa Nacional o de las Unidades Ejecutoras, ocasionando por tal motivo la cesación de responsabilidad de quien los entrega y transfiriéndola a quien los recibe. 
+
+###### 3.1.1.2.1 Entre unidades ejecutoras o fuerzas
+
+Es el traslado físico de un bien tangible e intangible de una Unidad Ejecutora de la Sección Presupuestal 1501 Ministerio de Defensa Nacional a otra; lo cual es el efecto de una disposición del ordenador del gasto 
+
+###### 3.1.1.2.2 Entre
+
+unidades de una misma unidad ejecutora o fuerza Es el traslado físico de un bien tangible o intangible entre Unidades Operativas de la misma Unidad Ejecutora; lo cual es el efecto de una disposición del ordenador del gasto. 
+
+##### 3.1.1.3 Por Producción de bienes
+
+Son los bienes terminados como producto de un proceso de transformación interna en la Unidad. 
+
+##### 3.1.1.4 Recibidos sin contraprestación
+
+Representa los bienes recibidos por la entidad sin que debe entregar a cambio una contraprestación que se aproxime al valor de mercado del activo recibido y sobre los cuales la entidad tenga el control sobre el activo, sea probable que fluyan, a la entidad, beneficios económicos futuros o potencial de servicio asociados con el activo y el valor del activo pueda ser medido con fiabilidad . 
+
+Así mismo, incluye los bienes recibidos en forma adicional por la entidad en virtud de una relación contractual en la cual los factores de selección conllevan a la entrega de estos , o en su defecto son entregados por mera liberalidad del contratista. 
+
+los bienes de consumo derivados de una transacción sin contraprestación, no considerados dentro de las excepciones establecidas o que no cumplan los criterios de reconocimiento de las normas de Inventarios ni Propiedades, planta y equipo, no se reconocerán como activo, por el contrario, se registran en cuentas de orden para su respectivo control. 
+
+##### 3.1.1.4 .1
+
+Donación Son los bienes recibidos por voluntad de una persona natural o jurídica, nacional o extranjera, distinta de una Entidad Estatal Colombiana, la cual transfiere gratuita e irrevocablemente, la propiedad de un bien que le pertenece, a favor de las Unidades de l Ministerio de Defensa Nacional, previa aceptación del Ordenador del Gasto. 
+
+Generalmente las donaciones son realizadas por terceros con fines tributarios , para lo cual se deberá dar el cumplimiento a las políticas establecidas al interior de cada Unidad E jecutora. 
+
+###### 3.1.1.4.2 Transferencia de bienes
+
+Corresponde a los bienes recibidos de entidades de gobierno o empresas públicas a las Unidades del Ministerio de Defensa Nacional. Se caracteriza por la administración del bien cambia de la entidad que entrega a la que recibe, sin afectar el patrimonio de la Nación. 
+
+###### 3.1.1.4.3 Convenios de
+
+Cooperación y colaboración Instrumentos jurídicos celebrados por el Ministerio de Defensa Nacional con entidades públicas o privadas, nacionales o extranjeras, a través de los cuales se establecen obligaciones con la finalidad de coadyuvar en el cumplimiento del cometido estatal. 
+
+###### 3.1.1.4.4 Bienes Recibidos en donación destinados a actividades de acción
+
+integral Corresponde a la entrada de bienes recibidos en donación de la Dirección de Impuestos y Aduanas Nacionales - DIAN o de particulares, los cuales son destinados para la atención de actividades de acción integral. 
+
+##### 3.1.1.5 Otras Entradas
+
+Llámese así aquella clase de entradas que tienen un tratamiento diferente a las demás y se presentan en los siguientes casos: 
+
+###### 3.1.1.5.1 Sobrantes de bienes
+
+Los sobrantes de bienes se presentan en los siguientes eventos: ▪ Sobrantes de bienes en el almacén cuando al efectuarse pruebas selectivas o al realizarse un conteo físico completo por la entrega de almacén o al cierre de la vigencia, se determina que el número de bienes es superior a los que se reflejan en los registro s contables. 
+
+▪ Sobrantes de bienes en servicio cuando al realizarse la verificación en cada una de las dependencias, se encuentran bienes que no están incluidos en el informe de bienes en servicio. 
+
+▪ Sobrantes de materias primas obedece a material adicional entregado por el proveedor y que no se encuentra incorporado en el inventario. 
+
+▪ Sobrantes de materiales y suministros derivados de la liquidación de una orden de mantenimiento. 
+
+###### 3.1.1.5.2 Incautados
+
+Bienes retenidos o aprehendidos a terceros, para que la autoridad competente determine su situación legal. 
+
+###### 3.1.1.5.3 Decomisados
+
+Bienes retenidos o aprehendidos a terceros, que la autoridad competente definió su situación legal, para su uso o transferencia a otras entidades públicas, en caso contrario ordenarse su destrucción. 
+
+###### 3.1.1.5.4 Reparables
+
+Componentes, piezas o partes, desmontadas de un equipo terrestre, aéreo o marítimo, susceptibles de repararse o considerados serviciables. 
+
+###### 3.1.1.5.5 Aprovechamiento de bienes inservibles
+
+Es el procedimiento que determina la recuperación de partes de un bien dado de baja ( desmantelamiento), las cuales mediante un concepto técnico - económico se viabiliza su reincorporación al ciclo logístico. 
+
+###### 3.1.1.5.6 Nacimiento de semovientes
+
+Se originan al conocerse el nacimiento de semovientes aptos , que sean de propiedad de la unidad del Ministerio de Defensa. 
+
+###### 3.1.1.5.7 Asistencia
+
+y seguridad USSAP (FMS y otros programas de asistencia y seguridad) Programas de cooperación a través del cual se reciben bienes del Gobierno Americano. 
+
+##### 3.1.1.5. 8
+
+Offset Corresponde a la entrada de bienes producto de un convenio derivado de Cooperación Industrial y Social OFFSET. 
+
+son una figura ampliamente utilizada en las transacciones de bienes y sistemas de defensa. Estos convenios comprenden el rango entero de beneficios industriales, económicos, comerciales y/o sociales otorgados a un país como compensación por la adquisición de bienes y servicios destinados a la defensa y seguridad nacional. 
+
+##### 3.1.1.5. 9
+
+Otros Convenios Corresponde a la entrada de bienes recibidos en virtud de convenios suscritos por la entidad de acuerdo con las disposiciones legales. 
+
+###### 3.1.1.5.1 0
+
+Reposición de bienes Consiste en reemplazar los bienes faltantes o los que han sufrido daños por causas derivadas del mal uso o indebida custodia, por otros de características similares o superiores. 
+
+El Ministerio de Defensa Nacional contemplará la reposición de bienes para los siguientes casos: 
+
+###### 3.1.1.5.1 0.1 Por compañías de seguros
+
+Cuando un bien se da de baja por pérdida total daño o hurto, y realizadas las gestiones administrativas con las compañías de seguros, se logra que éstas restituyan los bienes en las mismas cantidades de iguales o superiores características . 
+
+###### 3.1.1.5.1 0.2 Por
+
+garantía Corresponde a bienes recibidos por la Entidad por cambio o reposición, en virtud de la aplicación de procedimientos de garantías relacionados con defectos de fábrica, calidad y funcionamiento de los bienes, que impiden o limitan su utilización por parte de las Unidades Ejecutoras. 
+
+###### 3.1.1.5.1 0.3 Por funcionario
+
+En caso de pérdida o daño de bienes de propiedad de la entidad el servidor público o contratista responsable del mismo, podrá restituirlo por otro de similares o mejores características con la autorización del servidor público competente , previo concepto técnico de funcionario idóneo, que determine que el bien cumple con las mismas o superiores condiciones del bien objeto de la investigación. 
+
+La reposición, en ningún caso se autoriza para armas, sus repuestos, accesorios, municiones, explosivos y todos aquellos bienes que se encuentran fuera del comercio. 
+
+###### 3.1.1.5.1 1
+
+Reintegro de bienes en servicio Es la reincorporación al almacén de los bienes devolutivos entregados por la administración a una dependencia, por considerarse inservibles, obsoletos o para reasignación. 
+
+Para el caso de bienes de consumo y materias primas , es la reincorporación al almacén de materiales y suministros que se previeron utilizar y que finalmente no fueron consumidos. 
+
+También se presenta con los reparables reintegrados por considerarse serviciables o pendientes por reparación. 
+
+###### 3.1.1.5.1 2
+
+Entradas especiales Corresponde a la entrada de bienes que no se puedan clasificar en ninguno de los conceptos anteriores. 
+
+###### 3.1.1.5.1 2.1 En custodia
+
+Bienes recibidos de autoridad competente o de terceros para ser mantenidos con protección especial, mientras se define su situación legal o se reintegra a quien lo puso en dicha condición. 
+
+###### 3.1.1.5.1 2.2
+
+Permuta Bienes recibidos a través de un contrato de permuta, en el cual las partes se obligan mutuamente a dar un bien por otro , esta modalidad podrá aplicarse siempre y cuando se encuentre contemplada en el Manual de Contratación expedido por la entidad. 
+
+###### 3.1.1.5.1 2.3
+
+Apoyos de material entre la Fuerza Pública Se refiere a la transferencia temporal de, suministros o materiales desde el (Ejército, Armada Nacional, Fuerza Área Colombiana , Policía Nacional, ), para su uso específico durante un periodo determinado. Este tipo de préstamo suele estar regulado por normativas o procedimientos específicos para garantizar que el material se utilice de manera adecuada y se devuelva en buen estado. 
+
+### 3.2 SALIDA DE ALMACEN
+
+Es el retiro de un bien del Almacén, el cual se formaliza con la expedición de la salida de almacén; que es el documento legal mediante el cual se identifica clara y detalladamente la salida física y real del bien, cesando de esta manera y mediante requisito probatorio, la responsabilidad por custodia, administración, conservación, etc., por parte del almacenista y quedando en poder del servidor público o tercero destinatario. 
+
+asegurando así que los bienes se reflejen adecuadamente en los estados financieros de la entidad. 
+
+La salida de bienes del almacén puede originarse por: 
+
+#### 3.2.1 Suministro
+
+Es el abastecimiento de bienes a las dependencias de la Unidad Ejecutora, para el cumplimiento del cometido estatal. 
+
+##### 3.2.1.1 Suministro de bienes
+
+devolutivos Es la asignación de bienes a los servidores públicos o contratistas de las dependencias para que éstos desarrollen sus funciones, quienes asumen la responsabilidad de custodia, administración, conservación, etc., cesando de esta manera la responsabilidad del almacenista. No obstante, el control de los bienes entregados al servicio estará a cargo del servidor público o contratista que los utiliza, sin perjuicio de la s actividades de inspección y verificación que realiza el responsable de los bienes en servic io. 
+
+Bajo esta modalidad entre otros, se contemplan los siguientes tipos de bienes: Plantas, ductos, redes, líneas, maquinaria y equipo, equipo médico y científico, muebles y enseres, equipo de oficina, equipos de comunicación y computación, equipo de transport e, equipo de comedor, cocina, despensa y hotelería, intangibles , bienes de arte y cultura. 
+
+###### 3.2.1.1.1 Suministro de bienes para producción
+
+Comprende la entrega de bienes a procesos de transformación para fabricación de productos terminados. El suministro debe quedar contabilizado dentro de la orden de fabricación. 
+
+Bajo esta modalidad entre otros, se contemplan los siguientes tipos de bienes: materias primas, insumos, repuestos, semielaborados . 
+
+##### 3.2.1.2 Suministro de Materiales y
+
+suministros (bienes de consumo) Es la entrega de bienes a los servidores públicos y contratistas de las dependencias, para que estos los utilicen en el desarrollo de sus funciones, quienes deberán responder por el buen uso de los bienes; cesando de esta manera la responsabilidad del almacenista , Bajo esta modalidad entre otros, se contemplan los siguientes tipos de bienes, material quirúrgico, medicamentos, repuestos , elementos de construcción, insumos en general y demás suministros y accesorios requeridos para el desarrollo de las actividades diarias , que cumplen con lo dispuesto con el Marco Normativo para Entidades de Gobierno 
+
+##### 3.2.1.3 Suministro de bienes en control administrativo
+
+Corresponde a la entrega de bienes (mercancías, elementos, insumos, materiales y suministros) a los servidores públicos y contratistas de las dependencias, con el objetivo de que puedan cumplir con sus funciones. Sin embargo, estos bienes no cumplen con el criterio de reconocimiento de inventario establecido según lo dispuesto en el Marco Normativo para Entidades de Gobierno. 
+
+Entre estos, se incluyen los siguientes tipos de bienes: vestuario, dotación, equipo de campaña, papelería, herramientas en general, así como otros suministros y accesorios necesarios para el desarrollo de las actividades diarias. 
+
+#### 3.2.2 Transferencia
+
+internas Se entiende como la transferencia interna de bienes en las fuerzas Pública como el proceso mediante el cual se redistribuyen o transfieren bienes entre diferentes unidades . 
+
+##### 3.2.2.1 Entre Unidades Ejecutoras o Fuerzas
+
+Es el traslado físico de un bien tangible e intangible de una Unidad Ejecutora de la Sección Presupuestal 1501 Ministerio de Defensa Nacional a otra; lo cual es el efecto de una disposición del ordenador del gasto. 
+
+##### 3.2.2.2 Entre unidades de una misma Unidad Ejecutora o Fuerza
+
+Es el traslado físico de un bien tangible o intangible entre Unidades Operativas de la misma Unidad Ejecutora; lo cual es el efecto de una disposición del ordenador del gasto. 
+
+#### 3.2.3 Transferencias de bienes
+
+Se entiende que hay una transferencia de bienes cuando el bien sale del patrimonio del Ministerio de Defensa cediendo sus derechos sobre el mismo, a otra Entidad Pública. 
+
+#### 3.2.4 Bienes entregados sin contraprestación
+
+Es la salida de bienes para uso o administración, que hace una Unidad del Ministerio de Defensa Nacional a otra entidad pública, de forma temporal o permanente , sin que se reciba nada a cambio o recibiendo un valor significativamente menor al valor de mercado de los activo s entregado s , mediante acto administrativo suscrito entre las partes, sobre el cual las entidades involucradas deberán hacer un análisis conjunto para efectos de establecer que entidad tendrá el control del activo y, por lo tanto, debe reconocerlo en su situación financiera, para lo cual deben tener en cuenta por lo menos : ▪ Qué entidad obtiene sustancialmente los beneficios económicos o el potencial de servicios del activo . 
+
+▪ Qué entidad asume los riesgos significativos inherentes al activo . 
+
+▪ Determinar si se han fijado condiciones frente al uso o destinación del activo transferido. 
+
+### 3.2 . 5 Baja en cuenta de bienes
+
+Es el retiro definitivo de un bien (inventarios, propiedades planta y equipo, intangibles bienes históricos y culturales), tanto de forma física como de los registros del patrimonio de la entidad por haber perdido su potencial de servicio (por obsolescencia, por inservible, por encontrarse vencidos (ejemplo: medicamentos), reparación antieconómica, no susceptibles de readaptación, reparación o reconfiguración para su uso, por cumplimiento de ciclo de vida), o que no se requiera para el cumplimiento del come tido estatal. 
+
+De forma adicional, p ara los semovientes cuando de manera excepcional sea necesario sacrificarlos por encontrarse en malas condiciones por enfermedad o accidente. 
+
+#### 3.2.6 Salida de bienes a reparaciones y mantenimiento
+
+Aplica para los bienes que son retirados temporalmente del servicio, con el propósito de efectuar mantenimiento correctivo, preventivo o recuperativo, dentro o fuera de la entidad. 
+
+#### 3.2.7 Restitución
+
+de bienes sin contraprestación en virtud de Actos Administrativos Es la devolución de los bienes recibidos sin contraprestación, a la entidad propietaria del mismo de acuerdo con las condiciones establecidas en el acto administrativo . 
+
+### 3.2. 8
+
+Otras salidas 
+
+##### 3.2.8.1 Salida por faltante
+
+El faltante de bienes se presenta en los siguientes eventos: ▪ Cuando al efectuarse pruebas selectivas o al realizarse un conteo físico completo por la entrega de almacén o al cierre de la vigencia, se determina que el número de bienes es inferior a los que se reflejan en los registros contables. 
+
+▪ Cuando al realizarse la verificación a las propiedades, planta y equipo en servicio de las dependencias y se determina en el informe de propiedades, planta y equipo en servicio están relacionados bienes que no existen físicamente en las dependencias. 
+
+### 3.2. 8.2 Salida por Garantía
+
+Aplica para los bienes que son retirados del servicio o del inventario por presentar fallas de funcionamiento o novedades técnicas , que implica n su inmediata devolución al proveedor en virtud de la garantía vigente, en cumplimiento a la cláusula de garantía del contrato de adquisición. 
+
+### 3.2. 8.3 Incautados
+
+Salida de bienes retenidos o aprehendidos a terceros que por disposición de la autoridad competente se devuelve o se decomisan. 
+
+### 3.2. 8.4
+
+Salidas especiales Corresponde a la salida de bienes que no se puedan clasificar en ninguno de los conceptos anteriores. 
+
+### 3.2. 8.4.1 Bienes recibidos de la DIAN y entregados en actividades de acción
+
+integral Corresponde a los bienes recibidos de la Dirección de Impuestos y Aduanas Nacionales, que son utilizados por las Unidades en programas relacionados con actividades de bienestar institucional o acercamiento con la s comunidades . 
+
+Es importante dejar constancia en la salida de los bienes, que estos fueron recibidos en transacciones sin contraprestación “donación” por parte de la DIAN y no son requeridos para el funcionamiento de la Unidad, de igual forma, en las actas de entrega correspondientes a las actividades de acción integral, deberá constar el destino dado a los bienes. 
+
+### 3.2. 8.4.2
+
+Bienes recibidos en donación de particulares destinados a actividades de acción integral Corresponde a la salida de bienes recibidos en donación destinados al desarrollo de actividades de acción integral. 
+
+### 3.2. 8.4.3 Retiro de bienes Reparables
+
+Es el retiro definitivo de un bien reparable, tanto de forma física como de los registros de cuentas de orden de la entidad por ser calificado como condenado, debido a que no son susceptibles de readaptación, reparación o reconfiguración para su uso. 
+
+### 3.2. 4.8 .4 Retiro de bienes con control administrativo
+
+Es el retiro definitivo de un bien con control administrativo, tanto de forma física como de los registros de control de la entidad, por obsolescencia, por inservible, reparación antieconómica o siniestro . 
+
+# CAPÍTULO IV
+
+PROCEDIMIENTOS ADMINISTRATIVOS Bajo el entendido que todos los bienes recibidos a cualquier título por parte de unidades del Ministerio de Defensa Nacional deben ser formalizados a través de una entrada de almacén, para la incorporación se deberán tener en cuenta los siguientes aspectos: ➢ Mercancías, elementos, materiales y suministros afectaran el grupo Inventarios o la cuenta 8374 Otros bienes almacenados para consumo. 
+
+➢ Propiedades, planta y equipo en condición nuevo afectaran la cuenta 1635 Bienes muebles en bodega. 
+
+➢ Propiedades, planta y equipo usados pero que tengan potencial de servicio afectaran la cuenta 1637 Propiedad, planta y equipo no explotados. Así mismo, se reconocerá la depreciación o amortización, de acuerdo con su naturaleza y clase de activo fijo, siguiendo las políticas contables aplicables en la entidad. 
+
+### 4.1 PROCEDIMIENTO PARA EL INGRESO DE BIENES
+
+Todos los contratos u órdenes de adquisición o suministro o actos administrativos deben ser recibidos en el Almacén con sus respectivos antecedentes, con la suficiente antelación a la fecha pactada para la entrega de los bienes , con el fin que el responsable ( Almacenista ), adecue sus espacios físicos, para el recibo de las mercancías objeto de entrada. 
+
+➢ Una vez llegados los bienes al Almacén respectivo, el almacenista verificará con los documentos que sustentan la operación (copia del contrato, factura electrónica o documento soporte no obligados a expedir facturas y acta de recibo a satisfacción respectiva), por lo menos los siguientes aspectos: o Fecha pactada de la entrega del bien. 
+
+o Totalidad de los bienes entregados por el proveedor. 
+
+o Especificaciones técnicas. 
+
+o Características de los bienes. 
+
+o Sitio de entrega. 
+
+o Fecha de la factura electrónica o documento soporte para no obligados a facturar posterior al contrato . 
+
+o Valor del bien registrado en la factura o documento soporte para no obligados a facturar igual al valor del contrato . 
+
+o Cantidad registrada en la factura electrónica o documento soporte para no obligados a facturar . 
+
+o NIT del proveedor en la factura electrónica o documento soporte para no obligados a facturar . 
+
+o Factura electrónica o documento soporte para no obligados a facturar con requisitos de ley (Nota 
+
+## 3 )
+
+(SI APLICA) . 
+
+o Acta de recibo a satisfacción del bien o servicio del supervisor del contrato, (Nota 
+
+## 4 )
+
+Nota 3: p ara aquellos casos en los cuales, de acuerdo con lo establecido en el contrato, se determine la entrega de los bienes en forma previa a la emisión de la factura electrónica o documento soporte para no obligados a facturar se presente una situación que haga evidente una dificultad para su emisión , la entrada se realizará con la remisión y el acta de recibo a satisfacción de estos . La factura electrónica o documento soporte para no obligados a facturar se constituye en un requisito indispensable para aplicar las deducciones de carácter tributario y adelantar el trámite de pago . 
+
+Nota 4: p ara aquellos casos en los cuales las características particulares de los bienes o el contrato mismo determinen la necesidad de realizar procesos de verificación o pruebas a los bienes, la entrada al almacén se realizará sin el acta de recibo a satisfacción, sin embargo, no podrá disponerse de estos bienes hasta tanto se cuente con dicho documento expedi do por parte del funcionario competente. 
+
+Cabe aclarar, que el mismo se constituye en un requisito indispensable para adelantar el trámite de pago. 
+
+➢ El almacenista solicita al supervisor de contratos el acta de recibo a satisfacción respectiva. 
+
+➢ Verifica que se cuente con toda la documentación que soporta la entrada del bien, así como las pólizas y certificado de garantías por parte de los proveedores (cuando aplique) . 
+
+➢ Si los bienes están de acuerdo con los documentos soporte, los recibe, la factura electrónica . 
+
+o documento soporte para no obligados o cualquier documento que indique que el almacén ha recibido el material en términos de cantidades y referencias. 
+
+➢ Elabora y firma la Entrada de Almacén, con lo cual los bienes pasarán a ser parte de los activos de la Unidad o en custodia. 
+
+➢ Registra el ingreso de los bienes al almacén e n el S istema de Información Logístico - SILOG , con referencia a un pedido, proceso que genera documento que sirve como contro l , y soporte al e stado d iario de almacén. 
+
+➢ Remitir al supervisor del contrato, la entrada del almacén, la cual debe coincidir con la información del contrato, recibo a satisfacción y la factura o documento soporte para no obligados . 
+
+➢ Coloca la identificación (código de barras) a cada bien devolutivo. 
+
+➢ Si los bienes no coinciden con lo estipulado en los documentos soporte , el responsable de la recepción se abstendrá de recibirlos hasta que cumplan con los parámetros preestablecidos. 
+
+El tiempo para subsanar las novedades dependerá de los términos establecidos en los actos administrativos que soportan la transacción. 
+
+➢ En caso de que , se rechacen bienes por encontrarse en mal estado, se debe informar al Supervisor, j efe de a bastecimientos, j efe l ogístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , elaborar un acta en la que se identifiquen los bienes que se encuentran deteriorados. 
+
+➢ Los bienes objeto de entrada al almacén, deben contar con las respectivas actas de recibo a satisfacción que garanticen si los mismos cumplen con las condiciones establecidas en el contrato de adquisición de bienes o en los actos administrativos que determ inan el recibo por parte de la Entidad. 
+
+El tiempo para subsanar las novedades dependerá de los términos establecidos en los actos administrativos que soportan la transacción. 
+
+Aquellos bienes que de acuerdo con lo establecido en el contrato se reciben en un lugar distinto al almacén por parte del supervisor del contrato o por servidores públicos distintos al almacenista, para realizar la entrada al almacén además de los documentos establecidos se debe contar con un acta de recibo a satisfacción firmada por el servidor público responsable del recibo de los bienes. 
+
+L a e ntrada de almacén es el único documento que acredita y certifica, el recibo por parte de la entidad, la entrada real del bien al almacén de la unidad, y soporta los registros Contables. 
+
+Por ningún motivo deben existir elementos en los almacenes que no cuenten con su respectiva entrada, si los hubiere se constituirán como sobrantes de almacén. 
+
+Con el propósito de garantizar el adecuado manejo de los inventarios registrados en las cuentas propiedad , Planta y equipo en bodega, los bienes no podrán mantenerse por periodos superiores a seis meses en el almacén, por tal razón es necesario que el ordenador del gasto disponga que el almacenista y demás servidores públicos responsables adelanten las gestiones administrativas, para determinar en forma oportuna la puesta en servicio de los bienes, de acuerdo con las necesidades planteadas en el plan de adquisiciones y estudios previos que se soportan la adquisición. 
+
+Así mismo para los bienes que son dados de baja de los inventarios y se convierten en otro activo se incorporaran en la cuenta 1637 Propiedades, Planta y Equipo no Explotados La Entrada de a lmacén será elaborada por el almacenista o auxiliar respectivo, una vez, recibe los bienes, revisa, confronta cantidades y condiciones pactadas en los actos administrativos que los soportan , y valida con su firma el recibo de los bienes en forma parcial o total, la cual debe contener como mínimo la siguiente información: ➢ Nombre de la Unidad Ejecutora ➢ Lugar y fecha en que se realiza la entrada ➢ Nombre de la Unidad ➢ Número de la Entrada en forma ascendente y continua ➢ Identificación del almacén que recibe ➢ Concepto de la entrada ➢ Tipo de documento: Número del contrato o acto administrativo si el bien es donado o traspasado ➢ Nombre del proveedor o de la persona natural o jurídica que entrega el bien ➢ Nit o cédula de ciudadanía del proveedor ➢ Número y fecha de la factura electrónica o documento soporte de no obligados a facturar (cuando aplique) . 
+
+➢ Indicar si es entrega parcial o última entrega . 
+
+➢ Código administrativo del bien . 
+
+➢ Descripción del bien, especificando: Nombre del bien, número de serie, numero de parte, NSN (National Stock Number), modelo, número del modelo, para bienes devolutivos y de consumo cuando aplique. 
+
+➢ Unidad de medida . 
+
+➢ Cantidad . 
+
+➢ Valor Unitario . 
+
+➢ Valor total por ítem . 
+
+➢ Valor total del comprobante . 
+
+➢ Valor en letras . 
+
+➢ Imputación contable . 
+
+➢ Firma del almacenista. 
+
+La e ntrada de a lmacén debe ser elaborada en original y una ( 1 ) copia, que pueden ser distribuidas así: ➢ Original para anexarla al estado diario del almacén. 
+
+➢ Copia al supervisor para trámite el pago . 
+
+Nota 5: teniendo en cuenta lo establecido en el M arco N ormativo y P olítica C ontable, para la incorporación de los bienes deberá tenerse en cuenta: El precio de adquisición; los aranceles de importación y los impuestos indirectos no recuperables que recaigan sobre la adquisición y demás erogaciones que sean necesarias para ubicar el activo en el lugar y en las condiciones necesarias para que pueda operar de la forma prevista por la administración de la entidad y/o en condiciones de uso, acorde co n el numeral 
+
+### 3.1 ,
+
+y la política contable No. 
+
+Propiedades, planta y equipo y No. 
+
+inventarios, respectivamente. 
+
+#### 4.1.1 Almacén virtual en el Sistema
+
+de Información Logístico - SILOG Es un almacén sin estructura física a través del cual se controlan bienes derivados de procesos de adquisiciones centralizadas, los cuales son recibidos por unidades distintas a la que realiza la cadena presupuestal de gasto. 
+
+El almacén virtual controla existencias temporales de bienes en el S istema de Información Logístico - SILOG que son legalizados en la medida que las unidades destino confirman el recibo de los bienes y su tendencia siempre debe ser cero al final del periodo. En consecuencia, únicamente debe manejar operaciones de entrada al almacén y transferencia de estos a las unidades receptoras . 
+
+Debe estar autorizado mediante acto administrativo del ordenador del gasto, en el cual se determinen los controles y términos de utilización de estos . 
+
+La distribución a las diferentes unidades de los bienes incorporados a través del almacén virtual se realiza mediante un pedido de traslado, la unidad que maneja esta herramienta sólo hará la entrada y pedido de traslado de los bienes en el momento en que la unidad de destino confirme que efectivamente ha recibido a satisfacción los bienes. 
+
+Las operaciones que se efectúen de acuerdo con la naturaleza de los almacenes virtuales deben cumplir con todos los procedimientos administrativos de control que le sean aplicables contenidos en el presente manual, así como , tener un almacenista responsable, quien debe cumplir con lo establecido en el numeral 2.4. 
+
+Funciones del almacenista. 
+
+#### 4.1.2 Ingresos de acuerdo con su origen
+
+##### 4.1.2.1 Adquisiciones
+
+###### 4.1.2.1.1 Nacionales
+
+Una vez llegados los bienes al a lmacén respectivo, el almacenista elaborará la Entrada de Almacén, previa verificación de por los menos los siguientes documentos soporte: ➢ Copia del contrato y sus modificaciones, si las hay. 
+
+➢ Factura electrónica o documento soporte para no obligados con requisitos de Ley (Nota 
+
+## 3 )
+
+➢ Acta de recibo a satisfacción del Supervisor. (Nota 
+
+## 4 )
+
+➢ Certificado de pruebas de laboratorio. (cuando aplique) ➢ Especificaciones técnicas de los bienes de acuerdo con el contrato. 
+
+➢ Las muestras presentadas (cuando aplique) . 
+
+Nota 6: p ara aquellos casos en los cuales, de acuerdo con lo establecido en el contrato, se determine la entrega de los bienes en forma previa a la emisión de la factura electrónica o documento soporte para no obligados se presente una situación que haga evidente una dificultad para su emisión , la entrada se realizará con la remisión y el acta de recibo a satisfacción de estos . La factura electrónica o documento soporte para no obligados a facturar se constituye en un requisito indispensable para aplicar las deducciones de carácter tributario y adelantar el trámite de pago . 
+
+Nota 7: p ara aquellos casos en los cuales las características particulares de los bienes o el contrato mismo determinen la necesidad de realizar procesos de verificación o pruebas a los bienes, la entrada al almacén se realizará sin el acta de recibo a satisfacción, sin embargo, no podrá disponerse de estos bienes hasta tanto se cuente con dicho documento expedi do por parte del funcionario competente. 
+
+Cabe aclarar, que el mismo se constituye en un requisito indispensable para adelantar el trámite de pago. 
+
+###### 4.1.2.1.2 Bienes recibidos en el extranjero
+
+Los Bienes adquiridos con términos de negociación internacional INCOTERMS de acuerdo con la versión pactada en los contratos, que son entregados en el exterior en el establecimiento de compra o lugar convenido, puerto, aeropuerto, teniendo en cuenta que el comprador asume los riesgos, una vez son puestos a su disposición; se les debe realizar una entrada como bi enes en tránsito soportado en los siguientes documentos: ➢ Factura electrónica . 
+
+➢ Acta de recibo por parte del servidor público delegado para la adquisición o recepción de este (preinspección) . 
+
+➢ Documento de Transporte (Guía Aérea o Conocimiento de embarque – Bill of Lading) ➢ Copia del contrato y/o verificación de registro del contrato en el sistema ➢ Una vez se dé la nacionalización de las mercancías, se le realiza una entrada definitiva al almacén con los documentos relacionados: ➢ Copia o fotocopia de la Declaración aduanera de Importación. 
+
+➢ Documentos de Transporte (Guía Aérea o Conocimiento de embarque – Bill of Lading) . 
+
+➢ Licencia de importación (cuando aplique). 
+
+➢ Certificado de origen (cuando aplique) . 
+
+Para adquisición en el exterior, la tasa de cambio de la entrada de almacén será la de la declaración de importación. 
+
+##### 4.1.2.2 Transferencias internas
+
+La transferencia de bienes es el procedimiento mediante el cual se cambia la ubicación física de un bien de una unidad ejecutora del Ministerio de Defensa Nacional a otra, o entre las sub unidades de una misma unidad ejecutora, ocasionando por tal motivo la cesación de responsabilidad de quien los entrega y transfiriéndola a quien los recibe. 
+
+Así mismo, el almacenista debe verificar en el S istema de Información Logístico - SILOG periódicamente que no exista material en tránsito desde y hacia su centro logístico. 
+
+La transferencia de bienes debe llevarse a cabo exclusivamente entre almacenistas, quienes validan los documentos de soporte del movimiento con su firma y cuentan con el aval por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de bienes, correspondiente. En el caso de bienes inmuebles, la gestión será responsabilidad del almacenista encargado de administrar el Si stema de Información Logístico – SILOG, quien deberá coordinar con las oficinas de Finca Raíz, responsables de dichos bienes, y obtener la aprobación del contador. 
+
+Para el caso de transferencias , el término entrega del bien implica: tanto la entrega física, como la legalización a través de los documentos establecidos en el presente manual. 
+
+De acuerdo con las políticas y situaciones logísticas presentadas en cada unidad ejecutora, la transferencia del bien puede tener su entrega física en el almacén de la unidad de origen o directamente en el almacén de la unidad de destino. 
+
+Cuando la entrega de los bienes se hace directamente en el almacén de la unidad de destino, la responsabilidad por el transporte y la seguridad de los bienes es de la unidad que hace la entrega, aun cuando el transporte sea suministrado por la unidad recep tora. 
+
+Cuando la entrega se hace en el almacén de la unidad de origen, al almacenista de la unidad de destino o a un servidor público autorizado, la responsabilidad es de la Unidad que recibe a partir de la entrega de los bienes y firma a satisfacción de la salida de almacén. 
+
+Para el recibo de las transferencias efectuados entre las diferentes Unidades Ejecutoras o entre Subu nidades de la misma Unidad Ejecutora, se debe tener en cuenta lo siguiente: Salida de almacén correspondiente a la Unidad que traslada los bienes. 
+
+➢ Orden de transferencia (acto administrativo) firmado por el Ordenador del gasto de la Unidad de origen. 
+
+Adicionalmente, la Unidad que transfiere los bienes debe anexar como documentos soporte a las transferencias el contrato, factura electrónic a o documento soporte para no obligados , acta de recibo de satisfacción. 
+
+➢ Verificar mensualmente a través del S istema de Información Logístico – SILOG y gestión de bienes, que los registros realizados por transferencia de bienes entre unidades estén soportados con los documentos firmados por los almacenistas que intervienen en la transferencia ➢ Que los bienes recibidos sean iguales a los descritos en la salida de almacén que los traslada. 
+
+➢ Si son bienes técnicos, que las especificaciones de ellos, naturaleza y características sean iguales a las de la salida de almacén que los traslada. 
+
+➢ Al recibo de los bienes se deberá tener en cuenta su estado, cantidad y comprobar su peso . 
+
+➢ Realizar los registros de transferencia de bienes, con anterioridad a las fechas de cierre de almacén, con el fin de contar con el tiempo suficiente para efectuar las verificaciones y ajustes. 
+
+En caso de que los bienes hayan sido enviados a través de una compañía transportadora, se debe tener en cuenta los siguientes aspectos: ➢ Los bienes deben estar debidamente asegurados por dicha compañía. 
+
+➢ Examinar la guía de transporte cotejando con los bienes recibidos. 
+
+➢ Al recibo de los bienes se debe elaborar acta de recibo, contar y verificar los bienes en presencia del transportador o del servidor público que reciba los bienes para entrega a la unidad . 
+
+➢ Cualquier irregularidad que se presente como daño o saqueo de los bienes, el almacenista informará al Jefe de Abastecimientos, Jefe Logístico al Segundo Comandante de la Unidad o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones. 
+
+El documento válido que soporta esta operación es el acto administrativo por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, C omandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de bienes, que autoriza la transferencia y la salida del almacén origen. En el deben quedar consignados todos los datos que indiquen con claridad qué bien es el que se traslada, de acuerdo con los datos extractados de los registros de propiedades, planta y equipo, en servicio de la dependencia. 
+
+Se debe efectuar un control permanente de los bienes recibidos de otras Unidades del Ministerio de Defensa Nacional, con el propósito de identificar los movimientos entre las mismas, y lograr la conciliación de las transferencias en forma oportuna. 
+
+Igual procedimiento se realizará en el caso de préstamo de combustible entre Unidades. 
+
+##### 4.1.2.3 Por producción de bienes
+
+Una vez culmine el proceso de fabricación o explotación, la dependencia responsable del proceso deberá informar el número de unidades y valor (resultado de la aplicación de un método de costeo técnicamente aceptado para satisfacer las necesidades de información de la entidad contable p ública), para elaborar la entrada de almacén respectiva. 
+
+##### 4.1.2.4 Bienes recibidos sin contraprestación
+
+Soportado en el acto administrativo que dispone la entrega o acta de recibo a satisfacción ligado a un convenio, contrato de adquisición o de comodato, el cual dispone el recibo de bienes por parte de la Entidad, se elabora el pedido a través del cual transaccionalmente se generará el ingreso en el S istema de Información Logístico – SILOG . 
+
+El valor por el cual se reconoce el activo recibido será el valor convenido, el valor suministrado por el tercero, o en ausencia de este el valor de mercado o costo de reposición. 
+
+##### 4.1.2.4 .1
+
+Donación En este caso, la Unidad recibe el ofrecimiento por escrito de la entidad donante (persona natural o jurídica particular), con detalle de los elementos y las condiciones que exige sobre el uso y destino que debe dársele a los mismos; el Comandante de la Uni dad, Ordenador o servidor público competente , soportar á documentalmente la conveniencia de recibir los bienes ofrecidos, de acuerdo con las necesidades, con el fin de garantizar su posterior utilización. La constancia de aceptación de los bienes debe ser f irmada por el ordenador del gasto. 
+
+Para el caso de donación de bienes muebles se debe tener en cuenta lo siguiente: ➢ Carta de intención acompañada de copia del documento de identidad del donante o del representante legal, de la Cámara de Comercio y del Registro Único Tributario RUT . 
+
+➢ Acto administrativo de aceptación . 
+
+➢ Acta de entrega de los bienes . 
+
+➢ Factura electrónica o documento soporte para no obligados ( de acuerdo con las normas tributarias). 
+
+➢ Insinuación de donación . 
+
+➢ A nte notar í a cuando el bien supere SMMLV , de conformidad con lo establecido en el Decreto 1712 de 1989 y en los términos del artículo del código civil . 
+
+Los documentos anteriores deben ser presentados en los términos del acto administrativo de aceptación y/o escritura pública, cuando haya lugar a ello, previo ofrecimiento formal del donante. 
+
+Para efectuar el ingreso a los inventarios del Ministerio de los bienes valorizados en moneda extranjera, se debe efectuar la conversión en moneda nacional, teniendo en cuenta la tasa de cambio de la divisa fijada por el Banco de la República, a la fecha e n que se formalice la aceptación de la donación. En todos los casos, debe allegarse por el donante el documento soporte que evidencie el valor de los bienes objeto de donación. 
+
+*En los documentos emitidos, se debe indicar el Estado y calidad del bien. 
+
+La entrada de almacén se elaborará con base en el pedido de donación y el acta de entrega. 
+
+En caso de que los bienes objeto de donación no se encuentren valorados, se fijarán mediante concepto técnico realizado por el personal idóneo de la Unidad Ejecutora beneficiaria . 
+
+Cuando los bienes objeto de donación sean usados, serán sometidos a concepto pericial emitido por servidores públicos expertos en el uso del tipo de material ofrecido, debidamente facultados para el evento por el ordenador del gasto de la Unidad. Este concepto determinará la aceptación o rechazo por parte del Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones en la Unidad respectiva. 
+
+Para el recibo de los bienes el almacenista debe verificar el pedido : cantidad, clase, marca, referencia, estado, características físicas y valores de los bienes, contra el acta, factura electrónica o documento soporte para no obligados , resolución o documento equivalente, emitida por el donante. 
+
+Si los bienes están de acuerdo con los documentos soporte , el almacenista los recibe, elabora y firma la entrada de almacén. 
+
+###### 4.1.2.4.2 Transferencias de bienes
+
+Esta operación debe contar con el acto administrativo, por e l cual se autoriza la transferencia de los bienes por parte de otra entidad a las Unidades del Ministerio de Defensa Nacional. 
+
+Los bienes deben venir acompañados de un documento remisorio de la entidad que transfiere , especificando que bienes son entregados, indicando la cantidad y valor de estos , así mismo, debe contar con el acta de recibo a satisfacción, suscrita por el servidor público que resulte competente. 
+
+La entrega física de los bienes objeto de transferencia se hará a través de acta, la cual deberán firmar los a lmacenistas de las dos entidades o los servidores públicos que resulten competentes, de acuerdo con las condiciones acordadas en el acto administrativo expedido por la entidad que transfiere. 
+
+Una vez firmada el acta y allegada al almacén, el almacenista procederá a elaborar y firmar la respectiva entrada de almacén, documento que certificará su ingreso a los registros de financieros de la Unidad. 
+
+Se debe efectuar un control permanente de los bienes recibidos de otras Entidades Públicas. 
+
+Para realizar la entrada de almacén de los bienes recibidos, se requiere: ➢ Acto administrativo en el cual se autoriza la transferencia por parte del ordenador del gasto o autoridad competente y/u oficio remisorio que contenga la relación detallada de los bienes, con características, cantidades, valor unitario y valor total de los mismos. 
+
+➢ Acta de entrega de los bienes con intervención del O rdenador del Gasto, el Jefe de Abastecimiento o Jefe Logístico y el almacenista, detallando los bienes, con sus características; esta acta debe firmarla también la persona autorizada para recibir los bienes. 
+
+Finalmente, se elabora la entrada de almacén, con soporte en los documentos anteriormente relacionados. 
+
+La transferencia se formaliza con la entrada al almacén. 
+
+####### 4.1.2.4.2.1 Bienes recibidos en comodato
+
+Para efectos de establecer que la entidad tiene el control del activo y por lo tanto reconocerlo como tal, se hace necesario que como mínimo se evalúe juntamente con el comodante: ➢ Que la intención de las partes que intervienen es prorrogar el contrato de comodato por un periodo que cubra la mayor parte de la vida económica del activo . 
+
+➢ La entidad obtiene sustancialmente los beneficios económicos futuros o el potencial de servicios del activo. 
+
+➢ La entidad tiene la capacidad para restringir a terceros el acceso a los beneficios económicos futuros o al potencial de servicio del activo. 
+
+➢ La entidad asume los riesgos sustanciales inherentes al activo . 
+
+➢ Que no se han fijado condiciones frente al uso o destinación del activo transferido. 
+
+Dicha evaluación deberá estar documentada en el contrato de comodato o en su defecto en el acta de entrega de los bienes. 
+
+El ingreso se hará soportado en el acto administrativo suscrito entre las partes y acta de entrega de los bienes, en la cual se establezca la entidad que tendrá el control de los activos (Activos o Activos contingentes), para que el área de propiedades, planta y equipo en servicio ejerza un control especial sobre estos bienes. 
+
+Cuando se reciban bienes en comodato de terceros de naturaleza privada, además de las consideraciones expuestas, se debe contar con la aprobación del propietario para determinar el reconocimiento como propiedades, planta y equipo en la entidad y en caso co ntrario, para efectos de control se registran en cuentas de orden y deberá ser objeto de revelación en las notas a los Estados Financieros. 
+
+Cuando sobre terrenos recibidos en comodato se adelanten construcciones con recursos de la unidad ejecutora, estas serán reconocidas como propiedades, planta y equipo. 
+
+##### 4.1.2.4 . 3.
+
+Bienes recibidos de cooperación internacional Los bienes recibidos de cooperación internacional se deberán incorporar en el S istema de Información Logístico - SIL OG, soportados en los siguientes documentos: ➢ Acto administrativo que autoriza la cooperación . 
+
+➢ Acta de entrega y de recibo a satisfacción debidamente valorizada (Especificar cantidad y valor de los bienes recibidos) . 
+
+➢ Declaración de importación (si aplica) 
+
+##### 4.1.2.4 . 4
+
+Bienes recibidos en donación de la DIAN destinados a actividades de acción integral . 
+
+Representa los bienes utilizados por la Unidad en activades de bienestar institucional o acercamiento con la población civil, para realizar la entrada debe tener como soporte: ➢ Resolución de donació n. 
+
+➢ Documento de delegación. 
+
+➢ Acta de entrega 
+
+##### 4.1.2.5 Otras entradas
+
+###### 4.1.2.5.1 Sobrante de bienes
+
+Los sobrantes de bienes se presentan en los siguientes eventos: ➢ En el almacén , cuando al efectuarse pruebas selectivas o al realizarse un conteo físico completo por la entrega de almacén o al cierre de la vigencia, se determina que el número de bienes es superior a los que se reflejan en los registros contables. 
+
+➢ En servicio , cuando al realizarse la verificación a la propiedad, planta y equipo en servicio de las dependencias y se encuentran bienes que no están incluidos en el informe de propiedad, planta y equipo en servicio , y sobre los cuales no es posible establecer soporte documental de su origen . 
+
+Para determinar que el bien efectivamente corresponde a un sobrante de inventarios se debe verificar que este no corresponda a transferencias pendientes de gestionar administrativamente o a faltantes en otros almacenes, esto con el fin de evitar la duplicidad de bienes. 
+
+Con los sobrantes encontrados se debe elaborar una e ntrada de a lmacén e incorporar en el S istema de I nformación Logístico – SILOG soportado en el acta respectiva , estos bienes se reconocerán por el valor comercial, costo histórico bienes que se encuentran en el stock de los almacenes de igual es características , valor de la última compra de bienes de similares características o valor definido en el concepto técnico emitido por el personal idóneo de la Unidad . 
+
+Si producto de los conteos físicos realizados, se establece que existen bienes propiedades, planta y equipo que no se encuentran reconocidas, se debe incorporar al almacén con independencia de las actuaciones administrativas que pueda determinar el servidor público competente . 
+
+La incorporación se realizará con bienes que se encuentren en buen estado. 
+
+###### 4.1.2.5.2 Incautados o aprehendidos
+
+La Unidad que efectúe la incautación, deberá levantar un acta, con los siguientes datos: ➢ Identificación, individualización, ubicación y extensión del o los bienes. 
+
+➢ Estado del bien . 
+
+➢ Uso actual del bien. 
+
+Informar por escrito al fiscal regional de su Jurisdicción, anexando copia del acta de aprehensión. 
+
+La Unidad Operativa que lleve a cabo la incautación, deberá poner a disposición de la Autoridad competente el bien sin excepción, mediante oficio, anexando copia de la planilla o acta de los bienes debidamente identificados y determinados. 
+
+Además, deberá enviar copia del oficio al Comando de la respectiva Fuerza, anexando copia del acta de aprehensión y del informe. 
+
+Los bienes incautados se registrarán en cuentas de orden deudoras, hasta tanto la autoridad competente determine su situación legal y se defina su destinación definitiva. 
+
+Por lo menos una vez al año, se hará una verificación física de los bienes incautados que estén bajo la responsabilidad de la Unidad. 
+
+##### 4.1.2.5 .3 Decomisados
+
+Una vez se defina la situación jurídica de los bienes incautado, la autoridad competente informará y determinará su valor, para dar ingreso al activo realizando la entrada de almacén. 
+
+##### 4.1.2.5 .4 Reparables
+
+El ingreso al almacén de los reparables se realiza de acuerdo con su estado, el cual es determinado por el inspector o personal idóneo en el área de mantenimiento ( r eparado, serviciable, dañado). 
+
+Una vez recibido el bien el almacenista deberá ubicar los componentes clasificándolos por su condición. 
+
+##### 4.1.2.5 .4.1 Reparados
+
+Una vez el elemento esté reparado se registra por el valor comercial, costo histórico, valor de bienes similares existentes o valor definido en el concepto técnico emitido por el personal idóneo de acuerdo con su estado. 
+
+##### 4.1.2.5 .4.2
+
+Serviciable Los elementos que han sido removidos de un componente mayor y no presentan fallas en su operación, se registra n por el valor comercial, costo histórico, valor de bienes similares existentes o valor definido en el concepto técnico emitido por el personal idóneo de acuerdo con su estado. 
+
+##### 4.1.2.5 .4.3 Dañado
+
+Los elementos que han sido removidos de un componente mayor y presentan fallas en su operación, serán registrados en cuentas de orden por el valor comercial, costo histórico, valor de bienes similares existentes o valor definido en el concepto técnico emitido por el personal idóneo de la Unidad . 
+
+###### 4.1.2.5.5 Nacimiento de semovientes
+
+En el nacimiento de semovientes el responsable dará aviso al Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , elaborará el acta de nacimiento o alta correspondiente, donde se especifican las características individuales y cantidad, lo cual sirve de base para la elaboración de la entrada de almacén. Dicha acta debe ser suscrita por los siguientes funcionarios: ➢ Segundo Comandante de la Unidad . 
+
+➢ Jefe de abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones . 
+
+➢ Presidente de la comisión de remonta y veterinaria, en las Unidades (si la hay) . 
+
+➢ Médico veterinario . 
+
+La entrada al almacén de los semovientes caninos y equinos se realizará a partir de los dos meses de nacidos de conformidad con las tablas de valoración establecidas por cada Fuerza. 
+
+Se consideran semovientes improductivos los recién nacidos que por su condición no son aptos para el servicio, para los caninos hasta un año, para los equinos hasta los tres años. 
+
+Cumplido el tiempo estimado como semovientes improductivos, se definirá un nuevo valor de acuerdo con las condiciones físicas, especialidad y entrenamiento, el cual se reconocerá como adición y mejora. 
+
+##### 4.1.2.5 .6 Bienes adquiridos a través del Programa de Asistencia y Seguridad
+
+USSAP (FMS y otros programas de asistencia y seguridad) Los bienes adquiridos a través del Programa de asistencia y seguridad USSAP deben ingresar en el almacén del comando de la Fuerza o Unidad Ejecutora. El material debe ser recibido por el responsable de acuerdo con las condiciones pactadas en la LOA o contr ato, una vez se nacionalicen los bienes. 
+
+Los documentos soporte de la entrada de almacén son los siguientes: ➢ Contrato o LOA. 
+
+➢ Declaración de importación. 
+
+➢ Formato DD1348 o DD1149 (factura electrónica) . 
+
+La entrada de almacén se realiza en pesos, por el valor establecido en la declaración de importación, es decir por el valor nacionalizado; convirtiéndose éste en el costo histórico o de adquisición. 
+
+###### 4.1.2.5.7 O fsset
+
+Los bienes recibidos de conformidad con lo estipulado en los convenios derivados de Cooperación Industrial y Social - OFFSET, se les debe realizar la entrada al almacén soportada en los siguientes documentos: ➢ Convenio derivado de Cooperación Industrial y Social OFS SE F . 
+
+➢ F actura (con la descripción que se genera por un Convenio de Cooperación Industrial y Social OFFSET, sin costo para el Ministerio de Defensa Nacional) . 
+
+➢ La Declaración de Importación – Nacionalización . 
+
+➢ Acta de entrega (con la descripción de las actividades a las cuales van destinados los bienes e indicando que corresponde a material y equipo no reembolsable y que ingresan en cumplimiento del convenio) . 
+
+Así mismo, se debe efectuar control sobre los bienes entregados y determinar la responsabilidad de la custodia de estos . 
+
+###### 4.1.2.5.8 Combustible de aviación,
+
+marítimo fluvial es y terrestre El combustible de aviación, marítimo fluviales y terrestre se constituye como un bien de consumo por lo tanto debe ser objeto de control en todo su proceso logístico desde su adquisición, almacenamiento y consumo final. 
+
+La gestión y control de los i nventarios de combustible de aviación , marítimo fluvi ales y terrestre se encuentran estructurados en el Sistema Logístico SILOG - SAP. 
+
+La gestión de inventarios se adelantará de forma independiente para los siguientes materiales creados en el sistema: ➢ Turbo combustible de Aviación JET - A1 (Código de Material 1351297) ➢ Gasolina de Aviación AV - GAS 100 - 130 (Código de Material 1073505) ➢ Metanol al 40% (Código de Material 1366916) ➢ Arte operacional marítimo (Código de Material 1750164) ➢ Biodiésel por galón (Código de Material 1346387) ➢ Combustible (Código de Material 1360575) Considerando las características particulares de los contratos de adquisición de combustible de aviación, marítimo fluviales y terrestre el bien se recibe en los sitios dispuestos no obstante se establece la entrega de la factura electrónica o documento soporte para no obligados con posterioridad, por esta sujeta a trámites administrativos; la entrada al almacén se realizará sin la factura electrónica o documento soporte para no obligados , sin embargo, esta se constituye en un requisito indispensable para aplicar las deducciones de carácter tributario y adelantar el trámite de pago. 
+
+Una vez se reciba el combustible se realizan las Entradas de Almacén por cada uno de los responsables, soportado en los siguientes documentos: En los Puntos de tanqueo propios : ➢ Guía de transporte ➢ Formato de recepción de combustible aviación, marítimo fluviales y terrestre ( Recibo a satisfacción) ➢ Vale de tanqueo En los Puntos de tanqueo tercerizados ➢ Guía de transporte ➢ Formato de recepción de combustible aviación, marítimo fluviales y terrestre (Recibo a satisfacción ➢ Planilla de consumos ➢ Vale de tanqueo El Formato de recepción de combustible aviación, marítimo fluvial es y terrestre, certifica la entrega del producto directamente al vehículo, unidad flotante nave o aeronave bien o la recepción de combustible s que ingresan por los diferentes conceptos a los almacenes de la Unidad, documento que debe contener como mínimo la siguiente información: ➢ Fecha de entrega del producto ➢ Sitio de entrega del producto ➢ Tipo de entrega (a granel o a la aeronave) ➢ Matricula de la aeronave ➢ Tipo de producto ➢ Cantidad en galones ➢ Valor ➢ Nombre y apellidos, cedula y firma (Quien entrega) ➢ Grado, Nombre y apellidos, cedula y firma (Quien recibe) El área responsable del control del combustible efectúa la revisión y verificación de la documentación provenientes de las empresas proveedoras que deben corresponder a los pedidos efectuados, verificando el correcto diligenciamiento de los soportes, confr ontando las listas de precios los cuales deben corresponder a los estipulados en los contratos y tramita para pago. 
+
+##### 4.1.2.5. 9
+
+Otros convenios Dada la particularidad de los hechos económicos involucrados en los convenios, c orresponde a la dependencia encargada de ejercer la supervisión, garantizar que se realicen los trámites administrativos y el suministro oportuno de los soportes necesarios, para realizar el recibo a través de los almacenes , de los bienes derivados de convenios suscritos por la entidad. 
+
+Se debe soportar con los documentos establecidos en el numeral 4.1.2.5. 9 o 4.1.2.4. 3 según aplique. 
+
+##### 4.1.2.5 .10
+
+Reintegro de bienes al almacén 
+
+###### 4.1.2.5.1 0.1
+
+Reintegro de bienes devolutivos en servicio Cuando un servidor público o un contratista que tiene bajo su responsabilidad un bien devolutivo en servicio y necesite devolverlo al Almacén, deberá hacer la entrega correspondiente al almacenista informando al responsable de bienes en servicio, mediante documento escrito o correo electrónico, a través del cual especifique claramente las características y estado del bien que va a devolver, de acuerdo con los datos consignados en el informe de propiedades, planta y equipo en servicio que recibió. 
+
+Si se trata de equipos tecnológicos, el reintegro debe estar acompañado de un concepto técnico, suscrito por personal capacitado e idóneo en la materia o certificado de estado suscrito por el jefe de la dependencia que reintegra. 
+
+El almacenista confrontará los identificadores del bien tales como: el modelo, la referencia, los seriales, etc., con los registros que reposan en el Sistema de Información Logístico - SILOG de su almacén; si éstos concuerdan elaborará la respectiva entrada de almacén en calidad de reintegro, realizando el registro en la cuenta Propiedades, planta y equipo no explotados, y lo ubica donde corresponda. 
+
+En caso de que las características de los bienes a reintegrar no concuerden con los registros del almacenista, se abstendrá de recibirlos. Si el responsable del bien no aclara esta situación en un plazo máximo de tres (3) días, el almacenista informará por escrito al Jefe de Abastecimiento, Jefe Logístico o quien es haga n sus veces, por delegación o en cumplimiento de sus funciones y Ordenador del gasto, con el propósito que se investiguen las causas de esta situación y se establezcan las responsabilidades a dministrativas , disciplinarias, o fiscales a que haya lugar. 
+
+Es obligación del Jefe de cada dependencia informar por escrito, al Jefe de propiedades, planta y equipo en servicio, sobre las novedades de transferencias o reintegros de bienes asignados a los funcionarios que laboran en su Oficina. Si esta novedad no es comunicada, automáticamente los bienes quedarán bajo la responsabilidad directa del Jefe del área. 
+
+Con los bienes retirados de las propiedades, planta y equipo en servicio y devueltos al almacén, se debe elaborar una entrada de almacén por reintegro, teniendo en cuenta los siguientes documentos: ➢ Documento remisorio de la devolución. 
+
+➢ Concepto técnico, siempre y cuando aplique. 
+
+➢ Con el propósito de no mantener saldos en esta cuenta por periodos superiores a seis meses, es necesario que el Ordenadores del Gasto o quienes hagan sus veces, servidores públicos que por delegación o en cumplimiento de sus funciones, Comandante de la Unidad centralizada administrativamente que tenga a cargo el control de bienes, disponga que el almacenista y demás servidores públicos responsables adelanten las gestiones administrativas, para determinar en forma oportuna las acciones a seguir con los bienes. 
+
+Dada la particularidad de los bienes del Ministerio de Defensa Nacional, se deben tener en cuenta las siguientes circunstancias especiales que justifican la permanencia de bienes en la cuenta propiedades, planta y equipo no explotados: ➢ Reserva estratégica de armamento . 
+
+➢ Armamento que pese a estar en buenas condiciones de funcionamiento, su uso está restringido o prohibido por las normas del Derecho Internacional Humanitario. 
+
+➢ Bienes de propiedad de la entidad entregados a autoridades judiciales por orden expresa. 
+
+➢ Armamento de instrucción (cuando la instrucción es esporádica) . 
+
+➢ Terrenos invadidos . 
+
+➢ Casos especiales debidamente justificados por la administración Para el caso de áreas de terrenos invadidos se trasladan a la cuenta propiedades, planta y equipo, una vez se efectúen los trámites administrativos o jurídicos, que permitan determinar su individualización y valor. 
+
+##### 4.1.2.5. 10.2
+
+Bienes inservibles Los bienes obsoletos, deteriorados, vencidos e inservibles, que se encuentren registrados en la cuenta 1637 Bienes no explotados, que cuenten con conceptos técnicos idóneos y recomendación del comité de bajas, se retiraran de las cuentas del activo y trasl adaran a las cuentas de orden, hasta que se formalice el proceso de baja y se ejecute su destinación final. 
+
+Salvo casos excepcionales debidamente justificados, al cierre del periodo contable en el saldo de esta cuenta no deberán incluirse bienes que se enc uentren en las condiciones antes descritas. 
+
+En caso de existir bienes que presenten un valor en libros de cero (0) que no cumplan con la definición de activos, deberán ser trasladados a las cuentas de orden, soportado con un concepto técnico emitido por el personal idóneo, en caso de no contar con e l soporte, su registro se deberá realizar por el costo histórico. 
+
+###### 4.1.2.5.11 Bienes considerados en el grupo de inventarios
+
+Cuando se necesite devolver al almacén mercancías, insumos, materiales y suministros, egresados del grupo de inventarios, que no hayan sido utilizados y estén en óptimas condiciones, el responsable de los bienes debe elaborar un documento soporte para su respectiva entrega. La devolución se lleva a cabo mediante la entrada de almacén en el Sistema de Información Logístico – SILOG correspondiente por el mismo valor de salida al servicio. En los casos en que los bienes correspondan a salidas realizadas en la vigencia , su incorporación se realizará a través de la cuenta 
+
+## 480825 Sobrantes, por el contrario, si
+
+se trata de vigencias anteriores, en el momento de la devolución se deben reconocer en la cuenta 480866 Recuperación de activos no financieros. 
+
+####### 4.1.2.5.11.1 Bienes en control administrativo
+
+Una vez llegados los bienes al almacén respectivo, el almacenista elaborará la Entrada de Almacén, previa verificación de por los menos los siguientes documentos soporte: ➢ Copia del contrato y sus modificaciones, si las hay. 
+
+➢ Factura electrónica o documento soporte para no obligados con requisitos de Ley (Nota 
+
+## 3 ) .
+
+➢ Acta de recibo a satisfacción del Supervisor. (Nota 
+
+## 4 ) .
+
+➢ Certificado de pruebas de laboratorio. (cuando aplique) . 
+
+➢ Especificaciones técnicas de los bienes de acuerdo con el contrato. 
+
+➢ Las muestras presentadas (cuando aplique). 
+
+Se refiere a los bienes ara los buen en control administrativo se incorporarán aquellos bienes de consumo (mercancías, elementos, insumos, materiales y suministros.), que no cumplan con las condiciones normativas para ser clasificados en las cuentas de Inventarios, los cuales deb erán ser controlados en el Sistema de Información Logístico – SILOG, hasta su consumo o baja en cuentas. Asimismo, se considerarán los bienes que por sus características particulares o especiales requieran ser controlados administra tivamente. 
+
+##### 4.1.2.6 Reposición de bienes
+
+Proce dimiento relacionado con la administra ción de bienes, a través del cual se permite reemplazar los bienes faltantes o los que han sufrido daños por causas derivadas del mal uso o indebida custodia, por otros de características similares o superiores. 
+
+E n e l Ministerio de Defensa Nacional se contemplará la reposición de bienes para los siguientes casos: 
+
+###### 4.1.2.6.1 Por compañías de seguros
+
+Cuando producto de las gestiones administrativas realizadas ante las compañías aseguradoras, se logra que éstas restituyan los bienes de estas o superiores características, a los cuales se dará ingreso al almacén teniendo en cuenta los siguientes aspectos: ➢ Obtener documentos soporte de la operación . 
+
+➢ Verificación de los bienes que se reciben. 
+
+➢ Elaborar un acta, donde se detallen el procedimiento llevado a cabo y relación discriminada de los bienes, características, cantidad, valor unitario, valor total y el estado de conservación en que se encuentran. 
+
+➢ Elaborar la entrada de almacén, con los respectivos soportes entregados por la aseguradora. 
+
+###### 4.1.2.6.2 Por garantía
+
+Procedimiento administrativo adelantado por el supervisor, ordenador del gasto , jefe logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , a través del cual se reciben bienes amparad os por la garantía del proveedor, en reemplazo de aquellos que no cumplieron con las condiciones establecidas en el contrato o por haber presentado defectos de fabricación . 
+
+S e da ingreso al almacén elaborando la respectiva entrada. 
+
+Para efectos de reclamación de garantías, se debe realizar por el valor total del elemento, no obstante, en caso de conocer el valor de la parte especifica se debe reconocer por el mayor valor entre: el valor comercial, costo histórico del bien, bienes sim ilares existentes en el inventario o por el valor determinado mediante concepto técnico generado por el personal idóneo al interior de la Unidad Ejecutora. 
+
+Al bien recibido en garantía, se dará el mismo tratamiento de un bien en condición nuevo y para el caso de los repuestos reparables en la condición que se encontraba en los inventarios, dando cumplimiento a lo dispuesto en el CAPITULO PROCEDIMIENTOS - Proc edimiento ingreso de bienes. 
+
+Para dar el ingreso al almacén se debe: ➢ Obtener el documento soporte de la operación ➢ Verificar los bienes que se reciben. 
+
+➢ Elaborar un acta de recibo a satisfacción. 
+
+➢ Elaborar la entrada de almacén. 
+
+La medición del bien se realiza por el valor establecido en el contrato de adquisición; cuando corresponde a garantías de servicios de mantenimiento sobre los bienes, por el valor de reposición suministrado por el proveedor. 
+
+###### 4.1.2.6.3 Por Servidor público
+
+Al activo que reponga un servidor público previa autorización del Ordenador de G asto o Segundo Comandante de la Unidad o autoridad competente, se le da ingreso al almacén por el valor definido en los soportes suministrados, elaborando una entrada de almacén. 
+
+Adicionalmente, se requiere de un concepto técnico de servidor público idóneo, que determine que el bien cumple con las mismas o superiores condiciones del bien objeto de la investigación, indicando su valor y vida útil. 
+
+Para dar el ingreso al almacén se debe: ➢ Obtener documento soporte de la operació n ➢ Verificación de los bienes que se reciben. 
+
+➢ Elaborar un acta, donde se detallen el procedimiento llevado a cabo y relación discriminada de los bienes, características, cantidad, valor unitario, valor total y el estado de conservación en que se encuentran. 
+
+➢ Elaborar la entrada de almacén, con los soportes respectivos. 
+
+##### 4.1.2.7 Entradas especiales
+
+Corresponde a la entrada de bienes que no se puedan clasificar en ninguno de los conceptos anteriores. 
+
+###### 4.1.2.7.1 En custodia
+
+Bienes recibidos de autoridad competente o de terceros para ser mantenidos con protección especial, mientras se define su situación legal o se reintegra a quien lo puso en dicha condición. 
+
+###### 4.1.2.7.2 Permuta
+
+Bienes recibidos a través de un contrato de permuta, en el cual las partes se obligan mutuamente a dar un bien por otro, esta modalidad podrá aplicarse siempre y cuando se encuentre contemplada en el Manual de Contratación expedido por la entidad. 
+
+###### 4.1.2.7.3 Apoyos de
+
+material entre la Fuerza Pública Se refiere a la transferencia temporal de, suministros o materiales desde la (Policía, Ejército, FAC, Armada Nacional), para su uso específico durante un periodo determinado. 
+
+Este tipo de préstamo suele estar regulado por normativas o procedimientos especí ficos para garantizar que el material se utilice de manera adecuada y se devuelva en buen estado. 
+
+### 4.2 PROCEDIMIENTO PARA LA SALIDA DE BIENES
+
+La salida de almacén debe registrarse en el Sistema de Información Logístico - SILOG por el almacenista en forma simultánea a la entrega de bienes, con base en la solicitud tramitada por el Jefe de la dependencia y autorizada por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, C omandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de bienes . 
+
+Las solicitudes de bienes que no se hagan dentro de la programación establecida, deben presentarse justificadas y llevar el visto bueno del Jefe de Abastecimiento o Jefe Logístico o quie n es haga n sus veces, por delegación o en cumplimiento de sus funciones , para que el almacenista proceda a despacharlos. 
+
+La salida de almacén no debe contener tachones, enmendaduras, adiciones o intercalaciones. 
+
+En caso de presentarse un error de tal naturaleza, el Jefe de Abastecimiento o Logístico deberá autorizar las correcciones y ajustes respectivos. 
+
+La salida de almacén debe contener firma y post firma del funcionario que recibe los bienes y del almacenista. 
+
+Estos quedarán como constancia del traslado de responsabilidad por dichos bienes. Los espacios destinados para registrar el nombre, firma y númer o del documento de identidad del funcionario que recibe, deben ser diligenciados con carácter obligatorio. 
+
+A la salida de almacén debe anexarse el documento correspondiente (orden de suministro o su equivalente) firmada por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, y rendirse con el e stado diario de almacén al área de Contabilidad. 
+
+Cuando las existencias disponibles en el almacén sean insuficientes, en relación con las cantidades solicitadas, la Salida de Almacén se elabora por las cantidades reales despachadas, dejando constancia en la solicitud de pedido. 
+
+Cuando se trate de transferencia de bienes, la salida de almacén deberá ser firmada por la persona que esté legalmente autorizada para recibirlos. 
+
+De igual manera , la firma se podrá hacer de forma digital. 
+
+Cuando el almacenista suministre materiales o materias primas debe hacerlo contra órdenes de producción o mantenimiento. 
+
+De la misma manera, el despacho de materiales se debe realizar teniendo en cuenta la solicitud de la dependencia que lo requiera. 
+
+El almacenista solo entregará o despachará elementos una vez tenga el concepto técnico de calidad o verificación de muestras por parte del supervisor del contrato. 
+
+La salida de Almacén debe contener como mínimo la siguiente información, así: o Nombre de la Unidad Ejecutora o Nombre de la Unida d o Lugar y fecha de la salida o Número de la salida en forma ascendente o Identificación del almacén que efectúa la salida o Concepto de la salida (modalidad de la salida) o Número y fecha de solicitud u Orden de Pedido o Dependencia solicitante o Nombre y cédula de ciudadanía del responsable o Número del acto administrativo con el cual se transfieren los bienes, para el caso de transferencias. 
+
+o Nombre y NIT. de la Unidad a la cual se transfieren los bienes o Número de Inventario para el caso de activos fijos. 
+
+o Código administrativo del activo o Descripción del bien, especificando: - Para bienes de naturaleza devolutiva: Nombre del bien, seriales, NSN (Nacional Stock Number) - Para bienes de consumo: Nombre del bien, referencia. 
+
+o Unidad de medida o Cantidad o Valor Unitario o Valor total de la salida o Valor en letras o Imputación contable o Espacios para: el nombre, cédula y firma, de quien recibe el bien, y la firma del almacenista. 
+
+Nota 8: p ara aquellos casos de carácter excepcional autorizados en forma escrita por el Ordenador de G asto o Comandante de la Unidad centralizada administrativamente que tenga a cargo el control de bienes y con el fin de garantizar el desarrollo de las operaciones, puede haber entrega de bienes soportado con vales provisionales debidamente firmados por el almacenista y funcionario que recibe y se hace responsable, documento que servirá de soporte para efectuar posteriormente la salida de almacén y atender requerimientos de los entes de control tanto interno como externo. 
+
+#### 4.2.1 Salidas de acuerdo con su destinación
+
+##### 4.2.1.1 Suministros
+
+###### 4.2.1.1.1 Suministro de bienes devolutivos
+
+Es la asignación de bienes a los servidores públicos y contratistas de las dependencias, para que éstos desarrollen sus funciones y actividades , quienes asumen la responsabilidad de custodia, administración, conservación, etc., cesando de esta manera la responsabilidad del almacenista. No obstante, el control de los bienes entregados al servicio será responsabilidad del jefe de propiedades, plant a y equipo en servicio. 
+
+###### 4.2.1.1.2 Suministro de bienes de consumo
+
+- Materiales y suministros Es el suministro de bienes a los servidores públicos y contratistas de las dependencias, para que éstos los utilicen en el desarrollo de sus funciones y actividades , quienes deberán hacer y responder por el buen uso de los bienes; cesando de esta manera la responsabilidad del almacenista. 
+
+Bajo esta modalidad entre otros, se contemplan los siguientes tipos de bienes: dotación de vestuario, material quirúrgico, medicamentos, combustibles, munición, lubricantes, elementos de oficina, repuestos, elementos de construcción, insumos en general y d emás accesorios. 
+
+Los bienes de consumo registrados como m ateriales y suministros se amortizarán en la medida que se van utilizando y se registraran en el Gasto en la subcuenta respectiva, de acuerdo con el Catálogo de cuentas para Entidades de Gobierno. 
+
+####### 4.2.1.1.2.1 Dotación de vestuario
+
+Es el suministro de prendas de vestir, que por ley se establece entregar al personal uniformado y no uniformado. 
+
+La dotación que se entrega a los Oficiales y Suboficiales se realiza con cargo a la partida anual de vestuario y equipo asignada a cada uno; para lo cual el almacenista debe llevar un control individualizado en forma sistematizada del saldo disponible de la partida asignada. 
+
+La dotación que se entrega al personal civil se realiza con cargo a la partida presupuestal de dotación, prendas de vestir y calzado de acuerdo con la normatividad vigente; para lo cual el almacenista debe llevar un control de las entregas , en coordinación con el supervisor del contrato El vestuario destinado al personal de inteligencia militar se descargará definitivamente del almacén respectivo, en el momento de ser entregado al servidor público , quien legalizará la salida de bienes, firmando la respectiva salida de almacén. 
+
+Igualmente, se descargarán en forma definitiva del almacén las prendas de uso personal que integran los uniformes deportivos . 
+
+Las dotaciones individuales a los cadetes y alumnos de las escuelas de formación se entregarán mediante planillas que indiquen la relación de las prendas, tallas y condiciones en que es recibida, ésta debe ser firmada por cada persona, indicando nombre completo, código militar, número del documento de identidad. Con el original de la planilla soportará la salida de al macén. 
+
+####### 4.2.1.1.2.2 Dotación de vestuario personal de tropa de las Fuerzas Militares
+
+Las dotaciones de vestuario que se entregue al personal de tropa se efectuarán a través del almacén de la unidad respectiva, sujetándose a las disposiciones fiscales y administrativas vigentes, en referencia a la dotación de las prendas militares, la canti dad de estas y el número de prendas asignadas , a través de planilla o acta de entrega. 
+
+A los uniformes camuflados almacenados debe dársele el tratamiento de elemento reservado o material de guerra, manejarse con extremas medidas de seguridad y ser objeto de revistas periódicas por los Comandantes en todos los niveles. 
+
+Los almacenistas de las unidades deberán llevar en el Sistema de Información Logístico - SILOG , la distribución numérica de los uniformes por Unidades; cuando este material se vaya a dar de baja, al elaborar las correspondientes actas, deberá relacionarse los números de las camisas, pantalones, gorras. 
+
+Se exigirán en las salidas de almacén de estos bienes, la firma del almacenista y el funcionario que recibe el vestuario, y se amortizará en la cuenta 
+
+## 8 374
+
+Bienes almacenados para consumo. 
+
+Las dotaciones individuales se entregarán mediante planillas que indiquen la relación de las prendas, tallas y condiciones en que es recibida, ésta debe ser firmada por cada persona, indicando nombre completo, código militar, número del documento de identi dad. Con el original de la planilla se soportará la salida de almacén. 
+
+Al efectuar devoluciones al almacén de las prendas militares, por concepto de desacuartelamiento, traslados, desertores, etc., el Comandante de Escuadrón o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, elabora la respectiva acta, determinando qué material es servible para elaborar la respectiva entrada de almacén. 
+
+La dotación inservible devuelta por los soldados debe destruirse por parte del almacenista de la respectiva Unidad o Batallón, de acuerdo con la normatividad ambiental. Las bajas de material camuflado se harán en acta separada de cualquier otro material manteniendo un control detallado de este hasta su disposición final atendiendo lo previsto en el numeral 
+
+##### 4.2.1.12 Destinación
+
+final de mercancías, elementos, insumos, materiales y suministros consumidos (pos - consumo) 
+
+####### 4.2.1.1.2.3 Combustibles
+
+El suministro de combustibles se efectuará directamente por la Unidad o a través del proveedor, utilizando diferentes medios de control, entre ellos: planillas, vales, chip u otros; el suministro debe estar autorizado por el Jefe de Abastecimiento, Jefe Logístico o quien es haga n sus veces, por delegación o en cumplimiento de sus funciones , indicando la fecha e identificación del equipo al cual se cargará el combustible solicitado. 
+
+Soportado con los diferentes documentos de las entregas diarias, el almacenista elaborará la respectiva salida de almacén, con lo cual se amortiza y se registra cuentas de orden subcuenta respectiva, de acuerdo con lo dispuesto en el Régimen de Contabilidad Pública. 
+
+Independientemente del medio de control utilizado por la unidad, en el S istema de I nformación L ogístico – SILOG, debe actualizarse diariamente los consumos de combustible con afectación a cada uno de los centros de costos correspondientes (aeronaves, vehículos, unidades a flote etc.), en ningún caso las unidades deberán registrar consumos de combustibles a centros de costos administrativos u operativos como oficinas, dependencias, responsables o cargos. 
+
+####### 4.2.1.1.2.4 Repuestos
+
+La salida de almacén debe estar firmada por el Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, s oportada con una orden de pedido, orden de suministro, orden de producción u orden de mantenimiento . 
+
+En la salida de almacén, se debe especificar con claridad el bien suministrado, las características del equipo donde se va a instalar; además, se exigirá a quien solicita el repuesto, que efectúe la devolución del que se va a cambiar, mediante solicitud escrita. 
+
+Cuando el mantenimiento se realice fuera de la unidad que suministra el repuesto en virtud de contratos de mantenimiento o reparación, se deberán adoptar los controles pertinentes para el reintegro del elemento dañado o se soporte la evidencia de destrucción de este (Acta de destrucción suscrita por el servidor público competente ). 
+
+El proceso de destrucción debe cumplir con los lineamientos de numeral 4.2 .1.5 Baja de bienes. 
+
+Nota 9: l a salida de repuestos debe estar soportada , con una orden de suministro, orden de producción u orden de mantenimiento en el S istema de Información Logístico - SILOG ( para el caso de la orden de producción u orden de mantenimiento en el cual no es necesario este firmad a o impresa ) o documental cuando este módulo no se encuentre definido para el tipo de bien sujeto a reparación. 
+
+####### 4.2.1.1.2.5 Materiales de construcción
+
+Cuando se produzca salida de almacén por entrega de materiales de construcción o materias primas, se debe indicar la obra, mantenimiento o reparaciones locativas, a que están destinados los bienes que se van a producir o a reconstruir, y anexarse la orden de suministro firmada por el Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones . 
+
+####### 4.2.1.1.2.6 Inventarios
+
+- materiales y materias primas Las salidas de bienes que comprenden materiales y materias primas deben contener el número de la orden de producción a la cual deben cargarse o adicionarse. 
+
+Asimismo, contendrá el número de unidades que se producirán con la materia prima entregada para tal fin. 
+
+####### 4.2.1.1.2.7 Medicamentos
+
+El suministro de medicamentos se realiza a través de dos modalidades: ➢ Modalidad Suministro medicamentos a través de operador logístico ➢ Modalidad por dispensación Los Establecimientos de Sanidad Militar que efectúen cambios de medicamentos por fecha de vencimiento, con sus proveedores, deberán efectuar la salida de almacén correspondiente, y registrarla en la cuenta 1530 BIENES EN PODER DE TERCEROS - Medicamentos. 
+
+Salvo casos debidamente justificados, n o debe ser superior a 30 días el cambio del medicamento, posterior a esto deben realizar la entrada al almacén del medicamento o bienes recibidos que se haya solicitado el cambio. 
+
+En las notas a los Estados Financieros, se deberá especificar el valor y laboratorio que tiene a su cargo el cambio de los medicamentos que soportan el saldo de esa cuenta cada mes. 
+
+##### 4.2.1.2 Transferencias internas
+
+La transferencia de bienes únicamente debe realizarse entre almacenistas, quienes validan con su firma los documentos soporte del movimiento, con el aval del ordenador del gasto respectivo. 
+
+Para el caso de transferencias, el término entrega del bien implica: tanto la entrega física, como la legalización a través de los documentos establecidos en el presente m anual. 
+
+De acuerdo con las políticas y situaciones logísticas presentadas en cada Unidad Ejecutora, la transferencia del bien puede tener su entrega física en el almacén de la Unidad de origen o directamente en el almacén de la Unidad de destino. 
+
+Cuando la entrega de los bienes se hace directamente en el almacén de la Unidad de destino, la responsabilidad por el transporte y la seguridad de los bienes es de la Unidad que hace la entrega, aun cuando el transporte sea suministrado por la unidad recep tora. 
+
+Cuando la entrega se hace en el almacén de la Unidad de origen, al almacenista de la unidad de destino o a un funcionario autorizado, la responsabilidad es de la Unidad que recibe a partir de la entrega de los bienes y firma a satisfacción de la salida de almacén. 
+
+Las áreas financieras pueden visualizar la información de las transferencias en el mismo momento que es realizado por el almacenista. 
+
+Para traslados internos entre dependencias, se debe hacer el reintegro al Almacén, para que el almacenista proceda a reasignar el elemento. 
+
+Para el envío de las transferencias efectuadas entre las diferentes Unidades Ejecutoras o entre Unidades de la misma Unidad Ejecutora, se debe tener en cuenta lo siguiente: ➢ Orden de transferencias (acto administrativo) firmado por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, comandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de bienes, autorizar de la Unidad Operativa. 
+
+➢ Que los bienes entregados sean iguales a los descritos en el acto administrativo de autorización de transferencia . 
+
+➢ Si son bienes técnicos, que las especificaciones de ellos, naturaleza y características sean iguales a las de la salida de almacén. 
+
+➢ Al entregar los bienes se deberá tener en cuenta su estado, cantidad y comprobar su peso. 
+
+En caso de que los bienes se envíen a través de una compañía transportadora, debe tener en cuenta : ➢ Los bienes deben estar debidamente asegurados por dicha compañía. 
+
+➢ Examinar la guía de transporte cotejando con los bienes entregados. 
+
+➢ Al entregar los bienes se debe elaborar acta de recibo, contar y verificar los bienes en presencia del transportador tomar registro fotográfico de los bienes . 
+
+➢ Cualquier irregularidad que se presente como daño o saqueo de los bienes, el almacenista informará a l O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, C omandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de bienes, autorizar El documento válido que soporta esta operación es el acto administrativo por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, C omandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de los bienes, que autoriza la transferencia y salida del almacén de origen. 
+
+En él deben quedar consignados todos los datos que indiquen con claridad qué bien es el que se traslada, de acuerdo con los datos extractados de los registros de propiedades, planta y equipo en servicio de la dependencia. 
+
+Se debe efectuar un control administrativo eficiente y permanente de las propiedades, planta y equipo trasladados a otras Unidades del Ministerio de Defensa Nacional, con el propósito de identificar los movimientos entre las mismas, y lograr la conciliación en forma oportuna. 
+
+Es importante que en la salida de almacén se identifique claramente (nombre, apellidos, número de identificación y cargo) del funcionario que recibe los bienes, así como, el acto administrativo mediante el cual se autoriza la transferencia. 
+
+Igual procedimiento se realizará en el caso de préstamo de combustible entre Unidades. 
+
+##### 4.2.1.3 Transferencia de bienes
+
+Para realizar la transferencia de bienes a otras entidades públicas, el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, debe expedir un acto administrativo disponiendo la entrega de estos , en la cual quedan consignadas las condiciones acordadas por las dos entidades. 
+
+La entrega física de los bienes, objeto de transferencia se hará a través de acta con la relación detallada de los bienes, con características, cantidades, valor unitario y valor total de los mismos, la cual deberán firmar los Almacenistas de las dos entidades y el ordenador del gasto, de acuerdo con las condiciones acordadas por las dos entidades, consignadas en el acto administrativo suscrito por servidor público competente . 
+
+Una vez firmada el acta, el responsable procederá a elaborar y firmar la respectiva Salida de almacén, documento que certificará la salida de los activos de la Unidad. 
+
+Para realizar la transferencia de bienes, se requiere: ➢ Acto Administrativo (Resolución) del ordenador del gasto. 
+
+➢ Acta de entrega física de los bienes con la relación detallada de los bienes, características, cantidades, valor unitario y valor total de los mismos. 
+
+###### 4.2.1.3.1 Entrega al programa Computadores para Educar
+
+De acuerdo con el Documento CONPES 3063, cuando la entidad tenga recursos informáticos que han llegado al final de su vida útil o que no requiera, los puede entregar al programa Computadores para Educar, a través de acto administrativo y demás documentación que requiera el proceso . 
+
+###### 4.2.1.3.2 A spectos de la norma de CISA
+
+En cumplimiento de la normatividad legal vigente, el Ministerio de Defensa Nacional, deberá considerar la transferencia a Central de Inversiones S.A. 
+
+– CISA, de los Bienes Inmuebles No Afectos al Servicio, conforme a los procedimientos definidos por el Ente Colector. 
+
+###### 4.2.1.3.3 Entrega gratuita de Bienes Muebles entre Entidades Públicas
+
+Este procedimiento opera cuando al interior de los Entes y Entidades se tengan bienes servibles, pero que no son usados o requeridos por la misma y pueden ser entregados a otros Entes y Entidades Públicas que si los necesitan, esta figura jurídicamente se conoce como “Enajenación de bienes muebles a título gratuito entre entidades estatales”, de acuerdo con lo señalado en el artículo 2.2.1.2.2.4.3 del Decreto 1082 de 2015142, el cual establece: “Las Entidades Estatales deben hacer un inventario de los bienes muebles que no utilizan y ofrecerlos a título gratuito a las Entidades Estatales a través de un acto administrativo motivado que deben publicar en la página web de la fuerza. 
+
+La Entidad Estatal interesada en adquirir estos bienes a título gratuito, debe manifestarlo por escrito dentro de los treinta (30) días calendario siguientes a la fecha de publicación del acto administrativo. En tal manifestación la Entidad Estatal debe se ñalar la necesidad funcional que pretende satisfacer con el bien y las razones que justifican su solicitud. 
+
+Si hay dos o más manifestaciones de interés de Entidades Estatales para el mismo bien, la Entidad Estatal que primero haya manifestado su interés debe tener preferencia. Los representantes legales de la Entidad Estatal titular del bien y la interesada en r ecibirlo deben suscribir un acta de entrega en la cual deben establecer la fecha de la entrega material del bien, la cual no debe ser mayor a treinta (30) días calendario, contados a partir de la suscripción del acta de entrega”. 
+
+##### 4.2.1.4 Bienes entregados sin contraprestación
+
+Para realizar la entrega de bienes sin contraprestación a otras entidades públicas, el Ordenador de Gasto , de acuerdo con su competencia debe expedir un acto administrativo (Contrato de Comodato o Resolución) disponiendo la entrega de estos , en e l cual deberán quedar consignadas las condiciones acordadas por las dos entidades. 
+
+La entrega física de los bienes se hará a través de acta con la relación detallada de los bienes, con características, cantidades, valor unitario y valor total de los mismos, la cual deberán firmar los Almacenistas de las dos entidades y del ordenador del gasto, de acuerdo con las condi ciones acordadas por las dos entidades, consignadas en el acto administrativo. 
+
+Una vez firmada el acta, el responsable procederá a elaborar y firmar la respectiva Salida de almacén, documento que certificará la salida de los activos de la Unidad. 
+
+##### 4.2.1.5 Baja en cuenta de bienes
+
+Corresponde a los o rdenadores del g asto o quienes hagan sus veces, servidores públicos que por delegación o en cumplimiento de sus funciones, Comandante de la Unidad C entralizada A dministrativamente que tenga a cargo el control de bienes, autorizar la baja mediante acto administrativo motivado, teniendo en cuenta la recomendación del Comité de Baja de Bienes y el concepto técnico emitido por personal idóneo, en el cual se determine que el bien no se encuentre en condiciones de prestar el servicio para el cual se adquirió, perdió su potencial de servicio por: encontrarse obsoleto, inservible, vencido, por reparación antieconómica, no susceptibles de readaptación, limitaciones para su reparación o reconfiguración para su uso, por término de l ciclo de vida; o no se requiera n para el cumplimiento del cometido estatal ; y determinar la destinación final que debe dársele a los mismos , la cual podrá realizarse simultáneamente con la baja o con posterior idad . 
+
+Una vez dados de baja estos bienes deben registrarse en cuentas de orden, mientras se llevan a cabo los trámites administrativos relacionados con la destinación o disposición final establecida o quienes hagan sus veces, servidores públicos que por delegación o en cumplimiento de sus funciones, Comandante de la Unidad C entralizada A dministrativamente que tenga a cargo el control de bienes . (No deben almacenarse por largos periodos de tiempo - máximo seis meses). 
+
+Para casos excepcionales ( Patrimonio cultural, bienes de interés cultural, material de guerra y reservado y que por sus características requieren para su disposición final de procesos especiales ) , en los cuales se deben coordinar y/o gestionar con entes externos al Ministerio de Defensa Nacional, se tendrá un tiempo máximo de un (01) año , una vez sean dados de baja , con el fin que se lleve a cabo los trámites administrativos para dar cumplimiento a lo dispuesto por el servidor público competente . 
+
+Para los bienes que serán objeto de baja debe contemplarse previamente si otra Unidad o entidad del sector defensa o entidad pública, los requiere para su uso, en cuyo caso aplicaría el procedimiento de transferencia interna o transferencia de bienes. 
+
+Destinación final de los bienes dados de baja: o Venta o Permuta o Destrucción o Desmantelamiento (Para reparación de partes) o Entregados en parte de pago o Entregados a otras Unidades con fines de instrucción (Escuelas de formación) o Entregados en adopción (Cuando se trate de caninos y equinos ) (Nota 
+
+## 10 )
+
+o Entregados a entidades protectoras de animales (Semovientes) o Entregados a museos con fines educativos o culturales o Utilizados como elementos de disuasión o exhibición o como patrimonio cultural o BIC o Arrecife Natural (Hundimiento) para el caso de Unidades a Flote o Entregados al programa Computadores para educar, como partes y/o repuestos o Entregados a la aseguradora cuando el contrato de seguros así lo disponga. 
+
+o Acuerdos con países aliados Gov to Gov (cuando aplique) . 
+
+o Proyectos de Ciencia y Tecnología e Innovación I+D+I Nota 10: e ntregados en adopción, únicamente procederá la entrega en adopción cuando se determine mediante acto administrativo motivado , que no es posible aplicar otra forma de disposición que garantice la vida, integridad física y emocional del semoviente. 
+
+Nota 11: e n cualquiera de los casos , la destinación final debe cumplir con la normatividad ambiental y de protección animal vigente s. 
+
+Para dar de baja bienes muebles inservibles, obsoletos o vencidos el procedimiento a seguir es el siguiente: La dependencia que tiene a cargo los bienes solicita al Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , una inspección para determinar el estado de los bienes que sugiere dar de baja. 
+
+El Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , designa un servidor público idóneo para que realice la función de verificar si los bienes son inservibles, obsoletos o vencidos, quien, mediante concepto técnico escrito, detalla claramente los bienes objeto de la baja y las razones para la misma. 
+
+Con base en el concepto técnico el comité de bajas evalúa y recomienda, al O rdenador del G asto o C omandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de bienes , la baja y destinación final de estos , las cuales quedará n consignada s en el acta de comité . 
+
+E l O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad C entralizada A dministrativamente que tenga a cargo el control de bienes con base en la recomendación del comité , elabora el acto administrativo (resolución), ordenando la baja de bienes y determinando el destino final que debe dársele a los mismos. 
+
+El Almacenista verificará la anterior documentación y si la encuentra correcta, procederá a elaborar la Salida de Almacén correspondiente; en caso contrario , la devolverá con las observaciones pertinentes. 
+
+Asimismo, ejercerá el control de los bienes relacionados en el acta. 
+
+La baja se legaliza con la salida de almacén, soportada en el acto administrativo (resolución) . 
+
+Nota 12: d e manera excepcional, en caso de que al cierre de la vigencia existan bienes que cumplan las condiciones para ser retirados de los activos de la entidad (baja) y cuenten con la recomendación del comité de bajas , el O rdenador del Gasto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad C entralizada A dministrativamente que tenga a cargo el control de bienes autorizar á la baja en cuentas y simultáneamente su registro en cuentas de orden , hasta tanto se formalice el acto administrativo que ordena la baja y se lleve a cabo la destinación o disposición final de l os bien es . 
+
+Cuando los bienes deban destruirse, este proceso podrá ser realizado por la misma Unidad o entregados a una empresa certificada , siempre y cuando se garantice su adecuada disposición final. 
+
+La destrucción en la unidad se llevará a cabo en el tiempo establecido en el acto administrativo que dispone la baja, en presencia del Jefe de Abastecimiento, Jefe Logístico de la Unidad, o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , para lo cual se deberá elaborar un acta de destrucción considerando las normas ambientales que procedan en cada caso. 
+
+Si se ordenó el desmantelamiento de los bienes dados de baja, para los materiales y partes considerados con potencial de uso institucional, se deberá realizar un concepto técnico - económico , por parte de un servidor público idóneo , que sirva de soporte para elaborar la entrada de almacén, procedimiento que requerirá de visto bueno del área contable de la unidad. 
+
+Cuando el material objeto de baja implique gastos de transporte o riesgos del personal y del equipo, o cause perturbación en el normal desarrollo de las operaciones militares o policivas (elementos en el exterior, lugares de difícil acceso), podrá el respo nsable de los bienes, pedir a l os Ordenadores del Gasto o quienes hagan sus veces, servidor público que por delegación o en cumplimiento de sus funciones, Comandante de la Unidad C entralizada A dministrativamente que tenga a cargo el control de bienes, que se autorice la baja en el lugar donde se encuentren, siempre y cuando , una comisión técnica que valore el bien apruebe esta solicitud a través de un acta donde se haga constancia del examen efectuado al bien y/o registro fílmico o fotográfico del proceso, y devolución de las plaquetas (sistema de identificación del bien) . Para los casos en que se realice el proceso con un proveedor , este generará una certificación que el bien fue destruido, y la documentación se anexará al acta de baja. 
+
+Para los bienes faltantes (hurto, perdida, siniestro , etc.) , una vez se tenga conocimiento de la novedad , soportado en el informativo presentado por el responsable al Ordenadores del Gasto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad C entralizada A dministrativamente que tenga a cargo el control de bienes , o la apertura de la investigación , se procederá a realizar el retiro de los inventarios y/o baja en cuenta de los saldos contables, simultáneamente se registrará en cuentas de orden deudoras para su control . 
+
+El comité de bajas deberá estar integrado como mínimo por el Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , el almacenista , un representante del área financiera , un delegado de l área jurídica y personal técnico idóneo . 
+
+Las sesiones del comité deberán contar con la participación de l Ordenador del Gasto o quien hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes y un delegado de control interno , con voz, pero sin voto. 
+
+Cuando se trate de bienes que están en poder de terceros para mantenimiento en el exterior y mediante concepto técnico se determina la imposibilidad de su reparación, para realizar el procedimiento de baja, se requerirá adicionalmente, una certificación del proveedor y registro fílmico mediante e l cual se dej e constancia que el bien fue destruido, los cuales quedarán anex os al acta de baja respectiva. 
+
+Es importante que , como mínimo se revisen los bienes en servicio una vez al año, de tal forma que , se gestione oportunamente su depuración y se programe la reposición cuando sea pertinente. 
+
+Nota 13: e l bien recibido por concepto de cooperación de Gobiernos Extranjeros, para realizar la destinación final debe contar con la autorización previa del gobierno cooperante , cuando así lo exija el acuerdo o convenio. Para el caso de vehículos y maquinaria recibidos de la DIAN como destino final solo puede considerarse la chatarrización. 
+
+Nota 14: l os bienes dados de baja susceptibles de ser catalogados como patrimonio cultural o bienes de interés cultural que cuenten una medición fiable deberán ser reconocidos en los términos previstos en la política contable No.1 Propiedades, planta y equipo o No.6 Bienes de uso público. históricos y culturales, o, por el contrario, mantenerse en cuentas de orden hasta tan to la administración defina el control administrativo correspondiente. 
+
+###### 4.2.1.5.1 Baja de semovientes
+
+El proceso de baja y destinación final de semovientes deberá garantizar que en cada una de las etapas se atiendan los principios de protección y bienestar animal, y solidaridad social, establecidos en la Ley 1774 de enero de 2016. 
+
+Cuando de manera excepcional, sea necesario sacrificar semovientes en malas condiciones por enfermedad o accidente, se podrá tramitar la correspondiente baja con posterioridad al sacrificio. 
+
+Al acta de baja que se expida para su control, se anexará una certificación del veterinario (acta de defunción) sobre la necesidad de haber efectuado el sacrificio en forma inmediata o por muerte natural. 
+
+En el caso de los caninos, teniendo en consideración que durante el servicio han desarrollado una relación afectiva con un miembro de la institución, una vez realizado el proceso de baja pueden ser dados en adopción teniendo prelación el respectivo guía ca nino. 
+
+Respecto de los equinos, únicamente procederá la entrega en adopción cuando se determine mediante acto administrativo motivado que no es posible aplicar otra forma de disposición que garantice la vida, integridad física y emocional del semoviente. 
+
+Nota 15: c uando los semovientes han sido entregados en adopción, se les debe realizar controles posteriores por lo menos una vez al año, para garantizar las condiciones de manutención y estado de salud de estos . 
+
+###### 4.2.1.5.2 Baja
+
+de Vehículos y demás bienes que tengan matricula y/o registros ante diferentes autoridades En los procesos de baja de vehículos y demás bienes que tengan matr í cula y/o registros ante diferentes autoridades, en los cuales se determine como forma de destinación final la destrucción se debe verificar que los mismos se encuentren a paz y salvo por concepto de impuestos, multas si a ello hubiere lugar, así mismo, se deberá cancelar la matricula ante la autoridad respectiva, dando aplicación a la normatividad vigente. 
+
+Para el caso de vehículos emitida por el Ministerio de Transporte, Capítulo V “CANCELACION DE LA MATRICULA DE UN VEHICULO”, artículo 16, establece el procedimie nto y requisitos, para la adecuada cancelación de la matrícula de vehículos ante los organismos de tránsito y su posterior destrucción. 
+
+###### 4.2.1.5.3 Baja
+
+de Aeronaves (tripuladas o no tripuladas) , unidades a flote y vehículos tácticos Una vez se inicie el proceso de baja de las aeronaves , unidades a flote y vehículos tácticos , mediante el acto administrativo se incluirá y determinar á la destinación final del bien y sus partes , de acuerdo con la naturaleza y características propias, y las modalidades aplicables, establecidas en el presente manual , en el numeral 4.2.1.5 Baja en cuentas de bienes. 
+
+##### 4.2.1.5. 4
+
+Baja de partes , materiales o suministros : Se refiere al proceso de baja de las partes, materiales o suministros que, no se encuentran identificados individualmente en el Sistema de Información Logístico – SILOG, y que, aunque están físicamente, no ofrecen un potencial de servicio o aprovechamiento para la entidad . 
+
+Sobre estos bienes únicamente procederá su destrucción en los términos previstos en el presente manual . 
+
+####### 4.2.1.5.4.1 Procedimiento
+
+para bienes de consumo (Materiales y suministros) Los elementos de consumo pueden ser dados de baja siguiendo los procedimientos regulares establecidos al interior de las Fuerzas Militares de Colombia, manteniendo los controles correspondientes en las oficinas FMS o informando a la oficina de Asistencia d e Seguridad - FMS del Grupo Militar. 
+
+####### 4.2.1.5.4.2 Procedimiento para Propiedades planta y equipo o devolutivos
+
+Cuando los equipos, quedan fuera de servicio por haber cumplido su vida útil, la Unidad que los tiene a cargo debe pedir concepto técnico de las dependencias correspondientes (en Colombia o en Estado Unidos) de acuerdo con el tipo de equipo, para determina r si su reparación es viable o resulta más conveniente darlos de baja. 
+
+Si el concepto técnico determina que es más conveniente dar de baja el equipo, se debe proceder a tomar fotografías de diferentes ángulos donde se evidencien las características técnicas e identificación del bien, y a tramitar la solicitud de autorización de baja, el cual debe ser firmado por el técnico o mecánico que conceptuó sobre la conveniencia de dar de baja el equipo, por el Jefe del Departamento Logístico y por el Comandante de la Unidad y tramitado a la Oficina FMS de la Fuerza correspondiente, en medio escrito y magnético. 
+
+Es necesario diligenciar correcta y completamente todos los datos consignados en el formato, debido a que dicha información es requerida por las Agencias encargadas de autorizar las bajas en los Estados Unidos, para determinar el tipo de procedimiento que se debe efectuar de acuerdo con la clase de material y a la forma como fue asignado a las Fuerzas Militares de Colombia. 
+
+La oficina FMS de cada Fuerzas, verifica la correcta elaboración de los formatos de “Requerimiento de Desmilitarización y Destrucción de Equipos” y que la información relacionada con el plan, caso NSN, fecha de recepción, etc. Sea correcta y tramita la sol icitud a la Oficina de Asistencia de Seguridad – FMS del Grupo Militar. 
+
+La Oficina de Asistencia y Seguridad – FMS del Grupo Militar, elabora un memorando solicitando autorización para dar de baja los equipos y envía copia del correo electrónico del formato de Requerimiento de Desmilitarización y Destrucción de Equipos, a la Agencia correspondiente en el Departamento de Defensa de los Estados Unidos. 
+
+La Agencia del Departamento de Defensa encargada, autoriza la baja de los equipos, estableciendo el procedimiento a seguir de acuerdo con el tipo de bienes e informando a la Oficina de Asistencia y Seguridad – FMS del Grupo Militar, la cual comunica a la F uerza que solicito la baja del Equipo, el procedimiento ordenado y las coordinaciones necesarias según el caso, así: ➢ Si el equipo requiere ser desmilitarizado, se coordina una visita de funcionarios del Departamento de Defensa al lugar donde se encuentra con el fin de dirigir y verificar el proceso. Para esta actividad se deben alistar previamente los medios requeridos p ara desmilitarizar el equipo de acuerdo con las recomendaciones de los funcionarios del Grupo Militar que realizaran la visita. 
+
+➢ Con el fin de aprovechar en mejor forma la visita de los funcionarios del Grupo Militar, se recomienda concentrar y alistar en una misma guarnición la mayor cantidad posible de equipos que se encuentran pendientes de desmilitarización para que el proceso s e pueda llevar a cabo en forma simultánea. 
+
+➢ Si el equipo no requiere desmilitarización se autoriza la Fuerza que lo tiene asignado para darlo de baja siguiendo el presente manual y los procedimientos establecidos al interior de cada fuerza. 
+
+##### 4.2.1.5. 5
+
+Baja bienes Históricos y culturales Un bien histórico y cultural se dará de baja cuando no cumpla con los requisitos establecidos para que se r reconocido como tal. Esto se puede presentar cuando se pierde el control del activo o cuando no se espera obtener el potencial de servicio por el cual fue reconocido en esta categoría de activo s . 
+
+Para el caso de los bienes históricos y culturales , se deberá anexar al proceso de baja concepto técnico, histórico y económico emitido por las secciones especializadas en cada fuerza así : Centro de Estudios Históricos del Ejército (CEHEJ), Dirección de Historia Naval Armada Nacional, Dirección de Patrimonio Histórico y Cultural de la Fuerza Aérea Colombiana , Departamento de Memoria Histórica y Museos del Comando General , Museo de la Policía Nacional . 
+
+Así mismo , el concepto deberá identificar la diferencia del patrimonio cultural y los bienes de interés cultural (BIC) según la normatividad vigente. 
+
+##### 4.2.1.5. 6
+
+Baja de bienes adquiridos a través de los Programas de Asistencia y Seguridad USSAP Para dar de baja bienes adquiridos a cualquier título a través de los programas de asistencia y Seguridad USSAP, la Unidad además de cumplir con lo establecido en el numeral 4.2. 1.5 Baja en cuenta de Bienes debe dar aplicación a los procedimientos establecidos por el Gobierno de los Estados Unidos (Manual Abreviado para Usuarios del Sistema FMS en Colombia” elaborado por el Grupo Militar de los EE.UU. el 28 de diciembre de 2004, el DoD 4160.21 - M. De fense Materiel Dispositivo Manual y Dodo 
+
+### 4160.21 - M - 1 Defense Demilitarization Manual), así:
+
+La baja de bienes de uso devolutivo adquiridos a través de los programas de asistencia y seguridad (incluye los equipos adquiridos con recursos del presupuesto nacional), es autorizada por el Departamento de Defensa de los Estados Unidos. 
+
+Los equipos con características tácticas militares deben ser sometidos a un proceso de desmilitarización para darlos de baja, con el fin de evitar que posteriormente puedan ser utilizados para fines contrarios a los establecidos en los acuerdos y políticas de los programas de asistencia y seguridad. 
+
+El proceso de desmilitarización es determinado y verificado personalmente por funcionarios del Departamento de Defensa de los Estados Unidos. 
+
+##### 4.2.1.5. 7
+
+Procedimiento para elementos recibidos a través del programa INL (antes NAS) Cuando la Unidad requiera dar de baja bienes donados a través del programa NAS, la Unidad además de cumplir con lo establecido en el numeral 4.2 .1.5 Baja en cuentas de Bienes debe coordinar previamente con el INL (antes NAS) para dar aplicación a los procedimientos establecidos por el Gobierno de los Estados Unidos para este caso. 
+
+##### 4.2.1.5. 8
+
+Baja de bienes recibidos de la DIAN Considerando que los bienes recibidos de la Dirección de Impuestos y Aduanas Nacionales DIAN no pueden ser objeto de comercialización de acuerdo con el artículo 
+
+## 532 del Decreto 2685 de 1999
+
+modificado por el artículo 52 del Decreto 1232 de 
+
+## 2001 que cita “PROHIBICIÓN DE COMERCIALIZACIÓN. L as mercancías que se
+
+donen no podrán ser comercializadas y se les deberá dar el destino para el cual fueron donadas, so pena de no hacerse acreedor a adjudicaciones futuras y a obligarlos a restituir el valor de la donación ” , una vez el mismo cumpla su vida útil y requiera ser dado de baja, la Unidad debe cumplir con lo establecido en el numeral 4.2. 1.5 Baja de Bienes y su destinación final deberá ser la destrucción . 
+
+Para el caso de vehículos, los cuales también tienen prohibida su comercialización, una vez estos no se encuentren en condiciones de prestar servicios a la Unidad Ejecutora a la que fueron asignados, en su proceso de baja y destinación final se deberá retirar su registro o características de identific ación, cancelar la matricula ante la autoridad de tránsito dando aplicación a la Resolución No. 12379 de 2012, emitida por el Ministerio de Transporte, mediante la cual en el Capítulo V “CANCELACION DE LA MATRICULA DE UN VEHICULO”, artículo 16, establece e l procedimiento y requisitos, para la adecuada cancelación de la matrícula de vehículos ante los organismos de tránsito y su posterior destrucción. 
+
+Así mismo, en caso que el vehículo donado por la DIAN no hubiere sido matriculado y cumpla con los requisitos establecidos en el Manual de procedimientos administrativos y contables para adelantar su baja, este debe ser desintegrado a través de una empresa que cumpla con los parámetros establecidos por el Ministerio de Transporte mediante la Resolución No 646 del 18 de marzo de 2014, la cual expedirá el Certificado de desintegración física total del vehículo, documento legal y concluyente que garantiza la d estinación final del rodante. 
+
+###### 4.2.1.5.9 Soporte de baja en cuentas
+
+Por regla general la Resolución constituye el documento soporte para dar salida definitiva del almacén de los bienes cuyas condiciones no permiten prestar un servicio a la Unidad, en la cual se debe relacionar el proceso que se adelantará con estos. De manera excepcional el acta del comité constituirá el soporte suficiente para realizar la baja en cuentas, en los términos previstos en el numeral 4.2.1.5 Baja en cuentas de bienes 
+
+##### 4.2.1.6 Salida de bienes a reparación y mantenimiento
+
+La entrega se formalizará mediante salida de almacén, atendiendo una orden de mantenimiento emitida por al servidor público competente , situación que se puede presentar al interior de la Unidad, en otra Unidad o con un particular. 
+
+###### 4.2.1.6.1 Reparación y mantenimiento de bienes con control administrativo
+
+Considerando la definición de bienes con control administrativo, en el sentido que fueron reconocidos en el gasto una vez salieron al servicio, cuando requieran ser sometidos a procesos de reparación o mantenimiento se deberá efectuar las operaciones logís ticas respectivas en el sistema, afectando los costos o gastos del periodo. 
+
+##### 4.2.1.7 Restitución de Bienes recibidos sin contraprestación
+
+La restitución de bienes recibidos sin contraprestación (cuando aplique) estará soportada en el acto administrativo firmado por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, o servidor público que de acuerdo con su competencia (Contrato de Comodato o Resolución) que le dio origen, en cumplimiento a las condiciones acordadas por las partes. 
+
+La entrega física de los bienes se hará a través de acta con la relación detallada de los bienes, con características, cantidades, valor unitario y valor total de los mismos, la cual deberán firmar los Almacenistas de las dos entidades y del ordenador del gasto, de acuerdo con las condi ciones acordadas, consignadas en el acto administrativo. 
+
+##### 4.2.1.8 Salida por Garantía
+
+Consiste en la entrega de bienes al proveedor a través de una salida de almacén, en aplicación de la garantía vigente, derivada del cumplimiento al contrato de adquisición de bienes o servicios o del acto administrativo que haya dispuesto el recibo por par te de la entidad. Este procedimiento se surte a través de un acta mediante la cual se indica que el bien sale de la unidad en calidad de devolución por garantía, para que el área de propiedades, planta y equipo en servicio o área correspondiente ejerza un control especial sobre estos bienes. 
+
+Mientras se realizan las gestiones administrativas, los procesos de inspección y pruebas de acuerdo a los términos del contrato y hasta tanto se determine su devolución, reposición o pago del mismo por parte del proveedor, (periodo que no debe superar tres meses para proveedores nacional y seis para proveedores del exterior), los bienes se reconocerán en la cuenta 1636 Propiedades, planta y equipo en mantenimiento cuando corresponda propiedades planta y equipo (Bienes devolutivos) y Inventarios en pode r de terceros cuando corresponda a mercancías, elementos, insumos, materiales y suministros , y reparables en condición nuevo y serviciable. 
+
+Por su parte, si corresponde a bienes reparables que son desinstalados por presentar fallas y están sujetos a un procedimiento de garantía con el proveedor del bien o del mantenimiento, considerando que en el momento de ser instalado se reconoció al gasto, el control de los bienes entregados al proveedor para efectos de garantía, se reconocen a través de cuentas de orden , y se registrará por el valor comercial, costo histórico, valor de bienes similares existentes o el valor definido en un concepto técnico emitido por el personal idóneo de la Unidad. 
+
+Cuando se trate de garantías relacionadas con bienes en control administrativo, se elaborará la salida de almacén y simultáneamente se reconocerá una cuenta por cobrar con contrapartida en ingresos diversos (480828 Indemnizaciones). Con el recibo de los bienes se elaborará la entrada almacén a cuentas de orden y se compensará contablemente la cuenta por cobrar contra la subcuenta del gasto respectiva (5111). 
+
+##### 4.2.1.9 Bienes destinados a actividades de acción integral
+
+➢ La salida de almacén de bienes que son utilizados por la Unidad en actividades de bienestar institucional o acercamiento con la población civil debe tener como soporte: ➢ El documento que dispone la realización de la acción integral u orden de suministro ➢ Acta que conste la entrega de los bienes, firmada por los funcionarios de la unidad que intervienen en la actividad (registro fotográfico). 
+
+➢ Planillas de firmas (cuando aplique) Es importante dejar consignado en la salida de almacén, que estos bienes fueron recibidos por trasferencia por parte de la DIAN o donación de un tercero y que no son requeridos para atender las necesidades propias de la Unidad. De igual forma, en las actas de entrega correspondientes a las actividades de acción integral, deberá constar el destino dado a los bienes. 
+
+##### 4.2.1.10 Retiro de Reparables Dañados (en condición condenado)
+
+Cuando los elementos reparables sean retirados del servicio por encontrarse dañados y su evaluación determine ser condenado, por control se deberá tramitar como soporte la correspondiente Resolución y acta de retiro firmada por el ordenador de gasto, para la reversión de las cuentas de orden y salida del almacén respectivo. 
+
+En el mismo acto administrativo deberá constar la disposición final establecida para dichos bienes, de acuerdo con las formas dispuestas en el numeral 4.2.1.5 . 
+
+Baja en cuenta de bienes. 
+
+##### 4.2.1.11 Retiro de Bienes con control administrativo
+
+Corresponde a l O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes , autorizar el retiro mediante acto administrativo, teniendo en cuenta la recomendación del Comité de Baja de Bienes y el concepto técnico emitido por personal idóneo, en el cual se determine que el bien no se encuentra en condiciones de prestar el servicio para el cual se adquirió, por encontrarse obsoleto, inservible, vencido, por reparación antieconómica, siniestrado; procedimien to que debe motivarse, indicando la disposición final establecida para dichos bienes, de acuerdo con lo dispuesto en el numeral 4.2.1.5 . 
+
+Baja en cuenta de bienes. 
+
+##### 4.2.1.12 Destinación final de
+
+mercancías, elementos, insumos, materiales y suministros consumidos (pos - consumo) Considerando la especialidad y las características especiales de los bienes clasificados en este concepto, corresponde a las áreas logísticas determinar cuáles debe n retornarse al almacén para establecer su disposición final , la cual debe ser tramitada a través del comité de bajas atendiendo los lineamientos que le sean aplicables del presente manual . 
+
+En tal caso, la disposición final o pos - consumo estará soportada mediante acto administrativo motivado en el que conste la destinación dada a los bienes, la cual será suscrita por el ordenador de gasto o Comandante de la Unidad C entralizada A dministrativamente que tenga a cargo el control de bienes , garantizando el cumplimiento de las normas medioambientales del Ministerio de Defensa Nacional . 
+
+Cabe indicar, que el proceso de disposición de mercancías, elementos, insumos, materiales y suministros consumidos bajo la modalidad de venta deberá atender todos los lineamientos dispuestos en el Numeral 4.3 Venta de Bienes. 
+
+##### 4.2.1.13 Renovaciones e inspección
+
+de repuestos Cuando un material y suministro (repuesto aeronáutico) por condiciones definidas en los manuales técnicos o condiciones contractuales requiera la inspección o renovación, y entregado al proveedor para la correspondiente inspección, se le realiza una salida del almacén a bienes en poder de terceros (situación que no debe superar s eis meses para proveedores naci o nales y ocho para proveedores del exterior), una vez se expida por parte del fabricante (o de expertos técnicos de la Unidad Ejecutora) la renovación o certificación, deberá ampliarse el plazo del vencimiento y reingresar a su condición en los inventarios, en caso contrario se deberá trami t ar la baja de los inventarios con base en e l concepto técnico de la Unidad como documento soporte . 
+
+### 4.3 VENTA DE BIENES
+
+En los procesos de enajenación de los bienes del Ministerio de Defensa Nacional, se podrán utilizar instrumentos de subasta y en general de todos aquellos mecanismos autorizados por las normas de contratación pública, siempre y cuando en desarrollo del proceso de enajenación se garantice la transparencia, la eficiencia y la selección objetiva, así como , los procedimientos dispuestos en el Decreto de Enajenación de bienes del estado. 
+
+La entidad de acuerdo con las normas vigentes podrá realizar directamente la enajenación o contratar para ello a promotores, bancas de inversión, martillos, comisionistas de bolsas de bienes o cualquier otro intermediario idóneo cuyo objeto social sea la enajenación especializada de bienes, según cor responda al tipo de bien a enajenar. También podrá hacerlo a través de las empresas y entidades del GSED y la sociedad Central de Inversiones CISA S.A. 
+
+En todo caso, para la venta de los bienes se debe tener como base el valor del avalúo comercial y ajustar dicho avalúo de acuerdo con los gastos asociados al tiempo de comercialización esperada, administración, impuestos y mantenimiento, para determinar el precio mínimo al que se debe enajenar el bien, de conformidad con las disposiciones legales vigentes. 
+
+Las Reglas y procedimientos para la venta establecidos por la Unidad, deberá garantizar la libre concurrencia y oportunidad de quienes participen en el mismo. 
+
+Los bienes serán enajenados a través de venta directa en sobre cerrado o en subasta pública. La adjudicación para la venta directa deberá hacerse en audiencia pública, en donde se conozcan las ofertas iníciales habilitadas y se efectué un segundo ofrecimie nto, frente al cual se adjudicará el bien a quien oferté el mejor precio. 
+
+En la subasta pública, de acuerdo con el reglamento definido para su realización, el mayor precio ofrecido por los participantes habilitados en sus ofertas será el valor inicial con el que se comenzara la subasta, el bien será adjudicado al que haya ofertado el mayor valor a pagar. 
+
+El listado de bienes a vender y el precio mínimo de venta de cada uno de ellos, podrán ser publicados a través del SECOP, en la página web de la entidad o en un diario de amplia circulación nacional. 
+
+El interesado en adquirir bienes deberá consignar al menos el 20% del valor base de venta para participar. 
+
+Así mismo, una vez se consolide la venta se deben realizar todos los trámites legales y documentos necesarios de transferencia de propiedad cuando aplique. 
+
+#### 4.3.1 DESTINACION DE LOS RECURSOS
+
+Los recursos producto de la venta de activos de propiedad del Ministerio de Defensa Nacional valor adjudicado incluido IVA , serán incorporados al Fondo de Defensa Nacional, en cumplimiento del artículo 120 de la Ley 633 de 2000 , de acuerdo con los lineamientos que para tal fin imparta la Dirección de Finanzas del Ministerio de Defensa Nacional . 
+
+Adicionalmente, se debe informar a la Dirección de Finanzas del Ministerio de Defensa, dentro del mismo mes que se efectúo la consignación, anexando copia del Formato Reporte Venta de Activos, Fotocopia legible de la transferencia realizada, Copia del Acto Administrativo que autoriza realizar la venta respectiva, Copia Registro Único Tributario del adquiriente impresión no mayor a 30 días. 
+
+### 4.4 DESTRUCCIÓN
+
+Cuando por obsolescencia, deterioro, avería, rotura o cualquier otro hecho que impida su venta o no la haga aconsejable, y se determine su destrucción, se debe seguir el siguiente procedimiento. 
+
+➢ El Jefe del área de almacenes y propiedades, planta y equipo en servicio, presentará ante él , Jefe de Abastecimiento , Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , la relación detallada de los bienes inservibles que van a ser destruidos. 
+
+➢ En el acto administrativo (Resolución) que ordena la baja y dispone la destrucción, se debe establecer el plazo para realizar este proceso. 
+
+➢ Con la resolución como antecedente, los bienes serán destruidos por funcionarios de la Unidad o entregados a una empresa certificada que garantice su adecuada disposición final, en presencia del Jefe de Abastecimiento, Jefe Logístico de la Unidad, o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , así como, un funcionario de Control Interno, en observancia de la normatividad ambiental vigente. 
+
+➢ Se elaborará un acta de destrucción mediante la cual se detallen los bienes destruidos, con la firma de los funcionarios que intervienen en el proceso. 
+
+Dejando constancia de los hechos mediante registros fílmicos o fotográficos. 
+
+➢ En los casos especiales donde se requiera contar con equipos especiales para la destrucción, se deberán trasladar a los lugares donde se garantice la protección d el medio ambiente, la seguridad industrial y preservar la vida humana. 
+
+➢ Para realizar los procesos de destrucción se deben atender las directrices establecidas en la Directiva Ministerial No. 
+
+05/2010 “Políticas de Gestión Ambiental para el Sector Seguridad y Defensa” y la Directiva permanente No 02/2022 “Directrices para la g estión ambiental en el Sector Defensa” y dar cumplimiento a la Resolución No de “Por la cual se definen lineamientos y actividades para la correcta disposición de los Residuos de Aparatos Eléctricos y Electrónicos” – RAEE en las entidades del sec tor Defensa; así mismo dar cumplimiento a los planes y/o programas de manejo integral de residuos establecidos por el área ambiental de cada una de las Unidades ejecutoras del Sector Defensa, cumpliendo con lo establecido en la normatividad ambiental colo mbiana. 
+
+### 4.5 EN CASO DE FALTANTES Y SOBRANTES DE BIENES
+
+Si como resultado de la verificación de los almacenes, se encontraren diferencias faltantes o sobrantes, el Jefe de Abastecimiento , Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , debe consultar al almacenista sobre los motivos de esa irregularidad. 
+
+En caso de que las explicaciones se refieran a posibles errores u omisiones en los registros, el Jefe de Abastecimiento , Jefe logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, verificará inmediatamente su veracidad sobre los documentos pertinentes. 
+
+Si se encontraren faltantes no justificados, el Jefe inmediato iniciara una investigación preliminar a fin de dar a conocer los hechos y establecer la responsabilidad administrativa respectiva . Tales comunicaciones se harán dentro de los cinco (5) días siguientes al levantamiento del acta correspondiente. 
+
+Soportado en el informativo del responsable de este o la apertura de la investigación, lo que suceda primero, procede a realizar el retiro de los inventarios y saldos contables, simultáneamente lo registra una responsabilidad en proceso en las cuentas de orden deudoras para su control. 
+
+Para el caso de los sobrantes dará aplicación al numeral 4.1.2.5 .1 Sobrante de bienes. 
+
+### 4.6 SUPERVISORES DE CONTRATOS
+
+O CONVENIOS Las oficinas o dependencias que adelanten procesos de adquisición de bienes a cualquier título , para uso de la Unidad, deberán asignar para cada contrato , convenio u orden de prestación de servicios un Supervisor de contratos, de acuerdo con la normatividad vigente. En todos los casos, la asignación deberá recaer en personal idóneo, preferiblemente servidores públicos con conocimientos técnicos de acuerdo con el tipo de bien a adquirir. La Unidad acudirá a la contratación de supervisores de contratos, sólo si no cuenta con personal idóneo , para los casos en que el objeto contractual demande del supervisor, conocimientos técnicos específicos que le exijan expedir en términos de confiabilidad, las constancias que indiquen que el bien ha sido entregado , en concordancia con las especificaciones solicitadas en el contrato por las Unidades del Ministerio de Defensa. 
+
+En los contratos o pedidos en que se estipulen las especificaciones técnicas de determinados materiales o equipos, y que deben verificarse por peritos o supervisores mediante ensayos o pruebas y estos sean entregados en el almacén, se recibirán a título de bodegaje y en forma condicional, mientras el supervisor emite a través de documento escrito, el concepto pericial o el resultado de las pruebas requeridas; el control de estos bienes se llevará en forma provisional, y una vez el supervisor emita el conce pto técnico mediante acta, el responsable dará por recibidos los bienes y elaborará la entrada de almacén correspondiente. 
+
+Para el caso de bienes recibidos directamente por las dependencias, sólo ingresarán al Almacén previa certificación del supervisor, mientras tanto, quedarán a cargo del funcionario que los tenga en su poder. 
+
+Efectuará la inspección visual de los bienes y tomará muestras aleatorias para compararlas con las presentadas por el proveedor, o mandarlas al laboratorio si es el caso, procedimiento que se debe formalizar por medio de un acta. 
+
+Cuando se trate de mantenimientos que aumenten la vida útil del bien, amplíen su capacidad productiva y eficiencia operativa, mejore la calidad de los productos y/o servicios o permita una reducción significativa de los costos, en el informe de recibo a satisfacción se debe dejar constancia de ello, con el propósito que las áreas de contabilidad determinen la pertinencia de realizar los ajustes contables. 
+
+Es responsabilidad del supervisor del contrato, gestionar la documentación que permita la elaboración oportuna de las entradas al almacén (conceptos técnicos, vidas útiles) , así como, de la aplicación de las garantías en los casos que sea necesario . 
+
+Los supervisores de cada contrato u orden de compra deberán verificar que las entradas de almacén de los bienes y servicios recibidos a satisfacción queden reconocidas antes del 31 diciembre en el sistema SILOG. 
+
+### 4.7 RESPONSABILIDAD DE LOS BIENES
+
+Son responsables ante la Ley, todos los servidores públicos y contratistas que administren custodien, manejen, reciban, suministren, o usen bienes de propiedad de las Unidades del Ministerio de Defensa Nacional. 
+
+Cada servidor público o contratista tendrá bajo su responsabilidad los bienes que le sean asignados para el uso de sus funciones o actividades , por tanto, debe n velar por su adecuada conservación y salvaguarda, así mismo , debe informar oportunamente las novedades que se presenten sobre estos . 
+
+Por lo anterior, el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes de la Unidad debe fortalecer los sistemas de control interno y promover la cu ltura del autocontrol. 
+
+La asignación de bienes a cada servidor público o contratista deberá estar soportada en un documento firmado por los intervinientes ( qu i e n entrega y quien recibe ) . 
+
+El Jefe de Bienes en Servicio y Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , deberán coordinar la realización de la toma física de los bienes muebles e inmuebles, conciliando la información contenida en el sistema SILOG – SAP; remitiendo el resultado de esta, a los jefes de las dependencias para su conocimiento. 
+
+En el evento en que se presenten inconsistencias, se adelanten las acciones disciplinarias y/o administrativas a que haya lugar, lo cual deberá ser informado y cruzado con la sección contable. 
+
+#### 4.7.1 Responsables de los bienes en bodega
+
+Se denomina responsable de bienes en bodega, toda persona que reciba, custodié o administre bienes de propiedad de las diferentes Unidades del Ministerio de Defensa, los cuales se encuentran almacenados. 
+
+➢ El responsable de bienes en bodega es el almacenista y tiene entre otras las siguientes actividades a su cargo : ➢ E l recibo y adecuada organización en bodega de los bienes adquiridos por la Unidad. 
+
+➢ L a óptima rotación de los inventarios ➢ El manejo, administración, custodia, protección de devolutivos, consumo, servibles e inservibles en depósito. 
+
+➢ Efectuar la solicitud oportuna de cambio de aquellos productos próximos a su vencimiento. 
+
+➢ Elaboración de registros adecuados, ordenados y actualizados de los bienes en depósito a su cargo. 
+
+➢ Verificar e informar al ordenador de gasto los bienes que están en el almacén por periodos superiores a seis meses. 
+
+#### 4.7.2 Responsables de los bienes en servicio
+
+Todo servidor público o contratista que tenga asignado el uso, custodia o administración de bienes de propiedad de las Unidades del Ministerio de Defensa, se constituyen en responsables de bienes en servicio y estarán sujetos a las disposiciones legales vigentes que rijan en la materia. 
+
+La asignación de bienes a cada servidor público o contratista deberá estar soportada en un documento firmado por el servidor público que entrega y quien recibe. 
+
+Los servidores públicos o contratistas de las Unidades del Ministerio de Defensa que tengan asignado el uso, custodia o administración de bienes a su cargo, son responsables de la pérdida o daño que sufran, cuando no se ocasione por el deterioro natural, por su uso normal o por causa justificada. 
+
+La responsabilidad por pérdida, daño, deterioro, disminución, mal uso de bienes, se determinará a través de los procesos administrativos que establezcan las normas vigentes que rigen la materia. 
+
+Para establecer la responsabilidad de servidores públicos o contratistas por la pérdida o daño de bienes, cuando no provenga del deterioro natural, se ordenará la respectiva investigación. 
+
+A su vez será responsable de los bienes en servicio el servidor público del área logística, que las autoridades administrativas determinen para tal fin, quien debe ejercer las funciones dispuestas en el numeral 2.5 del presente manual. 
+
+Es responsabilidad del O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, j efe de d ependencia o supervisor, establecer los controles administrativos para la devolución de los bienes que están a cargo del personal que es trasladado a otra Guarnición de forma que el almacenista verifique la entrega de los bienes a cargo del servidor público o contratista y expida un P AZ Y SALVO. 
+
+##### 4.7.2.1 Responsables de los bienes en servicio en Unidades centralizadas
+
+Son responsables de los bienes en servicio en las Unidades centralizadas los servidores públicos, contratista que tenga asignado el uso, custodia o administración de bienes de propiedad de las Unidades del Ministerio de Defensa , así mismo el jefe de propiedad es, planta y equipo o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, realizara verificación y control de los bienes e informar a cualquier novedad encontrada al ordenador del gasto . 
+
+### 4.8 RESPONSABILIDAD DE LA RECEPCIÓN DE LOS BIENES
+
+Es responsabilidad del almacenista la recepción de los bienes, sin embargo, corresponde al supervisor, Jefe de Abastecimientos , Jefe logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones en la Unidad respectiva, allegar oportunamente la documentación soporte para la recepción de estos . 
+
+El almacenista firmará los documentos que legalizan la entrada y salida de bienes. 
+
+### 4.9 PROCESO DE
+
+RESPONSABILIDAD ADMINISTRATIVA Es el conjunto de actuaciones que adelanta la autoridad competente, con el fin de establecer la responsabilidad de los servidores públicos o contratistas , por la irregular administración y manejo de los bienes del estado. 
+
+### 4.10 POLIZAS DE SEGUROS
+
+Todos los bienes del Ministerio de Defensa deben estar asegurados, de conformidad con las disposiciones legales vigentes y las políticas que para tal fin emita la entidad ; así mismo, los empleados de manejo deben tener pólizas de seguros. 
+
+### 4.11 CONTEO FISICO
+
+Con el propósito de verificar la existencia física de los bienes, es necesario que el Jefe de abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , imparta las instrucciones al a lmacenista y el j efe de propiedades, planta y equipo en servicio, para la realización de conteos físicos en cualquier época del año, o por entrega de la dependencia o Unidad, y en forma semestral o anual, con el fin de comprobar la existencia y conservación de los bienes asignados para el servicio de las dependencias. 
+
+En dependencias ubicadas en municipios , ciudades diferentes a la sede principal , incluso en el exterior , con el propósito de atender políticas de austeridad debe rá delegarse esta actividad en los directores o jefes de estas dependencias. 
+
+Los conteos físicos se harán constar en un acta suscrita por a lmacenista, j efe p ropiedades, planta y equipo en servicio y demás participantes, o el director o jefe de la dependencia regional y los servidores públicos o contratistas involucrados; la cual debe ser presentada al Comandante de la Unidad Operativa u ordenador del gasto correspondiente . Igualmente , se debe tomar nota del estado de conservación de los bienes y actualizar los datos en el Sistema de Información Logístico - SILOG , de tal forma que sirva como herramienta para el seguimiento y programación de mantenimientos oportunos o en su defecto continuar con el proceso de bajas, y así contribuir con la presentación de información real y confiable, en los estados contables. 
+
+La s Unidades que conforman el Ministerio de Defensa Nacional d eberá n llevar a cabo el conteo físico con el fin de realizar el respectivo control de los bienes que tienen a cargo los servidores públicos y contratistas, registrando esta actividad en los formatos requeridos. 
+
+Cuando existan diferencias en la información de los bienes es necesario que el responsable del levantamiento físico deje evidencia mediante acta, así mismo , deberá aplicar el procedimiento establecido en este manual para sobrantes y faltantes de bienes. 
+
+### 4.12 PROCEDIMIENTOS ESPECIALES
+
+#### 4.12.1 Material
+
+de guerra y reservado y Bienes de inteligencia y contrainteligencia 
+
+##### 4.12.1.1 Material de guerra
+
+Adquiere esta connotación todo el material y equipo de propiedad del Estado y que es utilizado para operaciones de tipo militar, de mantenimiento y restablecimiento del orden público, o como factor de poder disuasivo u ofensivo en los esquemas de seguridad y defensa nacional. 
+
+##### 4.12.1.2 Material reservado
+
+Adquiere esta connotación todo el material y equipo, que, dadas sus condiciones tecnológicas y su utilización en la seguridad y la defensa nacional, el conocimiento de su existencia y características por personas no autorizadas pueden poner en riesgo las condiciones de seguridad y defensa nacional, o afectar las relaciones diplomáticas de Colombia con la Comunidad Internacional. 
+
+Considérense como material de guerra y/o reservado, los definidos en el Decreto 695/83, Numerales del 1 a 15; y demás disposiciones que lo reglamente o sustituya. 
+
+Para el registro y control del material de guerra y/o reservado, se tendrá en cuenta si es devolutivo o consumo (materiales o suministros), registrando con base en el Catálogo Genera l de cuentas, dependiendo, si su utilización hace que se extinga con el primer uso, o si por el contrario el servicio que presta el bien tiene una duración superior . 
+
+##### 4.12.1.3 Bienes de inteligencia y contrainteligencia
+
+Son aquellos bienes que por su naturaleza y características especiales permiten cumplir con el ciclo de inteligencia y contrainteligencia, con el objetivo de proteger los derechos humanos, prevenir y combatir amenazas internas o externas contra el régimen democrático, el régimen constitucional y legal, la seguridad y defensa nacional y cumplir con los demás fines enunciados en la Ley 1621 de 2013. Adquieren la connotación de reservados por la necesidad de ser empleados en secreto , dado que el conocimiento de su existencia por personas no autorizadas podría poner en riesgo la finalidad de la actividad de inteligencia y/o contrainteligencia. 
+
+Los bienes adquiridos con recursos de gastos reservados para la ejecución de actividades de inteligencia, contrainteligencia e investigación criminal (numeral 7 articulo 6 ley 1219 de 2008), deberán permanecer en un control administrativo definido en los m anuales misionales por la autoridad competente; si al cumplimiento (finalización) de la misión(es) se determina que estos bienes son recuperables, deberán ser reconocidos como propiedad planta y equipo, según su clasificación y acorde con los lineamientos establecidos en los manuales relacionados con el control de bienes y de gastos reservados emitidos por la autoridad competente. 
+
+La reglamentación establecida para el control administrativo de los bienes deberá garantizar el soporte documental que permita su trazabilidad en cada una de las instancias. 
+
+T odos los bienes muebles e inmuebles al servicio de la Inteligencia y Contrainteligencia deben ser reconoc idos en los inventarios de las Unidades Ejecutoras que los tengan a su cargo en el Mini s terio de Defensa Nacional. 
+
+Su forma de incorporación y registro deberá garantizar su reserva. 
+
+##### 4.12.1.4 Reserva Estratégica
+
+Corresponden a cantidades de bienes devolutivos y de consumo excedentes de las necesidades reales, dispuestos para atender un consumo imprevisto que no puede ser determinado con precisión, incluyen reservas adicional es ordenadas para fines específicos, tales como la movilización militar. 
+
+Constitución de reservas estratégicas (almacenamiento preventivo): se refiere a la constitución de cantidades de materiales críticos de interés estratégico, como reservas de cobertura logística para atender las primeras necesidades, en caso de activación de un plan para afrontar algunas hipótesis de guerra hasta que sea puesto en marcha el plan de movilización económica. Se efectúa en depósitos especiales y se mantiene en situación pasi va en tiempo de paz. 
+
+##### 4.12.1.5 Control de bienes en bodega y en servicio
+
+Como mínimo en forma mensual se debe efectuar una verificación selectiva de los bienes, tanto en bodega como en servicio y el resultado de este, debe ser rendido al O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes , el control se efectúa sobre todas las operaciones relacionadas con las entradas, registros, conservación, mantenimiento, salidas y bajas de los bienes , y existencias de carácter devolutivo o de consumo, situación que se debe reflejar en el Sistema de Información Logístico - SILOG Mediante el adecuado y permanente control, se busca determinar el cumplimiento de las disposiciones relativas al manejo y administración de los bienes, establecer la adecuada utilización y evaluar el funcionamiento del Control Interno. 
+
+Los almacenistas de material de guerra o reservado y Bienes de inteligencia y contrainteligencia son responsables por los bienes que tengan en existencias en sus almacenes y por los que se le hayan entregado para su servicio o el de su oficina, los cuales deben contar con los soportes necesarios que determinen su permanencia en el almacén. 
+
+No obstante, lo anterior, el Material de Guerra o reservado y Bienes de inteligencia y contrainteligencia entregado al servicio , est ar á bajo la responsabilidad del respectivo jefe de dependencia, grupo, comandante, jefe propiedades, plata y equipo o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones . 
+
+##### 4.12.1.6 Responsabilidades
+
+En el momento que la entidad conozca de la pérdida o faltante de un bien, soportado en el informativo del responsable de este o la apertura de la investigación, lo que suceda primero, procede a realizar el retiro de los inventarios y saldos contables, simultáneamente , registra la responsabilidad en cuentas de orden deudoras para su control. 
+
+Adicionalmente, el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, debe realizar las gestiones administrativas relacionadas con la reclamación ante la compañía aseguradora y la puesta en conocimiento de los organismos o instancias competentes para la realización de las investigaciones pertinentes. 
+
+Con el fallo definitivo, se efectuará la cancelación de las cuentas de orden registradas. 
+
+##### 4.12.1.7 Mantenimiento
+
+Gastos consistentes en mano de obra, suministros y repuestos, que tienen como fin recuperar las condiciones del Material de Guerra y Reservado , y Bienes de inteligencia y contrainteligencia. 
+
+Para garantizar el registro adecuado de estos hechos económicos , es necesario evaluar si el mantenimiento o las reparaciones mejoran las condiciones del bien o incrementan la vida útil, caso en el cual, soportado en un concepto técnico, realizado por personal certificado e idóneo se considerará como un mayor valor del activo, de lo contrario se reconocen como gasto. 
+
+Sin embargo, el control fiscal y el manejo de la reserva en la información de esta clase de bienes , al ingresar al almacén para ser enviados a mantenimiento, y mientras permanezcan en esta condición , serán responsabilidad exclusiva de los almacenistas de material de guerra y reservado , y Bienes de inteligencia y contrainteligencia. 
+
+Una vez se determine la acción de mantenimiento a llevar a cabo sobre esta clase de bienes, el almacenista con las autorizaciones previas adelantará las gestiones del caso, a efectos de lograr el diagnóstico y mantenimiento en los talleres dispuestos para tal fin, debe realizar una salida de almacén para entregar los bienes que salen al mantenimiento, no obstante, ejercerá un seguimiento so bre los bienes entregados a los talleres, con el propósito de conocer el avance de los trabajos . 
+
+### 4.12. 1.8
+
+Contabilización Los documentos de contabilidad que soportan la información de estos bienes tienen clasificación de seguridad, por lo cual su manejo debe aplicar las normas vigentes de acuerdo con la clasificación de seguridad de los bienes, como son autorizaciones, restricciones y compartimentación. Además, su auditoría y control administrativo tiene un procedimiento especial y será responsabilidad de los Comandos de Fuerza. 
+
+No obstante, los bienes y sus movimientos d eben ser registrados en el Sistema de Información Logístico - SILOG, estableciendo las medidas que garanticen la reserva de la información. 
+
+El registro, contabilización, custodia e identificación, se rige por el Régimen de Contabilidad Pública. 
+
+El material de consumo como las municiones y los explosivos deben registrarse y manejarse como inventarios, considerando que su utilización unitaria no se realizará durante el mismo lapso sino periódicamente, para lo cual se efectuará la contabilización en el momento en que se realicen los descargos de almacén, o sean consumidos en servicio. 
+
+### 4.12. 1.9
+
+Baja de material de guerra y reservado y Bienes de inteligencia y contrainteligencia . 
+
+Se da rá de baja al material de guerra o reservado y Bienes de inteligencia y contrainteligencia, que por su desgaste, deterioro u obsolescencia no sea útil para el servicio por parte de la entidad y que no sea susceptible de recuperación, lo cual debe quedar deta llado en el concepto técnico. 
+
+Para realizar las bajas se debe dar aplicación a los lineamientos establecidos en el numeral 4.2.1.5 Baja en cuenta de Bienes y contar con el acompañamiento por parte de la Inspección General - Control Interno de cada Unidad Ejecutora o quien haga sus veces. 
+
+Cuando los bienes hayan desaparecido o hayan sido destruidos en operaciones militares, se debe elaborar un a cta donde se relacione el motivo de la pérdida de esos bienes. Esta a cta debe ser firmada por el a lmacenista de la u nidad y encargado de la propiedad, planta y e quipo en servicio, y el Ordenador del Gasto de la Unidad o Comandante de la Unidad . 
+
+E n el caso de corresponder a material técnico de inteligencia y contrainteligencia por el jefe de la dependencia de inteligencia o quien haga sus veces, y el J efe o Director del Organismo Superior de Inteligencia de la Fuerza. 
+
+Cuando ocurra la pérdida de un bien se agilizarán los procedimientos correspondientes dentro de la respectiva investigación, cumpliendo con los procesos contables ordenados para el caso. 
+
+En el evento que la Unidad traslade bienes para mantenimiento y el taller respectivo evalúe y conceptúe que no tiene recuperación, los bienes se devolverán a la Unidad que los envió, para que ésta tramite la baja y destrucción de este , se debe atender los lineamientos específicos establecidos por la respectiva fuerza , En caso de que la reparación se realizara en el exterior, y el concepto técnico del proveedor determine que es antieconómico recuperar el bien, previa coordinación entre las partes, deberá destruirlo dejando constancia escrita y el correspondiente registro fílmico o fotográfico donde se pueda identificar claramente el bien, documentos que serán soporte para realizar la baja en el almacén res pectivo. 
+
+### 4.12. 1.10
+
+Destinación final material de guerra y reservado y Bienes de inteligencia y contrainteligencia dados de baja que puedan constituir riesgo para la Seguridad Nacional Los bienes adquiridos para la Seguridad y Defensa Nacional, ya sea material de Guerra o Reservados (de acuerdo con lo establecido en los Decretos 695/83, Numerales del a 15; y decreto de y demás disposiciones que lo reglamenten o sustituyan), que puedan constituir riesgo para la seguridad nacional, y bienes de inteligencia y contrainteligencia, una vez dados de baja su destinación final será la destrucción; en razón a las características especiales que los revisten. 
+
+La destrucción de los elementos debe realizarse dejando constancia mediante acta de destrucción firmada por los que intervienen en el proceso, entre los cuales debe n estar: el Jefe Logístico, el Almacenista, el Ordenador del Gasto, el Comandante de la Unidad, en el caso de corresponder a material técnico de inteligencia por el Jefe Departamento de Inteligencia o su equivalente en cada una de las Fuerzas y el Jefe o Director del Organismo Superior de Inteligencia de la Fuerza, y un funcionario de Control Int erno. 
+
+Para realizar la destrucción de los bienes dados de baja se debe tener en cuenta: ➢ Para el caso de material técnico de inteligencia de las Direcciones y/o Jefaturas de Inteligencia de las Fuerzas Militares, a través de las Secciones Administrativas, solicitarán a la Inspección General - Control Interno de cada una de las Unidades Ejecutoras la asignación de un funcionario por dependencia para que intervenga en la destrucción del material, dejando constancia en el acto administrativo . 
+
+➢ Verificar que todos los bienes que figuran en la Resolución de baja estén relacionados en el Acta de Destrucción. 
+
+➢ Es necesario ser extremadamente cuidadoso en la verificación, en cuanto a los datos que identifican e individualizan los bienes a dar de baja, que figuran relacionados en el Acta, los que figuran en el listado general de bienes codificado, y los bienes físicos que se tienen a la vista para darlos de baja, en los cuales debe darse una perfecta coincidencia, al comparar marca, modelo, número de serial, número de placa, color, raza, número de chip, muescas, etc. , con el fin de evitar relacionar en el soporte de b aja , bienes que no tienen una situación legal definida o en investigación, que a la postre pueden adulterar la diligencia, viciar su legalidad y por ende, generar responsabilidades fiscales, administrativas, disciplinarias o penales. 
+
+➢ Firmar el acta por los servidores públicos que intervienen en el proceso de baja, entre los cuales debe estar: el Almacenista, el Ordenador del Gasto, el Comandante de la Unidad Operativa, en el caso de corresponder a material técnico de inteligencia por el Jefe Departamento de Inteligencia o su eq uivalente en cada de las Fuerzas y el Jefe o Director del Organismo Superior de Inteligencia de la Fuerza, un funcionario de Control Interno, cuando así lo estime conveniente. 
+
+### 4.12. 1.11
+
+D estinación final de l material de guerra y reserva do y bienes de inteligencia y contrainteligencia dados de baja que no causen riesgo a la S eguridad Nacional. 
+
+C omo pre - requisito a la destinación final, se deberá realizar la verificación de los bienes con las demás Fuerzas respecto del probable aprovechamiento del material o equipo, caso en el cual se procederá a realizar la transferencia del mismo entre unidades y Fuerzas. 
+
+Una vez descartado el aprovechamiento del material de guerra y reservado , y bienes de inteligencia y contrainteligencia por parte de las otras fuerzas , y siempre y cuando , no se genere riesgo para la Defensa, Seguridad Nacional y Ciudadana, se podrá recurrir a formas de destinación final diferente a su destrucción como la venta, permuta, entrega en parte pago y acuerdos con países aliados (gobierno a gobierno) , cumpliendo con los siguientes aspectos: 
+
+## 1. La fuerza debe elaborar los estudios previos de la destinación final del bien o
+
+material , de acuerdo con su tipo forma destinación que se pretende dar al mismo, los cuales deben incluir entre otros elementos la justificación, análisis de viabilidad, análisis de riesgos, análisis de costo – beneficio, análisis de las restricciones que tiene el bien de acuerdo con los cert ificados de origen y de uso final, análisis de las restricciones que se deberán imponer a terceros distintos al Ministerio de Defensa a través de nuevos certificados de uso final y que deban impactar la disposición final del b ien , de acuerdo con el análisis de riesgos y el concepto de seguridad nacional, análisis de las variables de seguridad que deben incluir los estudios de seguridad del potencial beneficiario de la destinación final del bien o material , y el análisis de las condiciones de desmilitarización que se deban realizar antes de la destinación final del material de guerra y reservado. 
+
+## 2. Como parte de los estudios previos del proceso para la disposición final del
+
+bien o material de guerra y reservado , se deben analizar y adjuntar los siguientes conceptos y documentos técnicos: a. 
+
+Concepto de Defensa y Seguridad Nacional sobre la viabilidad de la alternativa propuesta de destinación final del bien o material, que tenga en cuenta los compromisos internacionales y el contexto geopolítico, así como , la probabilidad de que la alternativa de destinación final termine fortaleciendo las capacidades de alguna de las amenazas identificadas dentro del contexto estratégico. 
+
+b. 
+
+Avalúo comercial firmado por persona o entidad competente. 
+
+c. 
+
+Concepto de comercio exterior. 
+
+d. 
+
+Concepto de las direcciones financieras de las fuerzas sobre los aspectos tributarios y de pago de la operación de destinación final. 
+
+## 3. Presentación para aprobación ante el primer Comité Estratégico de Logística y
+
+Eficiencia en el Gasto de la vigencia, d el programa de destinación final de armas, municiones y material de guerra o reservado por parte de cada Fuerza, incluyendo por cada subgrupo (de las clases de abastecimiento) la respectiva elaboración de estudios previos, de acuerdo con lo establecido en el numeral anterior. 
+
+El comité solo podrá aprobar el programa de destinación final presentado por la fuerza, por consenso y con la asiste ncia de todos sus miembros. 
+
+## 4. El Comité Estratégico de Logística y Eficiencia en el Gasto (Res 2983/2017),
+
+discutirá y decidirá si la alternativa de destinación final de las subclases de abastecimiento incluidas en el programa de destinación final se debe ejecutar de manera agregada y/o centralizada. 
+
+## 5. No se podrá dar destinación final al material que sea objeto de investigación
+
+por entidades de control, fiscalizadoras, o autoridades judiciales. 
+
+## 6. No
+
+se podrá efectuar destinación final a bienes que se encuentren en investigaciones administrativas por daño o perdida, hasta que no se esclarezcan los hechos de tiempo modo y lugar, por parte de la autoridad competente, mediante un fallo o concepto jurídico que lo permita 
+
+## 7. Para cuando la destinación final del material deba ser la destrucción se
+
+aplicará el procedimiento establecido en el numeral 4.12.1.10 de este manual. 
+
+Otras formas de destinación final diferente a su destrucción como la venta, permuta, entrega en parte pago y acuerdos con países aliados (gobierno a gobierno), se podrán realizar , mediante la autorización del O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes , podrá de forma excepcional sustentado en los conceptos técnicos, jurídicos, estudios previos que contengan los análisis de pertinencia y costo beneficio y plan de desmilitarización , como las siguientes ➢ Desmantelamiento (Para reparación de partes) ➢ Entregados a otras Unidades con fines de instrucción (Escuelas de formación) ➢ Entregados en adopción (Cuando se trate de caninos y equinos) (Nota 1 0 ) ➢ Entregados a entidades protectoras de animales (Semovientes) ➢ Entregados a museos con fines educativos o culturales ➢ Utilizados como elementos de disuasión o exhibición o como patrimonio cultural o BIC ➢ Arrecife Natural (Hundimiento) para el caso de Unidades a Flote ➢ Entregados al programa Computadores para educar, como partes y/o repuestos ➢ Entregados a la aseguradora cuando el contrato de seguros así lo disponga. 
+
+➢ Proyectos de Ciencia y Tecnología e Innovación I+D+I 
+
+### 4.12. 1.12
+
+Proceso de desmilitarización Procesos y/o procedimientos mediante los cuales se garanti za el retiro o inhabilitación total, de las características que determinan a un bien como elemento bélico, de inteligencia o que, dadas sus condiciones al servicio del Ministerio de Defensa, se reconozca un riesgo para la Seguridad y Defensa Nacional. 
+
+Una vez ejecutado este proceso se impide el uso y/o habilitación de propósito militar o policial a futuro que tenía inicialmente el elemento original. 
+
+( Manual de logística Inversa del MDN) Es la destrucción de las características ofensivas y defensivas propias de determinada clase de equipo o material. Lo anterior con el fin de evitar que posteriormente puedan ser utilizados para fines contrarios a los establecidos en los acuerdos y política s de los programas de asistencia y seguridad. 
+
+(Directiva Permanente del 2014) “Disposiciones Administrativas y Procedimientos para la adquisición de bienes y servicios a través del programa de asistencia y seguridad del Gobierno de los Estados Unidos, c on recursos del presupuesto nacional y recursos de cooperación del Gobierno de los Estados Unidos de América”. 
+
+### 4.12. 1.13
+
+Transferencia de material de guerra y reservado entre Unidades La transferencia entre Unidades, de los bienes para la seguridad y defensa nacional, se realizará mediante acta y con previa autorización del S egundo C omandante de la F uerza y la Dirección Técnica respectiva . Para el material técnico de inteligencia deberá realizarse a través de las Direcciones de Inteligencia, en razón a las características especiales que los revisten. 
+
+### 4.12. 2
+
+Bienes incautados 
+
+### 4.12. 2.1 Por unidades operativas
+
+Una vez se conoce de la incautación y con base en el informe presentado, se elabora la entrada de almacén y se registran en cuestas de Orden Deudoras; para determinar su valor se da cumplimiento a la TABLA DE AVALUOS, anexa al Acta No. 
+
+de 20 24 del Departamento Control Comercio Armas, Municiones y Explosivos, y demás disposiciones que la modifiquen o sustituyan. 
+
+Adicionalmente, se debe incluir en la planilla de control de este tipo de bienes. En cumplimiento a las disposiciones vigentes, se deben enviar mediante acto administrativo al Departamento de Control Comercio Armas, Municiones y Explosivos del Comando General de las Fuerzas Miliares, elaborando la respectiva salida de almacén, desafectando las cuentas de Orden Deudoras del registro inicial. 
+
+### 4.12. 2.2 Por otra entidad
+
+Cuando se reciben bienes incautados por la Dirección Nacional de Estupefacientes, Fiscalía General de la Nación, Dirección de Impuesto y Aduanas Nacionales, Departamento Administrativo de Seguridad, entre otras, se debe realizar la entrada de almacén con la información enviada por esta s Entidades, dichos bienes se registran en cuentas de Orden Acreedoras o en las cuentas de balance de acuerdo con las condiciones con las cuales han sido entregados a la entidad . 
+
+### 4.12. 3
+
+Formas de asignación de bienes 
+
+##### 4.12.3.1 Destinación provisional
+
+Cuando se reciban bienes en forma temporal de acuerdo con lo dispuesto por la autoridad competente, para ser administrados o usados hasta que se determine su situación legal, se debe realizar entrada de almacén y registrarse en las cuentas de Orden Acreedoras o en las cuentas de balance de acuerdo con las condiciones con las cuales han sido entregados los bienes a la entidad. 
+
+##### 4.12.3.2 En custodia
+
+Cuando se reciban bienes de otra entidad para su salvaguarda o custodia, se debe elaborar la entrada de almacén y registran en cuentas de Orden Acreedoras, hasta que se defina su situación legal. 
+
+### 4.12 .3.3
+
+Destinación definitiva Los bienes con extinción de dominio o decomisados que sean asignados en forma definitiva al Ministerio de Defensa por la autoridad competente, deben ser incorporados a las cuentas del activo correspondiente, mediante entrada al almacén, previa cancelación del registro en las cuentas de orden acreedoras o reclasificación de los registros existentes . 
+
+### 4.12. 3.4
+
+Bienes adquiridos en el exterior ubicados en depósitos habilitados Los servidores públicos, responsables de los depósitos aduaneros habilitados, deben velar por que las mercancías allegadas a los depósitos se encuentren debidamente consignadas en un documento de transporte internacional y procederá a elaborar la declaración aduanera de importación, la cual certifica el cumplimiento de todos los tramites exigidos por las normas aduaneras para la nacionalización de las mercancías. 
+
+La permanencia de la mercancía en estos recintos para efectos aduaneros corresponderá a las est ipulas por las normas vigentes. 
+
+Así mismo , deben velar por el cumplimiento de la normatividad aduanera para los de depósitos aduaneros privados. 
+
+Se debe rendir una planilla mensual que contiene las entradas y salidas de los bienes, dentro de cinco (5) primeros días hábiles siguientes de cada mes, a la Dirección de Comercio Exterior de cada Unidad Ejecutora. 
+
+La planilla deberá contener como mínimo los siguientes datos (formato establecido por la DIAN): ➢ Fecha y número del documento de transporte ➢ C antidad de (Cajas, paquetes, bultos, etc.) ➢ Fecha y número del contrato. 
+
+➢ Proveedor ➢ Clase de entrega (parcial o total) ➢ Valor US$ ➢ Nombres y apellidos y firma del responsable del depósito Únicamente debe ingresar el material con destino a la Fuerza Pública, el cual debe venir consignado a favor y uso exclusivo de la misma , y se dará disposición a la mercancía de acuerdo con la modalidad de importación que se le asigne El declarante o agencia de aduanas podrá efectuar la inspección previa, después de presentada una declaración anticipada y antes de que se active la selectividad como resultado de la aplicación del sistema de gestión del riesgo. 
+
+### 4.12. 4
+
+Reparables El reintegro de los elementos reparables al almacén se realiza mediante concepto técnico determinando su estado (serviciable y pendiente por reparación). Una vez recibido el bien el almacenista deberá ubicar los componentes clasificándolos por su condición de uso, elabora entrada de almacén y se registra en cuentas de orden deudoras. 
+
+Cuando se determine la reparación, el bien continúa en la subcuenta citada en el párrafo anterior, hasta tanto se reciba nuevamente, reparado y en condiciones de ser utilizado. 
+
+Es importante aclarar, que solamente se le dará ingreso al almacén a los bienes que mediante concepto técnico se determine que son susceptibles de reparación y atienda las necesidades operacionales de la fuerza, con ello, se busca no congestionar los almac enes con bienes que no sean útiles para el Ministerio de Defensa. 
+
+Una vez el elemento esté reparado, se le da entrada al almacén como inventarios en la cuenta 151409 Materiales y Suministros – Repuestos, y su medición inicial se realizará de acuerdo con la metodología que se defina para tal fin . 
+
+Cada almacén debe llevar el control de los bienes reparables en forma independiente de los demás bienes que se manejan en el mismo, e incluirlos en el Sistema de Información Logístico - SILOG 
+
+### 4.13 DEPRECIACION
+
+La depreciación es la distribución sistemática del valor de un activo a lo largo de su vida útil en función del consumo de los beneficios económicos futuros o del potencial de servicio. 
+
+Son depreciables las propiedades planta y equipos, que pierden su capacidad normal de operación durante su vida útil. 
+
+Para el cálculo de la depreciación se debe tener en cuenta los siguientes aspectos: ➢ Iniciará cuando el bien esté disponible para su uso, esto es, cuando se encuentre en la ubicación y en las condiciones necesarias para operar de la forma prevista para lo cual fue adquirido. 
+
+Como máximo al mes siguiente a su adquisición. 
+
+➢ Se reconocerá como gasto, salvo que deba incluirse en el valor en libros de otros activos de acuerdo con la política Inventarios o Activos Intangibles. 
+
+➢ Los terrenos no serán objeto de depreciación . 
+
+➢ La depreciación no cesará cuando el activo esté sin utilizar o se haya retirado del uso activo ni cuando el activo sea objeto de operaciones de reparación y mantenimiento. 
+
+➢ La depreciación de un activo cesará cuando se produzca la baja en cuentas o cuando el valor residual del activo supere su valor en libros. 
+
+La depreciación se determinará sobre el valor del activo o sus componentes menos el valor residual y se distribuirá sistemáticamente a lo largo de su vida útil. 
+
+#### 4.13.1 Vida útil
+
+Corresponde al periodo durante el cual la entidad espera utilizar un activo de P ropiedades, P lanta y E quipo, en la prestación de servicios o producción de bienes. 
+
+La estimación de la vida útil en un activo se efectúa con fundamento en la experiencia que la entidad tenga con activos similares. 
+
+La vida útil de las Propiedades, Planta y Equipo se estimarán en los siguientes rangos, para lo cual, se tendrán en cuenta, entre otros, los siguientes factores: a) La utilización prevista del activo. 
+
+b) El desgaste físico esperado, que depende de factores operativos: utilización del activo, el programa de reparaciones y mantenimiento y el cuidado y conservación que se le da al activo mientras no se está utilizando. 
+
+c) La obsolescencia técnica o comercial. 
+
+d) Los límites legales o restricciones similares sobre el uso del activo. 
+
+En circunstancias y condiciones normales se aplicarán los siguientes rangos: No obstante, lo anterior, cuando se considere que la vida útil fijada no corresponde con la realidad, debido a circunstancias tales como: mejoras y adiciones, acción de factores naturales, deterioro por uso, obsolescencia, avance tecnológico o especificaciones de fábrica, debe fijarse una vida útil diferente y revelarse tal situación en las Notas a los Estados Financieros. 
+
+##### 4.13.1.1 Periodicidad en la revisión de la vida útil
+
+La vida útil de las propiedades planta y equipo , debe revisarse por lo menos al cierre del periodo contable para determinar si existe un cambio significativo en esta variable , los cuales se pueden dar por razones , tales como , adiciones y mejoras, avances tecnológicos, políticas de mantenimiento, y reparaciones, obsolescencia u otros factores, podrán fijarse una vida útil diferente, registrando el efecto a partir del periodo contable en que se efectúa el cambio. 
+
+La vida útil de bienes usados se determina a partir del momento que se reciben dichos bienes, tomando como base el tiempo de servicio que se estime en el concepto técnico elaborado por el personal idóneo del área competente de la unidad . 
+
+En l as propiedades, planta y equipo que se tratan por componentes, la vida útil de cada componente será estimada mediante concepto técnico de l área competente de acuerdo con la especialidad . 
+
+Corresponde al Ordenador del Gasto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes , m ediante acto administrativo, establecer el responsable o responsables , dependiendo de la estructura y complejidad de los almacenes , para la revisión y ajuste de la vida útil de los activos, con el fin de garantizar que los bienes que cuenten con potencial de Activo Depreciable Años de Vida Útil Semovientes Entre 2 y años (a partir del traslado al servicio activo) Edificaciones Entre 2 y 150 años Embalses, represas y canales – Obras civiles Entre 2 y 150 años Plantas, ductos y túneles Entre 2 y 50 años Redes, líneas y cables Entre 2 y 50 años Maquinaria y equipo Entre 2 y 
+
+## 90 años
+
+Equipo médico y científico Entre 2 y 30 años Muebles, enseres y equipo de oficina Entre 2 y 50 años Equipo de comunicación Entre 2 y años Equipo de computación Entre 2 y 25 años Equipo de transportes Aéreo Entre y años (según sus componentes) Equipo de transportes Marítimo y fluvial Entre y años (según sus componentes) Equipo de transportes terrestre Entre 2 y 40 años Equipo de transportes Blindado de Combate Entre y años (según sus componentes) Equipo de comedor, cocina, despensa y hotelería Entre 2 y 30 años Bienes de arte y cultura Según peritaje. 
+
+servicio y estén siendo utilizados en la misionalidad por la Unidad, no se reflejen como totalmente depreciados o con valor neto cero en el S istema de Información Logístico - SILOG . 
+
+Para tal fin s e sugiere utilizar la metodología emit ida por la Dirección de Finanzas del Ministerio de Defensa para la revisión de la vida útil de las propiedades plantas y equipos. 
+
+#### 4.13.2 Método
+
+Teniendo en cuenta la particularidad de los bienes del Ministerio de Defensa Nacional, así como el carácter de reservado de gran parte de la información relacionada con los mismos, el método de depreciación de los activos fijos a utilizar en el Ministerio de Defensa Nacional es el de línea recta. 
+
+Por este método se determina una alícuota periódica constante para registrarla como disminución del patrimonio durante la vida útil estimada del activo. Se aplica cuando el activo es utilizado de manera regular y uniforme en cada periodo, y su cálculo resu lta de la siguiente fórmula: Alícuota Periódica = Costo del Activo Vida Útil Estimada del Activo 
+
+#### 4.13.3 Valor Residual
+
+El valor residual de la propiedad, planta y equipo es el valor estimado que la entidad podría obtener actualmente por la disposición (venta) del elemento después de deducir los costos estimados por tal disposición si el activo ya hubiera alcanzado la antigüedad y las demás condiciones esperadas al término de su vida útil. 
+
+En el Ministerio de Defensa, teniendo en cuenta que los bienes que se consideran propiedades, planta y equipo se adquieren con la finalidad de ser empleados en el cumplimiento del cometido estatal , y que por lo tanto durante la vida útil del activo se consumen la totalidad de sus beneficios económicos o su potencial de servicio , y en ningún momento la Entidad tiene previsto venderlos, el valor residual es cero. 
+
+No obstante, esta variable podrá ser modificada a través de las políticas contables o disposicion es administrativas de la entidad así lo dispongan. 
+
+### 4.14 DETERIORO
+
+El deterioro de la propiedad, planta y equipo es la pérdida parcial en su potencial de servicio, adicional al reconocimiento sistemático realizado a través de la depreciación o amortización. 
+
+Para efectos de estimación de Deterioro se consideran bienes de valor material aquellos que su costo individual de adquisición, producción, construcción, donación, transferencia o permuta sea superior a 1.000 SMMLV. 
+
+Por lo anterior, solo se evaluará si existen indicios de deterioro del valor de las propiedades, planta y equipo a los bienes cuyo costo individual sea igual o superior a 1.000 SMMLV. 
+
+Para los bienes de la Dirección G eneral de Sanidad Militar, el valor material para efectos de deterioro y por lo tanto para evaluar si existen indicios de deterioro es de 
+
+## 500 SMMLV.
+
+La evaluación respecto de si existen indicios de deterioro del valor de sus activos no generadores de efectivo, se realizará en el tercer trimestre de cada vigencia, o como mínimo, al final del periodo contable. 
+
+En caso de existir algún indicio claro de deterioro entre dicha fecha de evaluación y la fecha de cierre, o se evidencie la ocurrencia de un hecho imprevisto que afecte algún activo, el mismo será evaluado y reconocido en los Estados Financieros en el momento que suceda. 
+
+Si existe algún indicio, se estimará el valor de servicio recuperable del activo para comprobar si efectivamente se encuentra deteriorado; en caso contrario, no estará obligada a realizar una estimación formal del valor del servicio recuperable. 
+
+#### 4.14.1 Indicios de Deterioro
+
+Para determinar si existen indicios de deterioro del valor de la Propiedad, Planta y Equipo, se recurrirá, a las siguientes fuentes externas e internas de información, así: 
+
+##### 4.14.1.1 Fuentes Externas
+
+➢ Durante el periodo, han tenido lugar, o van a tener lugar en un futuro inmediato, cambios significativos con una incidencia adversa sobre el Ministerio de Defensa y Policía Nacional, los cuales están relacionados con el entorno legal, tecnológico o de polí tica gubernamental, en los que opera la entidad. 
+
+➢ Durante el periodo, el valor de mercado del activo ha disminuido significativamente más que lo que se esperaría como consecuencia del paso del tiempo o de su uso normal. 
+
+##### 4.14.1.2 Fuentes Internas
+
+➢ Se cuenta con evidencia que el bien lleva más de un año en los depósitos de la Entidad sin prestar el servicio para el cual fue adquirido. 
+
+➢ Se cuenta con evidencia que el bien está fuera de servicio por situaciones de orden técnico y no se cuente con los recursos para efectuar el mantenimiento o reparación que requiere . 
+
+➢ Se cuenta con evidencia que por restricciones de orden legal o de derecho internacional humanitario no se puede usar el bien . 
+
+➢ Se puede verificar que la construcción de un activo lleva más de un año detenida por no contar con los recursos necesarios o cualquier otra situación que impida su terminación y puesta en funcionamiento. 
+
+Si existe algún indicio de que la propiedad, planta y equipo está deteriorada, se verificará si existe pérdida por deterioro. En algunos casos podrá ser necesario revisar y ajustar la vida útil restante, el método de depreciación o de amortización, o el va lor residual del activo, incluso si finalmente, no se reconoce ningún deterioro del valor para el activo considerado. 
+
+#### 4.14.2 Reconocimiento del Deterioro
+
+El Ministerio de Defensa, reconocerá una pérdida por deterioro del valor de las propiedades, planta y equipo cuando su valor en libros supere el valor del servicio recuperable. El valor del servicio recuperable es el mayor entre el valor de mercado menos los costos de disposición y el costo de reposición. 
+
+La pérdida por deterioro se reconocerá como una disminución del valor en libros del activo y un gasto en el resultado del periodo. 
+
+Luego de reconocer una pérdida por deterioro del valor, los cargos por depreciación o amortización de las propiedades, planta y equipo se determinarán, para los periodos futuros, teniendo en cuenta el valor en libros ajustado por dicha pérdida. 
+
+Esto permitirá distribuir el valor en libros ajustado del activo, menos su eventual valor residual, de una forma sistemática a lo largo de su vida útil restante. 
+
+#### 4.14.3 Medición del Valor del Servicio Recuperable
+
+Para comprobar el deterioro del valor de la propiedad, planta y equipo, se estimará el valor del servicio recuperable, el cual corresponde al mayor valor entre el valor de mercado menos los costos de disposición y el costo de reposición. 
+
+No siempre será necesario determinar el valor de mercado del activo menos los costos de disposición y el costo de reposición. Si cualquiera de esos valores excede el valor en libros del activo, no habrá deterioro del valor y no será necesario estimar el ot ro valor. 
+
+Si no es factible medir el valor de mercado de la propiedad, planta y equipo menos los costos de disposición, se podrá utilizar el costo de reposición como el valor del servicio recuperable. 
+
+La determinación del valor de mercado, el costo de reposición y valor del servicio recuperable se realiza mediante avalúos técnicos de acuerdo con las normas legales vigentes, así mismo pueden ser realizados por parte de los funcionarios de la entidad que hayan desarrollado las actividades contempladas en el artículo 4º de la Ley 1673 de 2013 con anterioridad a la entrada en vigor de la citada ley, dando aplicación al artículo 12 del Decreto 556 de 2014.4.15 AMORTIZACION Representa el reconocimiento del consumo de los beneficios económicos futuros o el potencial de servicio que incorpora el activo intangible de vida útil finita, las cuales se estiman teniendo en cuenta el costo, el valor residual, la vida útil y las pérdid as por deterioro reconocidas. 
+
+Los activos intangibles de vida útil indefinida no tienen amortización. 
+
+La base para el cálculo de la amortización es el costo del activo intangible . 
+
+El método de amortización aplicable es el de línea recta. El cálculo de la amortización se determinará bajo la misma metodología y formulación aplicada a la depreciación. 
+
+La vida útil corresponde al tiempo durante el cual se espera que un activo amortizable pueda contribuir a la producción de bienes o a la prestación de servicios , la cual debe ser suministrada o gestionada por el supervisor del proceso que da origen al activo o por el área técnica involucrada en la adquisición . 
+
+### 4.16 ADICIONES Y MEJORAS
+
+Las adiciones y mejoras son erogaciones en que incurre la entidad para : aumentar la vida útil del activo, ampliar su capacidad productiva y eficiencia operativa, mejorar la calidad de los productos y servicios, o reducir significativamente los costos. 
+
+Se reconocerán como mayor valor del activo y, en consecuencia, afectarán el cálculo futuro de la depreciación o amortización . 
+
+Cuando se cumpla una de estas condiciones , soportado en un concepto técnico emitido o gestionado por la supervisión el valor de las adiciones y mejoras se constituye en un mayor valor del activo, momento en que debe evaluarse la extensión de su vida útil. 
+
+Las erogaciones de reparaciones y mantenimiento de las propiedades, planta y equipo, realizadas con el fin de recuperar la capacidad normal de uso del activo de las propiedades, planta y equipo, se reconocerán como gasto en el resultado del periodo. 
+
+#### 4.16.1 Adiciones y mejoras de Semovientes
+
+Para los semovientes que cumplen procesos de entrenamiento e instrucción que amplíen su eficiencia operativa o mejoren la calidad de los servicios que prestan, una vez c umplido este proceso y estén en condiciones de prestar el servicio a la entidad , se les debe determin ar su valor mediante concepto técnico , de acuerdo con las condiciones físicas, especialidad y entrenamiento, reconociéndose como adiciones y mejoras al mismo. 
+
+### 4.17 BIENES CON CONTROL ADMINISTRATIVO
+
+Los bienes tangibles e intangibles cuyo costo unitario sean inferiores a 50 Unidades de Valor Tributarios (U.V.T) de la vigencia en que se adquiere el activo, deberán reconocerse como gasto del ejercicio y se mantendrán en control administrativo a través del Sistema de Información Logístico - SILOG, que garantice su control y permita la trazabilidad de estos bienes . 
+
+No se aplicará a los bienes de armamento y equipo reservado, equipos de comunicaciones de acuerdo con el catálogo de homologación del Comando General de las Fuerzas Militares, bienes inmuebles y semovientes, los cuales se reconocerán como propiedades, planta y equipo sin considerar su valor. 
+
+Estos bienes, están sujetos a todos los procedimientos administrativos y controles dispuestos para los bienes devolutivos, por tanto, se deben realizar las transacciones en el sistema sin efecto contable. 
+
+Nota 16: e l control administrativo previsto para los bienes adquiridos con recursos de gastos reservados destinados a misiones de inteligencia y contrainteligencia se encuentra definido en el numeral 4.12.1.3 
+
+# CAPÍTULO V
+
+## 5. MECANISMOS DE CONTROL
+
+Con el propósito de establecer seguimiento a la propiedad, planta y equipo en bodega y en servicio, a continuación, se presentan entre otros, los mecanismos que permitirán ejercer vigilancia sobre los bienes: 
+
+### 5.1 SISTEMA DE ADMINISTRACIÓN DE BIENES
+
+El Sistema de Información Logístico SILOG permite Llevar un registro detallado y diario de todos los movimientos del almacén, así como de los bienes puestos al servicio, el cual se considera un control de tipo administrativo y su consistencia e integridad de los registros es responsabilidad del almacenista o jefe de propiedades, planta y equipo en servicio o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones . 
+
+Todos los bienes recibidos y entregados por las Unidades del Ministerio de Defensa Nacional deberán ser registrados en el Sistema de Información Logístico - SILOG, garantizando de esta forma el adecuado reconocimiento logístico, administrativo y contable de las operaciones . 
+
+### 5.2 ESTADO DIARIO DE ALMACEN
+
+Se elaborará y presentará el e stado d iario de a lmacén, mediante el S istema de Información Logístico - SILOG en el cual se incluirán los movimientos de entradas y salida de bienes, por grupo de elementos, de acuerdo con la desagregación contable; documento que se constituye en el único soporte para confrontar las cifras de los estados contables. Así mismo, al fin alizar el mes un e stado de a lmacén consolidado. 
+
+### 5.3 ESTADO
+
+CONSOLIDADO DE ALMACEN Se elaborará y presentará el e stado mensual de a lmacén, mediante el Sistema de Información Logístico - SILOG en el cual se incluirán los movimientos de entradas y salida de bienes, por grupo de elementos, de acuerdo con la desagregación contable; documento que se constituye en el único soporte para conf rontar las cifras de los estados contables. Así mismo, al finalizar el mes un Estado de Almacén consolidado. 
+
+### 5.4 INFORME DE BIENES EN SERVICIO
+
+Se elaborará el informe de bienes en servicio, mediante el S istema de Información Logístico - SILOG en el cual se incluirán los movimientos de bienes devolutivos en servicio, por grupo de elementos, de acuerdo con la desagregación contable; documento que se constituye en soporte para confrontar las cifras contables de los estados financieros . 
+
+### 5.4 .1 INFORME DE BIENES CON CONTROL ADMINISTRATIVO
+
+Semestralmente e l jefe de bienes y servicio o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones deberá elaborar el informe de bienes en control administrativo, mediante el S istema de Información Logístico – SILOG , en el cual se incluirá el detalle de estos bienes; documento que se constituye en soporte para confrontar en los conteos físicos. 
+
+### 5.5 CONCILIACIÓN
+
+Se debe conciliar el estado diario de propiedades, planta y equipo, en forma permanente con las cifras del balance, así como , los movimientos de las transferencias realizadas entre unidades. 
+
+### 5.6 CONTEOS FÍSICOS
+
+Como mínimo una vez al año, con corte al cierre de la vigencia fiscal, se debe realizar un conteo físico general, tanto de la propiedad, planta y equipo de la entidad, los bienes de consumo almacenados, y los bienes en control administrativo, dejando constancia mediante acta, el cual debe ser concilia do con las cifras de los Estados Financieros e informes. Las novedades deben ser actualizadas en el Sistema de Información Logístico - SILOG, y el por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, deberá adoptar las medidas administrativas pertinentes . 
+
+El acta debe contener por lo menos las siguientes especificaciones: ➢ Encabezamiento (lugar, fecha, dependencia, responsable, datos de la póliza de manejo y funcionario delegado para realizar el conteo físico). 
+
+➢ Detalle de los bienes contados, con las siguientes columnas: o Descripción del bien o Identificación o Unidad de medida. 
+
+o Existencias físicas. 
+
+o Estado de conservación. 
+
+o Diferencias (sobrante y faltantes) o Número de Parte o referencia, para los que aplique. 
+
+o Número de serie, para los que aplique. 
+
+➢ Explicaciones del almacenista sobre las diferencias encontradas, estado y conservación de los bienes, de acuerdo con las observaciones del personal que realizó el conteo. 
+
+➢ Observaciones y recomendaciones. 
+
+➢ Firmas de quienes realizan el conteo, del almacenista, y aprobación del Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones . 
+
+➢ Copia de esta acta deberá ser enviada a la Oficina de Control Interno o su equivalente en las Unidades Ejecutoras. 
+
+### 5.7 INSPECCIÓN SOBRE LOS ALMACENES O DEPÓSITOS
+
+Verificar por lo menos una vez al mes las existencias de almacén, mediante la práctica de pruebas selectivas, la cual debe ser ordenada por el por el O rdenador del G asto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, director, J efe L ogístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones en las Unidades del Ministerio de Defensa. 
+
+La fecha de cada prueba variará de uno a otro mes y en lo posible, quien practique esta diligencia, debe ser un Servidor Público diferente de aquél que ordinariamente ejerce el control de la dependencia. 
+
+La inspección se iniciará con el recuento físico de los artículos escogidos, confrontando las cantidades encontradas, con los saldos registrados en el Sistema de Información Logístico - SILOG . 
+
+Se requerirá al almacenista el registro en el Sistema de Información Logístico - SILOG , de los movimientos de almacén que estuvieren pendientes de registro. 
+
+Los resultados de la verificación selectiva se consignarán en un acta, que debe elaborarse al terminar la comparación y será firmada por los servidores públicos que intervienen. 
+
+El acta debe contener por lo menos las siguientes especificaciones: ➢ Encabezamiento (lugar, fecha, dependencia, responsable, datos de la póliza de manejo y funcionario delegado para elaborar la confrontación física). 
+
+➢ Relación comparativa de los bienes verificados, con las siguientes columnas: o Descripción del bien o Identificación o Unidad de medida. 
+
+o Existencias reales o Estado de conservación. 
+
+o Diferencia sobrante o Diferencia faltante o Número de Parte o referencia para los que aplique o Número de serie para los que aplique ➢ Explicaciones del almacenista sobre las diferencias encontradas, estado y conservación de los bienes, de acuerdo con las observaciones del personal que realizó la prueba selectiva. 
+
+➢ Observaciones y recomendaciones. 
+
+➢ Firmas de quienes realizan la prueba selectiva, del almacenista, y aprobación del Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones . 
+
+Los originales de estas actas se remitirán con el informe mensual a la dependencia que corresponda. Al almacenista visitado se le entregará una copia, después de ser aprobada por el Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones . 
+
+Dentro de la misma diligencia se examinarán los locales e instalaciones de los almacenes, con el fin de verificar que ofrezcan condiciones óptimas para garantizar la seguridad y buena conservación de los bienes. 
+
+Para el caso del almacenamiento de combustibles, el respectivo Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , ordenará inspecciones semanales a los depósitos de combustibles, por parte del almacenista, el bombero y un servidor público de Control Interno, confrontando las existencias con los saldos del Sistema de Información Logístico - SILOG . Al efectuar los cálculos, se debe tener en cuenta la merma del combustible, por evaporación, drenajes de los tanques y el gastado en la limpieza de estos . 
+
+### 5.8 CONTEOS PARCIALES
+
+Son los que se realizan en cualquier época del año y se hacen a nivel de dependencias, que obedecen a cambios de responsable, verificación de existencias y control de stock, dejando constancia mediante acta. Para este caso el a lmacenista , efectuará la actualización de los datos en el Sistema de Información Logístico – SILOG , con base en el informe presentado por el Jefe de Propiedades Planta y Equipo en Servicio o el personal delegado . 
+
+### 5.9 SISTEMA DE IDENTIFICACIÓN DE BIENES
+
+Con el propósito de hacer seguimiento a las propiedades, planta y equipo, se debe asignar un código numérico o alfanumérico a cada bien de uso devolutivo el cual será la referencia de éste para todos los eventos, el mismo estará pegado, insertado o colocado al bien (código de barras cuando aplique). 
+
+Cuando por condiciones especiales del bien entre ellas: materiales de fabricación, forma, tamaño, manipulación constante, uso y exposición a materiales como aceites, grasas, entre otros, se exceptúa que el mismo este pegado, insertado o colocado al bien, n o obstante, se debe garantizar que los mismos cuenten con un código numérico o alfanumérico que permita realizar el control de estos (Número de serie, placa, entre otros). 
+
+### 5.10 HOJA DE VIDA
+
+Para los equipos a los cuales es necesario realizar mantenimiento frecuente, se requiere mantener una hoja de vida, en la cual se estipularán los mantenimientos que se le haga n , anotando los repuestos utilizados y otros accesorios, al igual que los costos incurridos. 
+
+### 5.1 1
+
+CONTROL PERMANENTE 
+
+### 5.1 1.1 Bienes muebles en bodega
+
+El almacenista como custodio de los bienes que se encuentran en bodega ejercerá control a través de los siguientes medios: ➢ Sistema de Información Logístico - SILOG . 
+
+➢ Conciliación del movimiento del almacén con las entradas y salidas. 
+
+➢ Pruebas selectivas escogiendo los bienes de mayor rotación y valor, en forma periódica (quincenal) y dejando constancia por medio de un acta donde se especifiquen las diferencias encontradas. 
+
+#### 5.11.2 Bienes en servicio
+
+Los bienes en servicio que pertenecen a la cuenta Propiedades, Planta y Equipo y los bienes con control administrativo, serán controlados por el Jefe de bienes en servicio o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , a través de los diferentes listados que se lleven en las dependencias y se tendrá en cuenta los siguientes aspectos para su organización: ➢ En todas las dependencias de las Unidades del Ministerio de Defensa se llevará un listado permanente de los bienes que hayan sido entregados por el almacén, para el buen funcionamiento de la entidad, que contenga por lo menos la siguiente información: o Nombre y código de la dependencia o C ódigo de identificación de los bienes o Código contable a nivel de subcuenta o Fecha de adquisición o Identificación o Descripción del activo (Nombre, clase, modelo, marca, etc.) o Unidad de medid o Cantidad o Valor de adquisición o costo histórico o Valor Total o Valor total de las propiedades, planta y equipo de la dependencia ➢ Los listados de los bienes en servicio estarán a cargo del funcionario que los tiene en uso, el control será responsabilidad del jefe de la dependencia, quien designará un funcionario para tal fin. 
+
+➢ Los bienes devolutivos de uso común en las dependencias deben estar a cargo del Jefe de dicha dependencia. 
+
+➢ Todos los Jefes de las diferentes dependencias, en caso de ser trasladados deberán rendir el correspondiente listado de su dependencia al Jefe de bienes en servicio. 
+
+➢ El Jefe de propiedades, planta y equipo en servicio, debe efectuar verificación y seguimiento a los bienes en servicio, en forma periódica a través de análisis o muestras selectivas que brinden un margen de confiabilidad razonable. 
+
+Hacer seguimiento frecuente de los bienes entregados al servicio con los listados de cada oficina o dependencia, y en caso de encontrar diferencias por traslados entre oficinas , se debe aclarar la situación entre los Jefes de dependencia y proceder a la actualización en el Sistema de Información Logístico - SILOG en coordinación con el a lmacenista o j efe de p ropiedades p lanta y e quipo en s ervicio , de tal suerte, que a la fecha establecida para la toma física de los bienes, en el cruce de los conteos de las oficinas con el consolidado de control que reposa en el grupo de bienes, las diferencias sean mínimas. 
+
+➢ Una vez terminado el ejercicio de conteo, el Jefe de bienes en servicio, remitirá el resultado de este a los jefes de las dependencias para su conocimiento, en el evento de presentar inconsistencias, se adelanten las acciones disciplinarias y/o administrativas a que haya lugar. 
+
+### 5.1 1.2.1 Registros individuales
+
+El registro de los bienes individuales contendrá el detalle de los bienes asignados a los servidores públicos y contratistas para el desempeño de sus funciones o actividades ; en el encabezado irá nombre del funcionario y número del documento de identidad. Los demás ítems permanecerán iguales al registro por dependencia. 
+
+Los datos que aparecen en los registros se tomarán de las respectivas salidas de almacén, elaboradas por el a lmacenista. 
+
+El Jefe de bienes en servicio, debe mantener actualizado el registro de los bienes en servicio, conforme a las salidas de almacén reportadas por el almacenista y los informes por daños o pérdidas que afecten la responsabilidad del servidor público por los bienes a su cargo. 
+
+### 5.1 1.2.2 Cambio de
+
+servidores públicos o contratistas en las dependencias Cada vez que haya cambio de servidores públicos o contratistas de las oficinas o dependencias, el personal saliente deberá hacer entrega de los bienes a su cargo mediante acta al personal entrante o a quien quede a cargo , quien deberá realizar una verificación física de los bienes que recibe, copia del acta deberá remitirse al Jefe de bienes en servicio, quien coordina el registro de las novedades en los controles existentes, actualizando los registros individuales. 
+
+En caso de que se encuentren sobrantes, el Jefe de bienes en servicio o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , levantará el acta respectiva y solicitará al mismo tiempo copia de los documentos que indiquen la procedencia de este tipo de bienes. 
+
+Con el acta como antecedente y los documentos soporte el almacenista, procederá a coordinar la incorporación en los activos de la Unidad, con el fin de ejercer sobre ellos el control respectivo. De esta situación deberá informar al por el orden ador del gasto o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones, Comandante de la Unidad Centralizada Administrativamente que tenga a cargo el control de bienes, para que se adelanten las acciones pertinentes. 
+
+Cuando haya faltantes se registra la novedad en el acta de entrega, para que el Ordenador del Gasto, Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones adelanten las acciones que sean del caso. 
+
+De igual forma, se deberá proceder con el retiro de los activos y simultáneamente , con el reconocimiento en cuentas de orden de la responsabilidad en proceso. 
+
+El a lmacenista o j efe de p ropiedades, planta y equipo, expedirá el PAZ Y SALVO, a los funcionarios trasladados o desvinculados de la Entidad. 
+
+### 5.1 1.2.3 Entrega de dependencia o Unidad
+
+Siempre que se produzca novedad de cambio de servidor público en el cargo de dirección en la dependencia o Unidad (Batallón o su equivalente), se debe hacer una verificación física y confrontar con los listados de la dependencia y con la base de datos de los bienes en servicio. 
+
+Se debe elaborar el acta de bienes en servicio y firmada por el quien entrega y quien recibe. 
+
+### 5.1 1.2.4 Entrega de bienes a
+
+servidores públicos El Jefe de cada una de las dependencias que conforman la Unidad, debe hacer entrega formal a sus subalternos, de los bienes devolutivos en servicio, a través de listados individuales debidamente firmados. Los bienes de uso comunitario serán cargados al listado del Jefe de la Dependencia y no al listado individual de los subalternos. 
+
+### 5.1 1.2.5 Entrega de bienes a contratistas
+
+Será responsabilidad del supervisor del contrato coordinar la entrega de los bienes que necesiten los contratistas para el desarrollo del objeto para el cual fueron contratados. Estos a su vez, deberán devolverlos a la administración a través de actas, previa verificación del estado y conservación del bien. 
+
+Cada uno de los contratos efectuados con personas naturales o jurídicas y cuyo objeto deba desarrollarse en las Unidades del Ministerio de Defensa, deberá contener una cláusula que indique obligatoriedad de los contratistas de dar buen uso y custodia a los bienes que la entidad le suministra para su uso. 
+
+#### 5.11.3 Propiedades, planta y equipo, obsoleto
+
+Con el propósito de presentar información razonable y útil en los estados financieros , de acuerdo con lo registrado en el Sistema de Información Logístico - SILOG y el e stado d iario de propiedades, planta y equipo, se requiere que el jefe logístico, almacenista, jefe propiedad, planta y equipo, o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , verificar permanentemente el estado de obsolescencia de los bienes, tanto en servicio, como en bodega, para lo cual debe tener en cuenta: ➢ Determinar los bienes que llevan más de un año registrados en el Sistema de Información Logístico - SILOG y que no han presentado movimiento en el almacén. 
+
+➢ Efectuar conteo físico para determinar cantidad, precio unitario y tiempo de existencia en la Unidad. 
+
+➢ Elaborar acta con relación de los bienes, precios, cantidades y valor total firmada por el almacenista, ordenador del gasto y concepto del comité técnico. 
+
+➢ Determinar los bienes que ya cumplieron o están próximos a culminar el ciclo de vida útil. 
+
+➢ Determinar los bienes nuevos y que nunca se utilizaron (obsoletos) . 
+
+➢ Recomendar el destino que debe dársele a todos los bienes registrados como obsoletos. 
+
+➢ Llevar a cabo el proceso de baja de los bienes clasificados como obsoletos, previo concepto técnico y recomendación del Comité de Baja de Bienes. 
+
+➢ Reclasificar en cuentas de orden, los bienes que estén totalmente depreciados y no estén en condiciones de uso, 4.2.1.5 Baja de cuentas de bienes 
+
+### 5.1 2
+
+CASOS ESPECIALES 
+
+### 5.1 2.1 Deposito habilitado
+
+Las unidades ejecutoras del Ministerio de Defensa Nacional que cuenten con depósitos aduaneros habilitados por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) , para almacenar bajo control aduanero las mercancías consignadas al titular de la habilitación, deberán dar pleno cumplimiento a las obligaciones como depósito habilitado de acuerdo con la legislación aduanera vigente. 
+
+Se debe tener presente que la autoridad aduanera tiene la potestad de realizar el análisis integral en el control previo, control simultaneo o posterior para comparar la información contenida en una declaración aduanera respecto de sus documentos soporte, con el propósito de determinar si hay errores en la cantidad o errores u omisiones en la descripción de la mercancía que conlleven a que la mercancía objeto de control sea diferente a la declarada. 
+
+Por lo anterior, quien suscribe y presenta una declaración aduanera (declarante) será el responsable de acreditar la legal introducción de las mercancías al territorio aduanero nacional, con el lleno de los requisitos exigidos y pago de tributos aduaneros a que haya lugar de conformidad con lo previsto en la normatividad aduanera vigente. 
+
+Finalmente, se indica que el control aduanero es ejercido por la Unidad Administrativa Especial Dirección de Impuestos y Aduanas Nacionales (DIAN) quien permite el ingreso y salida de mercancías bajo control aduanero del territorio aduanero nacional. 
+
+### 5.1 2.2 Combustibles
+
+El almacenista debe llevar control de las existencias de combustibles en el depósito o en vales, a través del Sistema de Información Logístico - SILOG o en un libro de control, en el cual registrará todo recibo y despacho y liquidará diariamente los saldos, en cantidades y valores. 
+
+El sistema logístico facilita el control del consumo del combustible bajo los diferentes modelos, bien sea en vales o galones, para ello se requiere que los usuarios utilicen los centros de costos para el reconocimiento de tales acciones, este concepto en el consumo sólo se pueden afectar centros de costos asociados a vehículos, aeronaves, unidades de flote, etc . , no a centros de costos de dependencias u organizaciones internas del Ministerio de Defensa Nacional. 
+
+El control de la entrega de combustibles y sus registros en el Sistema de Información Logístico - S I LOG , será ejercido por el Almacenista, no por el bombero o liquidador del combustible. 
+
+Todos los depósitos de combustibles deben dotarse de un contador o medidor automático, con el fin de ejercer un mejor control sobre los suministros efectuados. 
+
+Las órdenes de suministro de combustible serán autorizadas por el Jefe de Abastecimiento, Jefe logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones . 
+
+Para el suministro de combustible a equipos de otras Fuerzas, se requiere que la Dirección encargada del combustible en la unidad autorice el suministro del mismo. 
+
+El recibo del combustible, una vez se efectúe la entrega debe ser firmado por el funcionario operador del equipo, registrando: grado, firma y pos - firma , número de c é dula e identificación plena del equipo al cual se le suministró. 
+
+Este concepto se controla en el sistema logístico como un pedido de traslado, mediante el cual la unidad que lo suministra registra una salida con cargo a una transferencia entre unidades misma entidad u otras entidades, la unidad que lo recibe registra la entrada y simultáneamente la salida al consumo con la afectación al centro de costo correspon diente bien sea vehículo, aeronave, unidad de flote, etc. 
+
+Para efectos del reconocimiento de la cuenta por cobrar por el préstamo realizado, en el pedido de traslado a la unidad solicitante en el campo texto, se debe indicar este concepto para efectos de facilitar los reportes de consumo por préstamos. 
+
+Semanalmente , se hará una comprobación de existencias en los depósitos, realizada por el Jefe de Abastecimiento, Jefe logístico, o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , por delegación o en cumplimiento de sus funciones, en presencia del almacenista o bombero, dejando constancia mediante acta, la cual se constituye en soporte para realizar la salida por merma. 
+
+Para efectos de verificación de existencias todos los depósitos deberán tener la respectiva tabla de conversión o equivalencia, certificada por el fabricante de este , con el fin de obtener los saldos con mayor precisión. 
+
+Se debe tener en cuenta, la merma de combustible por evaporación, por drenajes, y limpieza, en el caso de la evaporación, se deben tener en cuenta las tablas establecidas para determinar la cantidad evaporada diariamente, la cual debe quedar consignada en un acta que firmará el almacenista y Jefe de Abastecimientos, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , para que al finalizar el mes se elabore una salida de almacén por la sumatoria total de la merma que se reflejó. 
+
+Mensualmente se debe realizar una conciliación del saldo del contrato con el proveedor, exigiéndole una certificación por escrito de la cantidad de galones y saldo pendiente. 
+
+Si al efectuar el cotejo de los saldos que lleva la unidad con los que certifica el proveedor a la misma fecha de corte se presentan diferencias, se debe informar al Jefe de Abastecimiento, Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , por delegación o en cumplimiento de sus funciones , para la diligencia administrativa correspondiente a aclarar la diferencia encontrada. 
+
+### 5.1 2.3 Bienes Intangibles
+
+### 5.1 2.3.1 Licencias y software
+
+El manejo y control de las licencias y software que se adquiera estará a cargo del servidor público que para tal efecto delegue el jefe de la oficina de Informática de la respectiva Unidad o quien haga sus veces. Cada ingreso se registrará en el almacén de la Unidad y posteriormente será entregado a la Oficina de Informática o quien haga sus veces, la cu al tendrá la función de control, guarda y legalización de las licencias y software que a la fecha posea la Unidad. No obstante, el jefe de bienes en servici o o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones realizará los controles que corresponden, de acuerdo con la naturaleza de sus funciones. La Oficina de Informática o quien haga sus veces, remitirá al Área de Contabilidad, una vez recibidos estos bienes, un cuadro que indique el período de vida útil de l os mismos. 
+
+Los softwares por derechos de uso y las suscripciones , no se ingresarán al inventario de intangibles de la entidad por cuanto no hay cesión patrimonial de derechos de autor, en tal virtud, se reconocerán como gasto en el resultado del periodo . 
+
+Los costos incurridos en el mantenimiento de las licencias no se constituirán en un mayor valor de estas , estos valores serán reconocidos como gasto dentro de los Estados Financieros de la unidad. 
+
+### 5.1 2.3.2 Patentes y derechos y otros intangibles
+
+El manejo y control de las patentes y derechos que se adquiera n estará a cargo del área que para tal efecto disponga el Ordenadores del Gasto o quienes hagan sus veces, servidores públicos que por delegación o en cumplimiento de sus funciones, Comandante de la Unidad centralizada administrativamente que tenga a cargo el control de bienes . 
+
+Cada ingreso se registrará en el almacén de la Unidad y posteriormente será entregado a dicha área. 
+
+En relación con otros intangibles, dada su especialidad, el manejo y control estará a cargo de las dependencias que los requieran para el desarrollo de su misionalidad. 
+
+La vida útil de otros intangibles será establecida mediante concepto técnico emitido por el servidor público que ejerza la función de supervisión de los actos administrativos o por la dependencia especializadas que determinen su incorporación como intangibles de la entidad. Cada ingreso se registrará en el almacén de la Unidad y posteriormente será entregado a dicha área. 
+
+### 5.1 2.4 Revistas de material de guerra y/o reservado
+
+Es la inspección o examen que se lleva a cabo por parte del Jefe de bienes en servicio o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones , o de comisiones inspectoras asignadas para tal efecto, sobre el material de guerra o reservado, y los demás bienes relacionados con que cuentan las dependencias oficiales y a cargo de servidores públicos responsables, con el propósito de comprobar su existencia y estado del material, confrontándolos con la información registrada en el Sistema d e Información Logístico - SILOG. 
+
+Además de coadyuvar en la preservación de los materiales de guerra y reservados, destinados a la Seguridad y Defensa Nacional, busca entre otras, lo siguiente: ➢ Comprobar la existencia física del material, confrontándola con los registros que se llevan en el sistema de propiedades, planta y equipo de la Unidad. 
+
+➢ Verificar el estado de conservación y operatividad del material. 
+
+➢ Verificar el uso que se le está dando al material, de acuerdo con su naturaleza y destinación. 
+
+➢ Minimizar o advertir riesgos reales o potenciales que puedan afectar la existencia e integridad de material, o que puedan generar situaciones jurídicas adversas. 
+
+### 5.1 2.4.1 Oportunidad y periodicidad
+
+Se deben practicar revistas de material de guerra y/o reservado, por lo menos mensualmente, durante cada vigencia fiscal. 
+
+La oportunidad para su práctica puede darse: ➢ Cuando el funcionario responsable o la comisión inspectora así lo considere de acuerdo con su sano criterio. 
+
+➢ Cada que se tenga conocimiento directo o indirecto que existe un riesgo real o potencial que afecte la existencia del material. 
+
+➢ Cuando un servidor público que por función de su cargo así lo solicite, para certificar o clarificar aspectos propios del recibo de un cargo o por entrega de estos . 
+
+➢ Cuando se determine llevar a cabo una diligencia de baja de material reservado y/o técnico para inteligencia. 
+
+### 5.1 2.4.2 Responsables
+
+Son responsables por las revistas de material de guerra o reservado, los funcionarios que se desempeñen como Jefes de propiedades, planta y equipo en servicio, Almacenistas, Jefes de Abastecimiento o Jefes logísticos o quien haga sus veces, Jefes de depend encias responsables que tengan material a cargo, Segundos Comandantes y Comandantes de Unidades Militares, y los Jefes de las Oficinas de Control Interno o quien haga sus veces; igualmente otros servidores públicos que en virtud de sus cargos y funciones deban intervenir en las revistas de material. 
+
+### 5.1 2.4.3 Práctica e Informes
+
+El desarrollo y práctica de las revistas de material de guerra y/o reservado, debe ser realizado por servidores públicos capacitados y con experiencia en el manejo de este tipo de material, en su práctica debe primar el principio de la objetividad, buscando asesorar y plantear recomendaciones tendientes a minimizar o prevenir riesgos de siniestro o pérdidas de material. Todo s los servidores públicos que intervengan en la revista de material deben suscribir el acta correspondiente que se debe levantar al fin alizar la diligencia, dejando constancia de los aspectos relevantes, los hallazgos y riesgos advertidos, las recomendaciones a que haya lugar, en ella se deberá dejar evidencia de la identificación e individualización plena del material del cual se requier a dejar constancia documental. 
+
+Terminada la diligencia de revista, el servidor público de la comisión inspectora responsable debe rendir informe de lo actuado, dentro de los tres (3) días hábiles siguientes, al Director de Inteligencia de la Unidad Ejecutora o quien haga sus veces, dejando claridad suficiente sobre las novedades halladas, a fin de que se adopten las medidas per tinentes o se lleven a cabo las investigaciones a que haya lugar. 
+
+### 5.1 2.5 Bienes Incautados o aprehendidos
+
+Mediante el adecuado y permanente control, se busca determinar el cumplimiento de las disposiciones relativas al manejo y administración de los bienes incautados, garantizando su utilización y evaluando el funcionamiento del Control Interno. 
+
+Se debe efectuar control sobre todas las operaciones relacionadas con este tipo de bienes, a través del S istema de Información Logístico - SILOG establecido en la Unidad . 
+
+Como mínimo en forma mensual se debe efectuar un conteo físico selectivo de los bienes almacenados, el resultado de este debe ser rendido al Comandante de la Unidad. 
+
+Mantener un reporte actualizado de los bienes decomisados e incautados que estén bajo su responsabilidad firmado por los servidores públicos que intervienen en los procesos. 
+
+Por lo menos una vez al año, se hará una verificación física de los bienes que estén bajo la responsabilidad de la Unidad y que no se encuentren físicamente en las instalaciones del almacén. 
+
+### 5.1 2.6 Reparables
+
+Mediante el adecuado y permanente control, se busca determinar el cumplimiento de las disposiciones relativas al manejo y administración de los reparables, garantizando su utilización y evaluando el funcionamiento del Control Interno. 
+
+Se debe efectuar control sobre todas las operaciones relacionadas con este tipo de bienes, a través del S istema de Información Logístico – SILOG establecido en la Unidad. 
+
+Como mínimo en forma mensual se debe efectuar una verificación selectiva de las existencias de los reparables almacenados, el resultado de este debe ser rendido al Comandante de la Unidad. 
+
+Mantener un reporte actualizado de los reparables que estén bajo su responsabilidad, incluyendo los que hayan sido entregados a un tercero para su reparación. 
+
+Por lo menos una vez al año, se hará una verificación física de los reparables que estén bajo la responsabilidad de la Unidad: almacenados, los que no se encuentren físicamente en las instalaciones del almacén (en otra Unidad o en reparación por parte de u n tercero nacional). Para los reparables que se encuentran con un tercero en el exterior, se solicitará una certificación del proveedor. 
+
+### 5.1 3
+
+GARANTIAS Todas las adquisiciones de bienes y servicios de reparación de estos deben contar con las respectivas garantías establecidas en las normas de contratación estatal y demás normatividad. Los términos y condiciones para la aplicación y cumplimiento de las garantías deberán estar contenidos dentro de las cláusulas contractuale s. 
+
+Las dependencias relacionadas con el bien serán las responsables de la guarda, tenencia y control de las garantías de calidad e idoneidad de todos los bienes que las unidades d el Ministerio adquiera n y los entregue para su uso. 
+
+Por lo tanto, será responsabilidad de los supervisores de los contratos exigir al proveedor la garantía correspondiente y tramitar a la dependencia relacionada. 
+
+Para el control de las pólizas de garantía de calidad y correcto funcionamiento, así como las garantías ofrecidas por los fabricantes, el responsable será cada una de las dependencias técnicas que administran el bien. 
+
+A los bienes entregados a los proveedores o terceros para efectos de garantías, se les debe realizar un control y seguimiento administrativo por parte del supervisor , para que, en un periodo no superior a seis meses para bienes adquiridos a proveedores nacionales, se determine su restitución en óptimas condiciones de servicio o por el contrario el pago de la indemnización respectiva; para el caso de los proveedores o prestadores de servicios del exterior el tiem po máximo podrá ser ocho meses. 
+
+# CAPÍTULO VI
+
+## 6. BIENES INMUEBLES
+
+### 6.1 ASPECTOS CONCEPTUALES
+
+Representan los activos que no se pueden trasladar o transportar , pues se encuentran permanentemente adheridos a un terreno . 
+
+Comprende los bienes inmuebles adquiridos, construidos y/o recibidos a cualquier título de otra entidad de gobierno, empresa pública o privada, empleados por la entidad para la producción o suministro de bienes, para la prestación de servicios o para pro pósitos administrativos y los bienes inmuebles arrendados por un valor inferior al valor de mercado del arrendamiento sobre los cuales ejerza el control, asuma los riesgos del mismo, y perciba el po tencial de servicio y/o beneficios económicos futuros. También se reconocerán los bienes inmuebles con uso futuro indeterminado. Estos activos se caracterizan porque no se espera venderlos en el curso de las actividades ordinarias de la entidad y se prevé usarlos durante más de 12 meses con independencia de su titularidad. 
+
+### 6.2 RECONOCIMIENTO
+
+Deben reconocerse por su costo. El valor de los bienes recibidos en cambio, permuta, donación, dación de pago u otra modalidad, serán reconocidos por la Unidad que los recibe por el valor convenido (valor de mercado), o a falta de éste, por el costo de reposición determinado mediante avalúo técnico. 
+
+Para el reconocimiento de inmuebles debe tenerse en consideración como mínimo los siguientes documentos: ✓ Acto Administrativo que soporta la adquisición (contrato de obra, contrato de donación, comodato, convenio, resolución, acta de entrega, etc . ) ✓ El acta de recibo a satisfacción El valor de las adiciones y mejoras se reconoce como mayor valor del activo, y en consecuencia puede afectar el cálculo futuro de la depreciación, teniendo en cuenta que aumentan la vida útil del bien, amplían su capacidad, la eficiencia operativa, mejoran la calidad de los productos y servicios o permiten una reducción significativa de los costos de operación. 
+
+Las reparaciones y mantenimiento se reconocen como gasto o costo, según corresponda. 
+
+#### 6.2.1 Bienes inmuebles recibidos en donación
+
+Para el caso de bienes inmuebles recibidos en donación de terceros particulares para realizar la entrada se deben contar los siguientes documentos: ✓ Carta intención donación dirigida por el propietario del bien, al Señor Ministerio de Defensa Nacional. 
+
+✓ Insinuación de donación ante notaría cuando el bien supere 50 SMMLV, de conformidad con lo establecido en el Decreto 1712 de 1989. 
+
+✓ Copia del título de propiedad (Escritura Pública) o contrato de donación. 
+
+✓ Folio de Matrícula inmobiliaria ✓ Certificado Catastral ✓ Acta de recibo a satisfacción 
+
+#### 6.2.2 Bienes inmuebles recibidos en comodato
+
+Cuando se reciban bienes inmuebles en comodato se debe evaluar los criterios establecidos en el numeral 4.1.2.4 . 2.1 Bienes recibidos en comodato Una vez analizado lo anterior y si el resultado implica que deben ser reconocidos contablemente los inmuebles por la entidad, se debe efectuar su registro de entrada al almacén afectando las subcuentas denominadas 160505 Terrenos de propiedad de terceros y 
+
+## 164028 Edificaciones de propiedad de terceros soportado en:
+
+✓ Contrato de comodato suscrito entre las partes ✓ Acta de entrega a satisfacción de los bienes Nota 17: cuando corresponde a entidades públicas, para efectos de garantizar que no haya duplicidad de registros es importante se solicite y anexe la salida del almacén de la entidad que entrega el bien. 
+
+##### 6.2.2.1 Bienes
+
+recibidos en Comodato de Entidades Públicas en forma parcial Los terrenos recibidos en comodato en forma parcial, de otras entidades de Gobierno, en la medida en que los predios se encuentran englobados y por su misma naturaleza el titular del predio se reserva el control y asume los riesgos derivados de la porción entregada en Comodato, no son objeto de reconocimiento por parte de la enti dad comodataria, únicamente serán revelados en las notas a los estados Contables. 
+
+En cuanto a las edificaciones realizadas en dichos predios con recursos de la entidad , estas se reconocen en la respectiva subcuenta de la cuenta 1640XX edificaciones. 
+
+##### 6.2.2.2 Comodatos con Particulares
+
+Cuando se trate de bienes inmuebles recibidos de terceros de naturaleza privada, además de las consideraciones expuestas en el numeral 
+
+##### 4.1.2.4 . 2.1 ,
+
+Bienes recibidos en comodato se debe contar con la anuencia del propietario para determinar el reconocimiento del inmueble como propiedades, planta y equipo en la entidad y en caso contrario, para efectos de control se registran en cuentas de orden y deberá ser objeto de revelación en las notas a los Estados Financieros. 
+
+Cuando por disposiciones administrativas, se adelanten construcciones con recursos de la entidad sobre terrenos recibidos en comodatos de terceros privados, estas serán reconocidas como propiedades, planta y equipo Edificaciones en la unidad respectiva. 
+
+#### 6.2.3 Predios Invadidos
+
+Teniendo en consideración que existen en el MDN, terrenos que se encuentran invadidos y sobre los cuales se han adelantado las actuaciones jurídicas necesarias sin que se haya fallado en forma definitiva los procesos, se debe determinar el área afectada, realizar la medición de este en forma proporcional al costo del inmueble por el cual se encuentra reconocido en forma global y clasificar en la cuenta 1637 Propiedad, planta y equipo no explotados la porción determinada. Dicha situación deberá ser revelada en las notas a los estados financieros En caso de que la Unidad Ejecutora cuente con evidencia objetiva que permita establecer que es imposible la recuperación de la porción de predio invadido (fallo de alguna instancia legal), se deberá retirar de las propiedades, planta y equipo, y reconocer dicha situación en cuentas de orden hasta tanto se protocolice dicha decisión. 
+
+### 6.3 REVELACION
+
+Los bienes inmuebles revelan por separado el valor que corresponda a los terrenos. 
+
+### 6.4 EVIDENCIA DOCUMENTARIA
+
+La propiedad o dominio de los bienes inmuebles se determina mediante escritura pública debidamente protocolizada e inscrita ante la Oficina de Registro de Instrumentos Públicos; a excepción de los bienes inmuebles que se hubieren incorporado con los requis itos exigidos y durante la vigencia del Decreto 1014 de 
+
+#### 2005.6.5 DEPRECIACIÓN
+
+Por regla general la depreciación debe reconocerse mediante la distribución racional y sistemática del costo de los bienes, durante su vida útil estimada, con el fin de asociar la contribución de estos activos a la generación de productos o servicios del e nte público. La determinación de la depreciación debe efectuarse mediante criterios de reconocido valor técnico, aplicando aquel que mejor refleje el equilibrio entre los beneficios recibidos, la vida útil y la distribución del costo del activo correspondi ente. 
+
+Son depreciables aquellos bienes que pierden su capacidad normal de operación durante su vida útil. Se consideran como no depreciables los terrenos. Por su parte, no son objeto de depreciación, las construcciones en curso mientras permanezcan en esta situa ción. 
+
+#### 6.5.1 Método de depreciación .
+
+Para el Ministerio de Defensa Nacional, el método de depreciación a utilizar es el de Línea Recta. 
+
+#### 6.5.2 Vida útil .
+
+La vida útil es el periodo durante el cual se espera utilizar el activo por parte de la entidad, por lo tanto, la estimación de la vida útil de un activo se efectuará con fundamento en la experiencia que la entidad tenga con activos similares , atendiendo la política contable y lo dispuesto en el Marco Normativo para entidades de Gobierno General de la Contaduría General de la Nación. 
+
+Esta será determinada mediante concepto técnico, del servidor que ejerza la supervisión del acto administrativo que genera la incorporación del inmueble o en su defecto por parte del área técnica respectiva de la Unidad Ejecutora. 
+
+### 6.6 ADICIONES Y MEJORAS
+
+Las adiciones y mejoras son erogaciones efectuadas por el Ministerio de Defensa para aumentar la vida útil del inmueble, ampliar su capacidad productiva y eficiencia operativa, mejorar la calidad de los productos y servicios, o reducir significativamente los c ostos. Se reconocerán como mayor valor del activo y, en consecuencia, afectarán el cálculo futuro de la depreciación ; serán determinadas mediante concepto técnico, del servidor que ejerza la supervisión del acto administrativo que genera las mejoras o en su defecto por parte del área técnica respectiva de la Unidad Ejecutora. 
+
+De acuerdo con lo anterior, se consideran adiciones y mejoras que aumentan el valor de la edificación principal: los andenes, encerramientos, bahías de instrucción, patios de formación, pistas, torres de entrenamiento en concreto, garitas que forman parte del encerramiento, plazas de armas, plazoleta, fuentes de agua, baños y demás adecuaciones realizadas dentro de un mismo predio que cumplan con alguna de las condiciones citadas, de lo contrario se reconocerán como gasto. 
+
+Si existe una construcción adherida al bien inmueble se constituye en mayor valor de la edificación principal. 
+
+Las reparaciones y mantenimiento son erogaciones en que incurre la entidad con el fin de conservar y/o recuperar la capacidad normal de uso de los bienes inmuebles. 
+
+Se reconocerán como gasto en el resultado del periodo, salvo que se considere adición y mej ora del inmueble. 
+
+### 6.7 DEPURACION DE LOS BIENES INMUEBLES
+
+Con el fin de reflejar la realidad de los bienes inmuebles de la entidad, las áreas o dependencias que ejerzan la administración de los inmuebles en cada unidad ejecutora deben realizar las siguientes actividades: ✓ Conciliar permanentemente la información registrada en el estado financiero de la Unidad, con los soportes documentales. 
+
+✓ Mantener actualizados los reportes de bienes inmuebles conforme a las adquisiciones, bajas o ventas, los cuales deben ser concordantes con la información registrada en la contabilidad de la Unidad. 
+
+✓ Mantener un control adecuado del pago de impuestos de cada predio. 
+
+✓ Efectuar las verificaciones y conciliación entre las dependencias de Contabilidad, Finca Raíz y Oficina Jurídica. 
+
+✓ Mantener actualizado el formato “Relación de bienes inmuebles”. 
+
+✓ Adelantar las gestiones para la legalización y obtener los títulos idóneos que permitan determinar la propiedad de los inmuebles. 
+
+✓ Preparar y coordinar la presentación de informes o reportes relacionados con los inmuebles, requeridos por los entes de control, autoridades tributarias y demás entidades públicas. 
+
+### 6.8. RESPONSABILIDAD DEL CONTROL DE LOS BIENES INMUEBLES
+
+Los Bienes Inmuebles deben ser controlados en el S istema de Información Logístico - SILOG por parte del almacenista , soportado con documentación emitida por las oficinas de Finca Raíz, Bienes inmuebles, Infraestructura o quien haga sus veces. 
+
+### 6.9 DETERIORO
+
+El deterioro de los bienes inmuebles es la pérdida parcial en su potencial de servicio, adicional al reconocimiento sistemático realizado a través de la depreciación. 
+
+Para efectos de Deterioro se consideran bienes de valor material aquellos que su costo individual de adquisición, producción, construcción, donación, transferencia o permuta sea superior a 1.000 SMMLV. 
+
+De acuerdo con las Políticas Contables, en el cuarto trimestre de cada vigencia, se verificará si existen indicios de deterioro. 
+
+En caso de presentarse algún suceso que suponga la afectación de los inmuebles se deberá adelantar inmediatamente la verificación de la existencia de indicios de deterioro. 
+
+#### 6.9.1 Responsables
+
+Corresponde al área y/o dependencia encargada de administrar los bienes inmuebles al interior de cada unidad/subunidad ejecutora, la realización de la comprobación de los indicios de deterioro, dejando la evidencia documental y certificación correspondient e. 
+
+#### 6.9.2 Comprobación indicios de deterioro
+
+Las siguientes son las fuentes de información (Internas y externas), según las cuales se formulan interrogantes relacionados con la existencia de afectaciones contundentes al inmueble, asociadas a: los planes de ordenamiento territorial, condiciones social es en el entorno, alteración de orden público, fenómenos naturales y decisiones judiciales, que permiten evidenciar la existencia o no del indicio de deterioro, de igual manera la evaluación de criterios como el mantenimiento correctivo y la evidencia de a fectación física contundente del activo, entre otros. 
+
+##### 6.9.2.1 FUENTES EXTERNAS
+
+✓ Durante el periodo se evidencia restricciones de tipo legal para el uso del bien inmueble. 
+
+✓ Se conocen disposiciones de orden gubernamental que afectan el tiempo durante el cual se estima percibir el potencial de servicios del bien Inmueble . 
+
+✓ Durante el periodo fueron notificadas decisiones judiciales o arbitrales, o se realizaron conciliaciones que, evidencien restricciones para el uso del bien inmueble . 
+
+✓ Durante el periodo, el valor de mercado del activo ha disminuido significativamente más que lo que se esperaría como consecuencia del paso del tiempo o de su uso normal . 
+
+###### 6.9.2.1.2 FUENTES INTERNAS
+
+✓ Si mediante concepto técnico se evidencia que existen riesgos, daños estructurales o deterioro físico del inmueble. 
+
+✓ Durante el periodo, han tenido lugar, o se espera que tengan lugar en un futuro inmediato, cambios significativos en el grado de utilización o la manera como se usa o se espera usar el activo, los cuales afectarán desfavorablemente al Ministerio de Defensa Nacional. 
+
+✓ Se han incrementado significativamente los costos de mantenimiento del inmueble en comparación con los inicialmente presupuestados ✓ Se cuenta con evidencia que el bien está fuera de servicio y no se está utilizando por deterioro físico y no se tiene previsto efectuar el mantenimiento o reparación que requiere Para la determinación de los indicios de deterioro se deben evaluar como mínimo los juicios o discernimientos, a partir de los cuales se presenta evidencia objetiva de deterioro, así como, los interrogantes asociados a cada uno de ellos, que permiten inferir el estado de los bienes inmuebles y su respectiva evaluación. 
+
+#### 6.9.3 Medición del valor del servicio recuperable mediante avaluó
+
+Una vez realizado lo anterior y determinado que el bien presenta indicios de deterioro, se debe proceder a la medición del valor del servicio recuperable del activo. 
+
+El valor del servicio recuperable es el mayor entre el valor de mercado menos los costos de disposición y el costo de reposición. 
+
+Para efectos de determinar el valor de mercado y el costo de reposición, se debe aplicar un avaluó técnico, dando cumplimiento a la normatividad que rige dicha materia, o por parte de los funcionarios de la entidad que hayan desarrollado las actividades co ntempladas en el artículo 4º de la Ley 1673 de 2013 con anterioridad a la entrada de la citada ley, dando aplicación al artículo 12 del Decreto 556 de 2014. 
+
+La entidad, reconocerá una pérdida por deterioro de los bienes inmuebles cuando su valor en libros supere el valor del servicio recuperable. 
+
+La pérdida por deterioro se reconocerá como una disminución del valor en libros del activo y un gasto en el resultado del periodo. 
+
+Luego de reconocer una pérdida parcial por deterioro del valor, los cargos por depreciación o amortización de las propiedades, planta y equipo se determinarán, para los periodos futuros, teniendo en cuenta el valor en libros ajustado por dicha pérdida. 
+
+#### 6.9.4 Avalúo
+
+Es el dictamen a través del cual se determina el valor de un bien, de conformidad con los métodos, técnicas, actuaciones, criterios y herramientas que se consideren necesarios y pertinentes, sin perjuicio de lo señalado por la Ley 1673 del 19 de julio de 2013 y sus decreto s reglamentarios. 
+
+Tener presente lo establecido en el artículo 12 del Decreto 556 de 2014, el cual define que los funcionarios públicos cuyas funciones desarrollen las actividades contempladas en el artículo 4° de la Ley 1673 de 2013 y que se hayan posesionado con anteriori dad a la entrada en vigor de esta , están exentos de inscribirse en el Registro Abierto de Avaluadores y no serán sujetos del régimen de autorregulación contemplado en la ley, mientras ejerzan funciones públicas. 
+
+6.9.5 concepto Técnico Proceso mediante el cual se evalúan y verifican la especificaciones o características técnicas de bienes y servicios, se emite concepto por parte de una persona o área de acuerdo con su competencia en una Unidad Ejecutora , 
+
+### 6.9 . 6
+
+Personal idóneo: persona que posee ciertas condiciones o habilidades, tiene la capacidad para desempeñar determinadas funciones dentro del Ministerio de Defensa en el desarrollo de una actividad. 
+
+# CAPÍTULO VII
+
+## 7. PROCEDIMIENTO CONTABLE
+
+### 7.1 ENTRADA DE ALMACÉN
+
+#### 7.1.1 Adquisiciones
+
+P resupuesto G eneral de la N ación de proveedores nacionales o extranjer o s Cód. Contable Descripción Débito Crédito 1512XX Materias primas XXX 1514XX Materiales y suministros XXX 1635XX Bienes muebles en bodega XXX 1681XX Bienes de arte y cultura XXX 1970XX Intangibles XXX 2401XX Adquisición de bienes y servicios nacionales XXX 2406XX Adquisición de bienes y servicios del exterior XXX 
+
+##### 7.1.1.1. Adquisiciones Presupuesto General de la Nación de
+
+proveedores nacionales o extranjer o s para bienes que no cumplen con los criterios para ser reconocidos como inventario s Cód. Contable Descripción Débito Crédito 51XX General XXX 2401XX Adquisición de bienes y servicios nacionales XXX 2406XX Adquisición de bienes y servicios del exterior XXX Simultáneamente , se deben reconocer los bienes que NO cumplan con los criterios normativos para ser clasificado s en las cuentas de Inventarios. 
+
+Cód. Contable Descripción Débito Crédito Bienes almacenados para el consumo XXX 
+
+## 89 1574
+
+Bienes almacenados para el consumo XXX 
+
+##### 7.1.1.2 Adquisiciones Presupuesto General de la Nación de proveedores
+
+nacionales o extranjeras de bienes en control administrativo que sea inferior a Unidades de Valor Tributario (U.V.T.) Propiedad, planta y equipo Cod. Contable Descripción Débito Crédito 1635XX Bienes muebles en bodega XXX 2401XX Adquisición de bienes y servicios nacionales XXX 2406XX Adquisición de bienes y servicios del exterior XXX Cod. Contable Descripción Débito Crédito 51XX Gasto de administración y operación XXX 1635XX Bienes muebles en bodega XXX Aplicación Boletín Silog NICSP No. 
+
+Procedimiento para el manejo y reconocimiento de activos fijos en control administrativo, de acuerdo con la implementación de la política de propiedad, planta y equipo en las normas internacionales de contabilidad para el sector público - NICSP. 
+
+##### 7.1.1.3 Bienes en transito
+
+Bienes en proceso de importación, tramite, transporte, legalización o entrega Cod. Contable Descripción Débito Crédito 1525XX Materiales y suministros en transito XXX 1625XX Propiedades planta y equipo en transito XXX 2401XX Adquisición de bienes y servicios nacionales XXX 2406XX Adquisición de bienes y servicios del exterior XXX Reconocimiento de la entrada una vez se realice el proceso de nacionalización Cod. Contable Descripción Débito Crédito 1514XX/1635XX Materiales y suministros, propiedades planta y equipo de bodega XXX 1525XX Materiales y suministros en transito XXX 1625XX Propiedades planta y equipo en transito XXX 
+
+#### 7.1.2 Transferencias internas
+
+##### 7.1.2.1 Entre Unidades de una
+
+misma Unidad Ejecutora Cod. Contable Débito Crédito 1512XX Materias primas XXX 1514XX Materiales y suministros XXX 1610XX Semovientes XXX 1635XX Bienes muebles en bodega XXX 1681XX Bienes de arte y cultura XXX 1970XX Intangibles XXX 480890XX Otros ingresos diversos XXX 
+
+##### 7.1.2.2 Transferencias otras entidades contables públicas
+
+Cod. Contable Descripción Débito Crédito 1512XX Materias primas XXX 1514XX Materiales y suministros XXX 1610XX Semovientes XXX 1635XX Bienes muebles en bodega XXX 1681XX Bienes de arte y cultura XXX 1970XX Intangibles XXX 442807XX Bienes recibidos sin contraprestación XXX 
+
+##### 7.1.2.3 Transferencia
+
+para bienes que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cód. Contable Descripción Débito Crédito 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX Bienes almacenados para el consumo XXX 
+
+#### 7.1.3 Por producción de bienes
+
+Cod. 
+
+Contable Descripción Débito Crédito 7* Costos XXX 1512XX Materias primas XXX 1514XX Materiales y suministros XXX 
+
+##### 7.1.3.1 A producto terminado
+
+Cod. Contable Descripción Débito Crédito 7* Costos XXX Bienes producidos XXX 
+
+##### 7.1.3.2 Productos en proceso
+
+Cod. Contable Descripción Débito Crédito Productos en proceso XXX 7* Costos XXX 
+
+##### 7.1.3.3 De
+
+producto en proceso a producto terminado Cod. Contable Descripción Débito Crédito Bienes producidos XXX 7* Costos XXX Productos en proceso XXX 
+
+##### 7.1.3.4 De bienes producidos a bienes devolutivos
+
+Cod. Contable Descripción Débito Crédito 1635XX Bienes en bodega XXX Bienes producidos XXX 
+
+#### 7.1.4 Bienes
+
+recibidos sin contraprestación Cod. Contable Descripción Débito Crédito 15XXXX Inventarios XXX 1635XX Propiedades, planta y equipo en bodega XXX 1605XX/1640X X Terrenos/ Edificaciones XXX Bienes recibidos sin contraprestación XXX 
+
+##### 7.1.4.1 B ienes
+
+recibidos sin contraprestación que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cód. Contable Descripción Débito Crédito 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX Bienes almacenados para el consumo XXX 
+
+### 7.1. 5
+
+Donaciones (Persona natural o jurídica, nacional o extranjera) Cod. Contable Descripción Débito Crédito 1605XX/1640X X/1635XX Terrenos, Edificaciones, Bienes muebles en bodega XXX 1514XX Materiales y suministros XXX Bienes, derechos y recursos en efectivo procedentes del sector privado XXX 
+
+##### 7.1.5.1 Donación bienes
+
+que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cód. Contable Descripción Débito Crédito 8374XX Bienes almacenados para el consumo XXX Bienes almacenados para el consumo XXX 
+
+##### 7.1.5.2 Entrada bienes recibidos de la DIAN
+
+que cumplan con las condiciones para ser reconocidos como Propiedad, Planta y E quipo o Inventarios Cod. Contable Nombre de la Cuenta Débito Crédito 1514XX Materiales y suministros XXX 1635XX Bienes muebles en bodega XXX Bienes recibidos sin contraprestación XXX 
+
+###### 7.1.5.2.1 Entrada
+
+bienes recibidos de la DIAN que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cód. 
+
+Contable Descripción Débito Crédito 8374XX Bienes almacenados para el consumo XXX Bienes almacenados para el consumo XXX 
+
+###### 7.1.5.2.2 Reclasificación
+
+bienes recibidos de la DIAN de control administrativo a Propiedad , Planta y Equipo Cód. Contable Descripción Débito Crédito 8374XX Bienes almacenados para el consumo XXX Bienes almacenados para el consumo XXX 1635XX Bienes muebles en bodega XXX Sobrantes XXX 
+
+#### 7.1.6 Convenios de cooperación y colaboración
+
+Cód. Contable Descripción Débito Crédito 1605XX / 1640XX / 1635X Terrenos, Edificaciones, Bienes muebles en bodega. 
+
+XXX 4428XX Otras transferencias XXX 
+
+#### 7.1.7 Bienes
+
+recibidos en donación destinados a actividades de acción integral con la comunidad Cód. Contable Descripción Débito Crédito 
+
+## 1510 XX
+
+Mercancías en existencia XXX 
+
+## 4428 XX
+
+Otras transferencias XXX 
+
+#### 7.1.8 Otras Entradas
+
+##### 7.1.8.1 Sobrante de bienes
+
+Cód. Contable Descripción Débito Crédito 16XXXX Propiedades, planta y equipo XXX 1514XX Materiales y suministros XXX Sobrantes XXX 
+
+##### 7.1.8.2 Sobrante de bienes que
+
+NO cumplan con las condiciones normativas para ser clasificados en las cuentas de Inventarios Cód. Contable Descripción Débito Crédito 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX Bienes almacenados para el consumo XXX 
+
+#### 7.1.9 Incautados o Aprehendidos
+
+##### 7.1.9.2 Por Unidades operativas
+
+Cód. Contable Descripción Débito Crédito 8130XX Bienes aprehendidos o incautados XXX Bienes aprehendidos o incautados XXX 
+
+##### 7.1.9.2. 1
+
+Por otras entidades recibidos en Custodia Cód. Contable Descripción Débito Crédito Bienes recibidos en custodia XXX 9306XX Bienes recibidos en custodia XXX 
+
+##### 7.1.9.2. 2
+
+Incautados recibidos para uso o administración Cod. Contable Descripción Débito Crédito Bienes aprehendidos o incautados XXX 9325XX Bienes aprehendidos o incautados XXX 
+
+##### 7.1.9.3 Decomisados
+
+Cod. Contable Descripción Débito Crédito 151098/ 16XXXX Mercancías en existencia - bienes declarados a favor de la Nación / propiedades, planta y equipo XXX Otros ingresos diversos XXX 
+
+##### 7.1.9.4 Reparables
+
+###### 7.1.9.4.1 Reparables
+
+Cod. Contable Descripción Débito Crédito 8315XX Activos retirados XXX Activos retirados XXX 
+
+###### 7.1.9.4.2 Reparados y Serviciables
+
+Cod. Contable Descripción Débito Crédito 1514XX Materiales y suministros / Repuestos XXX Sobrantes XXX 
+
+##### 7.1.9.5 Nacimiento de semovientes
+
+Cod. 
+
+Contable Descripción Débito Crédito 1610XX Semovientes XXX Otros ingresos diversos XXX 
+
+##### 7.1.9.6 bienes adquiridos a través del programa de asistencia y seguridad
+
+USSAP Cod. Contable Descripción Débito Crédito 1635XX Bienes muebles en bodega XXX 
+
+## 1905 90
+
+Otros Bienes y servicios pagados por anticipado – XXX 
+
+##### 7.1.9.7 Offset
+
+Cod. Contable Descripción Débito Crédito 1635XX Bienes muebles en bodega XXX 1514XX Materiales y suministros XXX 1970XX Intangibles XXX Cod. Contable Descripción Débito Crédito 133712* Otras transferencias XXX Otras transferencias. 
+
+XXX *Con la firma del convenio derivado debe haberse reconocido la cuenta 133712 Db contra la 4 4 2890 otras transferencias. 
+
+### 7.1. 10
+
+Reposición de bienes Cod. Contable Descripción Débito Crédito 1635XX Bienes muebles en bodega XXX 1514XX Materiales y suministros XXX 138421* Indemnizaciones XXX Indemnizaciones XXX 
+
+### 7.1. 10.1
+
+Reintegro de bienes al almacén Propiedades, planta y equipo Cod. Contable Descripción Débito Crédito 1637XX Propiedades, planta y equipo no explotados XXX 1685XX Depreciación acumulada XXX 16XXXX Propiedades, planta y equipo XXX 1685XX Depreciación acumulada XXX 
+
+##### 7.1.10.2 Materiales
+
+y suministros de bienes que cumplan con las condiciones normativas para ser clasificados en las cuentas de Inventarios Cod. Contable Descripción Débito Crédito 15XXXX Inventarios XXX 5111XX / 7XXXXX Gastos Generales / Costos XXX Sobrantes XXX 
+
+##### 7.1.10.3 Reintegro
+
+de bienes que NO cumplan con las condiciones normativas para ser clasificados en las cuentas de Inventarios Cód. Contable Descripción Débito Crédito 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX Bienes almacenados para el consumo XXX 
+
+### 7.1. 11 . Entrada bienes en garantía
+
+Cód. Contable Descripción Débito Crédito 1514XX Materiales y suministros XXX 1635XX Bienes muebles en bodega XXX 1530XX Inventarios en poder de terceros XXX 1636XX Propiedades, planta y equipo en mantenimiento XXX 
+
+### 7.1. 12
+
+Entrada bienes por reposición en cumplimiento de garantías Cód. 
+
+Contable Descripción Débito Crédito 1514XX Materiales y suministros XXX 1635XX Bienes muebles en bodega XXX 138421001* Indemnizaciones XXX Nota 18: c orresponde a la cuenta por cobrar causada en el momento que se determinó la reposición del activo entregado en garantía y se realizó la baja de este. 
+
+### 7.1. 13
+
+Bienes t otalmente depreciados o amortizados para baja en cuentas Cod. Contable Nombre de la Cuenta Débito Crédito 1637XX Propiedades, planta y equipo no explotados XXX 1970XX Intangibles XXX 1685XX Depreciación acumulada XXX 1975XX Amortización acumulada de intangibles XXX 
+
+### 7.1. 13.1
+
+Reintegro bienes p arcialmente depreciados o amortizados Cod. Contable Nombre de la Cuenta Débito Crédito 1637XX Propiedades, planta y equipo no explotados XXX 1970XX Intangibles XXX 1685XX Depreciación acumulada XXX 1975XX Amortización acumulada de intangibles XXX 
+
+### 7.1. 14
+
+Bienes recibidos en Comodato - Cuando se determine que la entidad lo reconoce como PPYE Cod. Contable Nombre de la Cuenta Débito Crédito 1605XX/ 1635X XX/ 1640XX/ 16XXXX Materiales y suministros/Terrenos de propiedad de terceros, Edificaciones, PPYE de propiedad de terceros XXX 
+
+## 4428 XX
+
+Otras transferencias XXX 
+
+#### 7.1.15 En Custodia
+
+Cod. Contable Nombre de la Cuenta Débito Crédito Bienes recibidos en custodia XXX 9325XX Bienes recibidos en custodia XXX 
+
+#### 7.1.16 Apoyo de
+
+material entre la s Unidades Ejecutoras Cod. Contable Nombre de la Cuenta Débito Crédito 1512XX Materias primas XXX 1514XX Materiales y suministros XXX 1610XX Semovientes XXX 1635XX Bienes muebles en bodega XXX 1681XX Bienes de arte y cultura XXX 1970XX Intangibles XXX 442807XX Bienes recibidos sin contraprestación XXX 480890XX Otros ingresos diversos XXX 
+
+### 7.1. 17
+
+Apoyo de bienes que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cód. Contable Descripción Débito Crédito 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX Bienes almacenados para el consumo XXX 
+
+### 7.2 SALIDA DE
+
+ALMACEN 
+
+#### 7.2.1 Suministro
+
+##### 7.2.1.1 Salida de bienes al servicio
+
+- Devolutivos Cod. Contable Descripción Débito Crédito 16XXXX Propiedades, planta y equipo XXX 1685XX Depreciación acumulada XXX 1635XX Bienes muebles en bodega XXX 1637XX Propiedades, planta y equipo no explotados XXX 1685XX Depreciación acumulada XXX 
+
+##### 7.2.1.2 Salida de bienes
+
+- Consumo Cod. Contable Nombre de la Cuenta Débito Crédito 5111XX Generales XXX 
+
+## 151 0 XX
+
+Mercancías en existencia XXX 1514XX Materiales y suministros XXX 
+
+##### 7.2.1.3 Salida
+
+para bienes que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cód. Contable Descripción Débito Crédito Bienes almacenados para el consumo XXX 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX 
+
+### 7.2. 1.4.
+
+Medicamentos Cod. Contable Nombre de la Cuenta Débito Crédito 73XXXX Servicios de Salud XXX 
+
+## 5111 XX
+
+Generales XXX Medicamentos XXX 
+
+#### 7.2.2 Salida
+
+de bienes de producción para el consumo Cod. Contable Nombre de la Cuenta Débito Crédito 5111XX Generales XXX 1505XX Bienes producidos XXX 
+
+### 7.2. 3
+
+Transferencias internas 
+
+### 7.2. 3.1
+
+Salida e ntre Unidades de una misma Unidad Ejecutora Cod. Contable Débito Crédito Gastos diversos XXX 1610XX Semovientes XXX 1635XX Bienes muebles en bodega XXX 
+
+## 151 0 XX
+
+Mercancías en existencia XXX 1514XX Materiales y suministro XXX 1681XX Bienes de arte y cultura XXX 1970XX Intangibles XXX 
+
+### 7.2 . 3.2
+
+Transferencias otras entidades contables públicas Cod. Contable Nombre de la Cuenta Débito Crédito 1685XX Depreciación acumulada XXX 1975XX Amortización acumulada de intangibles XXX Bienes entregados sin contraprestación XXX 1637XX Propiedades, planta y equipo no explotados XXX 1970XX Intangibles XXX 1605XX/1640 XX Terrenos / Edificaciones XXX 
+
+## 151 0 XX
+
+Mercancías en existencia XXX 1514XX Materiales y suministros XXX 
+
+### 7.2 . 3.3
+
+Transferencia para bienes que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cod. Contable Nombre de la Cuenta Débito Crédito 8347XX Bienes entregados a terceros XXX Bienes entregados a terceros XXX 
+
+### 7.2. 4
+
+Bienes entregados sin contraprestación Cod. Contable Nombre de la Cuenta Débito Crédito 1685XX Depreciación acumulada XXX 1975XX Amortización acumulada de intangibles XXX Bienes entregados sin contraprestación XXX 1637XX Propiedades, planta y equipo no explotados XXX Gastos diversos XXX 1970XX Intangibles XXX 1605XX/1640 XX Terrenos / Edificaciones XXX 
+
+## 151 0 XX
+
+Mercancías en existencia XXX 1514XX Materiales y suministros XXX 
+
+### 7.2. 4.1 Bienes entregados sin contraprestación
+
+que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cód. Contable Descripción Débito Crédito Bienes almacenados para el consumo XXX 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX 
+
+### 7.2. 5
+
+Baja de bienes Cod. Contable Nombre de la Cuenta Débito Crédito Pérdida en retiro de activos XXX 1685XX Depreciación acumulada XXX 1686XX Amortización acumulada XXX 1637XX Propiedades, planta y equipo no explotados XXX 1636XX Propiedades, planta y equipo no explotados XXX 
+
+## 151 0 XX
+
+Mercancías en existencia XXX 1514XX Materiales y suministros XXX 1640XX Edificaciones XXX *Por destrucción y otras causas . 
+
+Bienes en proceso de destinación final: Cod. Contable Nombre de la Cuenta Débito Crédito 8315XX Activos retirados XXX Deudoras de control por contra - activos retirados XXX *Aplica para bienes que existan físicamente sin importar el estado , d estinación final de los bienes inservibles Cod. Contable Nombre de la Cuenta Débito Crédito Deudoras de control por contra - activos retirados XXX 8315XX Activos retirados XXX 
+
+### 7.2. 5.1
+
+Baja de semovientes Cod. Contable Nombre de la Cuenta Débito Crédito Pérdida en retiro de activos XXX Amortización acumulada – semovientes XXX 1610XX Semovientes XXX 
+
+### 7.2. 6
+
+Reparaciones y mantenimiento Cod. Contable Nombre de la Cuenta Débito Crédito 1636XX Propiedades, planta y equipo en mantenimiento XXX 1685XX Depreciación acumulada XXX 16XXXX Propiedades, planta y equipo XXX 1685XX Depreciación acumulada XXX 
+
+### 7.2. 7
+
+Comodato (Bienes entregados sin contraprestación) 
+
+### 7.2. 7.1 Entre entidades del gobierno general
+
+Cod. Contable Nombre de la Cuenta Débito Crédito Bienes entregados sin contraprestación XXX 1685XX Depreciación acumulada XXX 1637XX Propiedades, planta y equipo no explotados XXX 
+
+### 7.2. 7.2
+
+Comodato (Bienes entregados sin contraprestación) que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cod. Contable Nombre de la Cuenta Débito Crédito 8347XX Bienes entregados a terceros XXX Bienes entregados a terceros XXX 
+
+### 7.2. 7.3
+
+Con empresas públicas Cod. Contable Nombre de la Cuenta Débito Crédito Bienes entregados sin contraprestación XXX 1637XX Propiedades, planta y equipo no explotados XXX 1685XX Depreciación acumulada XXX 
+
+### 7.2. 8
+
+Restitución de bienes de uso permanente sin contraprestación Cod. Contable Nombre de la Cuenta Débito Crédito 542307/54240 Bienes entregados sin contraprestación XXX 1685XX Depreciación acumulada XXX 1637XX Propiedades, planta y equipo no explotados XXX 
+
+### 7.2. 9
+
+Salida especial bienes recibidos de la DIAN entregados en acción Integral 
+
+### 7.2. 9.1 Acción integral para la comunidad en general
+
+Cod. Contable Nombre de la Cuenta Débito Crédito Asignación de bienes y servicios XXX 
+
+## 1510 XX
+
+Mercancías en existencia XXX 
+
+### 7.2. 9.1.1
+
+Cod. Contable Nombre de la Cuenta Débito Crédito 8347XX Bienes entregados a terceros XXX Bienes entregados a terceros XXX 
+
+### 7.2. 9.2 Acción integral
+
+– bienestar Cod. Contable Nombre de la Cuenta Débito Crédito Bienes almacenados para el consumo XXX 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX 
+
+### 7.2. 10
+
+Salida bienes en garantía 
+
+### 7.2. 10.1
+
+Cuando corresponde a garantías asociadas a la adquisición de bienes Bienes de consumo (materiales y suministros) nuevos y reparables en condición reparado o serviciable en stock Cod. Contable Nombre de la Cuenta Débito Crédito 1530XX Inventarios en poder de terceros XXX 1510XX Mercancías en existencia XXX 1514XX Materiales y suministros XXX 
+
+### 7.2. 10.2
+
+Cuando corresponde a garantías asociadas a la adquisición de bienes que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cod. Contable Nombre de la Cuenta Débito Crédito Bienes almacenados para el consumo XXX 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX Propiedades, planta y equipo Hasta tanto el proveedor determine de acuerdo con los términos del contrato si es viable su recuperación se reconoce: Cod. Contable Nombre de la Cuenta Débito Crédito 1636XX Propiedades, planta y equipo en mantenimiento XXX Depreciación acumulada XXX Depreciación acumulada XXX 1635XX Bienes muebles en bodega XXX 16XXXXX Propiedades, planta y equipo XXX 
+
+### 7.2. 10.2 . 1
+
+Bienes reparables en condición dañado Cuando corresponde a reparables, que son desinstalados por presentar fallas y que virtud de un proceso de garantía con el proveedor del bien o del mantenimiento se determina la entrega al proveedor para efectos de garantía, se reconoce: Cod. Contable Nombre de la Cuenta Débito Crédito 8347XX Bienes entregados a terceros XXX Bienes entregados a terceros XXX Si llegado el término del acuerdo, se determina que el proveedor paga el bien se reconoce la baja de este y se causa la cuenta por cobrar: Cod. Contable Nombre de la Cuenta Débito Crédito Pérdida en retiro de activos XXX 1685XX Depreciación acumulada XXX 1530XX Inventarios en poder de terceros XXX 1636XX Propiedades, planta y equipo en mantenimiento XXX Cod. Contable Nombre de la Cuenta Débito Crédito Indemnizaciones XXX Indemnizaciones XXX 
+
+### 7.3 RESPONSABILIDADES
+
+#### 7.3.1 Faltante de bienes
+
+Cod. Contable Nombre de la Cuenta Débito Crédito 1685XX Depreciación acumulada XXX 1975XX Amortización acumulada de intangibles XXX 589017/58901 Pérdida en siniestros - Baja en cuentas activos no financieros XXX 
+
+## 151 0 XX
+
+Mercancías en existencia XXX 1512XX Materias primas XXX 1610XX Semovientes XXX 1635XX Bienes muebles en bodega XXX 1637XX Propiedades, planta y equipo no explotados XXX Cod. Contable Nombre de la Cuenta Débito Crédito 1514XX Materiales y suministros XXX 1681XX Bienes de arte y cultura XXX 1970XX Intangibles XXX 
+
+##### 7.3.1.1 Faltante de bienes
+
+que NO cumplan con los criterios normativos para ser clasificado en las cuentas de Inventarios. 
+
+Cod. Contable Nombre de la Cuenta Débito Crédito Bienes almacenados para el consumo XXX 
+
+## 8374 XX
+
+Bienes almacenados para el consumo XXX Cod. Contable Nombre de la Cuenta Débito Crédito Responsabilidades en proceso – internas XXX Responsabilidades en proceso - ante autoridad competente XXX Responsabilidades en proceso XXX La responsabilidad se constituye por el costo histórico del bien o en su defecto por el valor de reposición, y será actualizado con las valoraciones realizadas al amparo del artículo 31 de la Ley 1476 de 2011, dentro del proceso. 
+
+### 7.4 DEPRECIACION
+
+Cod. Contable Nombre de la Cuenta Débito Crédito 5360XX Depreciación de propiedades, planta y equipo XXX 7XXXXX Costos de producción XXX 1685XX Depreciación acumulada XXX 
+
+### 7.5 DETERIORO
+
+Cod. Contable Nombre de la Cuenta Débito Crédito 5351XX Deterioro de propiedades, planta y equipo XXX 5355XX Deterioro de propiedades, planta y equipo de inversión XXX 5357XX Deterioro de Intangibles XXX 1695XX Deterioro de propiedades, planta y equipo XXX 
+
+### 7.6 AMORTIZACION
+
+Cod. Contable Nombre de la Cuenta Débito Crédito 5357XX Amortización de Intangibles XXX 1975XX Amortización acumulada de intangibles XXX 
+
+### 7.7 CONSTRUCCIONES
+
+### 7.7 .1 En curso
+
+Cod. Contable Nombre de la Cuenta Débito Crédito 1615XX Construcciones en curso XXX 2401XX Adquisición de bienes y servicios nacionales XXX Adquisición de bienes y servicios extranjeros XXX 
+
+### 7.7 .2
+
+Recepción de obra Cod. Contable Nombre de la Cuenta Débito Crédito 1640XX Edificaciones XXX 1615XX Construcciones en curso XXX 
+
+#### 7.7.3 Reconocimiento
+
+de adiciones o mejoras Cod. Contable Nombre de la Cuenta Débito Crédito 1640XX Edificaciones XXX 
+
+## 511 115XX
+
+Mantenimiento XXX 
+
+## 8. ABREVIATURAS, UNIDADES DE MEDIDA Y EXPRESIONES ACEPTADAS
+
+INL : Asuntos Antinarcóticos y aplicación de la Ley FMS : (Foreign Military Sales) o Ventas Militares al Extranjero SAP : "Desarrollo de Programas de Sistemas de Análisis". 
+
+SILOG : Sistema de Información Logístico 
+
+## 9. NOTAS Y ADVERTENCIAS
+
+No aplica 
+
+## 10 DOCUMENTOS ASOCIADOS
+
+### 10.1 Artículo 267 de la Constitución Política de 1991, por medio del cual se suprime
+
+el control previo que ejercía la Contraloría General de la República, se consagra el control posterior y selectivo. 
+
+### 10.2 Artículo
+
+de la Constitución Política de 1991, el cual consagra como obligación para las entidades públicas, diseñar y aplicar, según la naturaleza de sus funciones, métodos y procedimientos de control interno, de conformidad con lo que disponga la ley. 
+
+### 10.3 Ley 42 del 26 de enero de 1993, “Sobre la organización del Sistema de Control
+
+Fiscal Financiero y organismos que lo ejercen”. 
+
+### 10.4 Ley 87 del 29 de noviembre de 1993, “Por la cual se establecen normas para el
+
+ejercicio del Control Interno en las entidades y organismos del estado y se dictan otras disposiciones”. 
+
+### 10.5 Ley 298 del 23 de julio de 1996, “Por la cual se
+
+desarrolla el artículo 354 de la Constitución Política de la República de Colombia, se crea la Contaduría General de la Nación como una Unidad Administrativa Especial, adscrita al Ministerio de Hacienda y Crédito Público, y se dictan otras disposiciones”. 
+
+### 10.6 Ley 633 de 2000 artículo 120, "Por la cual se expiden normas en materia
+
+tributaria, se dictan disposiciones sobre el tratamiento a los fondos obligatorios para la vivienda de interés social y se introducen normas para fortalecer las finanzas de la Ram a Judicial”. 
+
+### 10.7 Ley 1952 del 28 de enero de 2019, “por medio de la cual se expide el Código
+
+General Disciplinario, se derogan la Ley 734 de 2002 y algunas disposiciones de la Ley 1474 de 2011, relacionadas con el derecho disciplinario”. 
+
+### 10.8 Ley 80 de 1993, “Por la cual se expide el Estatuto General de Contratación de
+
+la Administración Pública” y sus Decretos Reglamentarios. 
+
+### 10.9 Ley 1097 de 2006, “Por el cual se regulan los gastos reservados".
+
+### 10.10 Ley 1150 de 2007, “Por medio de la cual se introducen medidas para la
+
+eficiencia y la transparencia en la ley 80 de 1993 y se dictan otras disposiciones generales sobre la contratación con recursos públicos”. 
+
+### 10.11 Ley 1476 de 2011, “Por la cual se expide el régimen de responsabilidad
+
+administrativa por perdida o daño de bienes de propiedad o al servicio del Ministerio de Defensa Nacional, sus entidades adscritas o vinculadas a la Fuerza Pública. 
+
+### 10.12 Ley 1774 de 2016, “Por la cual se modifica el código civil” .
+
+### 10.13 Decreto No. 695 del 8 de marzo de 1983, “Por el cual se determina el material
+
+de guerra o reservado de las Fuerzas Militares y la Policía Nacional”. 
+
+### 10.14 Decreto No. 1083 del 2015, “Por el cual se dictan normas sobre el Sistema de
+
+Control Interno de las Entidades y Organismos de la Administración Pública del Orden Nacional y Territorial y se dictan otras disposiciones”. 
+
+### 10.15 Decreto 4444 del 25 de noviembre de 2008, “Por medio del cual se reglamenta
+
+parcialmente el literal e) del numeral 2 del artículo 2º de la ley 1150 de 2007.10.16 Decreto No. 2100 del 19 de noviembre de 1996, “por el cual se reglamenta la administración provisional de los bienes incautados”. 
+
+### 10.17 Decreto de Liquidación del Presupuesto Anual de la Nación, “mediante el cual
+
+se detallan las apropiaciones y se clasifican y definen los gastos”. 
+
+### 10.18 Decreto No. 1082 del 26 de mayo de 2015, “Por medio del cual se expide el
+
+Decreto único reglamentario del sector administrativo de planeación Nacional”. 
+
+### 10.19 Resolución Reglamentaria Orgánica 0006 de 2015, de la Contraloría General
+
+de la República, “Por la cual se reglamenta el control fiscal para los Gastos Reservados”. 
+
+### 10.20 Resolución No. 015 del 25 de mayo de 2006, del Comando General FFMM, “Por
+
+la cual se crea el Comité Avaluador y se fijan criterios para establecer una Tabla de Avalúo para armas de fuego, municiones y accesorios”. 
+
+### 10.21 Resolución No. 533 del 8 de octubre de 2015, de la Contaduría General de la
+
+Nación, “Por la cual se incorpora en el Régimen de Contabilidad Pública, el marco aplicable a entidades de gobierno y se dictan otras disposiciones”, y sus modificaciones. 
+
+### 10.22 Resolución No. 620 del 26 de noviembre de 2015, de la Contaduría General
+
+de la Nación, “Por la cual se incorpora el Catálogo General de Cuentas al M arco N ormativo para entidades de gobierno”, y sus modificaciones. 
+
+### 10.23 Resolución No. 193 del 19 de agosto de 2016, de la Contaduría General de la
+
+Nación, “Por la cual se incorpora, en los Procedimientos Transversales del Régimen de Contabilidad Pública, el Procedimiento para la Evaluación del Control Interno Contable”. 
+
+## 1 1. ANEXOS
+
+(MODELO) NOMBRE DE LA FUERZA O UNIDAD EJECUTORA ________________________ ESTADO CONSOLIDADO DE PROPIEDADES, PLANTA Y EQUIPO BIENES MUEBLES EN BODEGA Y EN SERVICIO NOMBRE DE LA UNIDAD : _____________________________ CODIGO DE LA UNIDAD : _____________________________ CIUDAD : ____________________________ _ ALMACEN : _____________________________ ESTADO MENSUAL NUMERO : _____________________________ FECHA Y HORA : ____________________________ CODIGO CONTABLE NOMBRE DE LA CUENTA SALDOS ANTERIORES ENTRADAS SALIDAS SALDOS SIGUIENTES Bi BIENES MUEBLES EN BODEGA SUBTOTAL TOTAL, BIENES MUEBLES EN BODEGA BIENES MUEBLES EN SERVICIO SUBTOTAL TOTAL, BIENES MUEBLES EN SERVICIO T OTAL, BIENES MUEBLES EN BODEGA Y EN SERVICIO CONTROL MENSUAL CONSECUTIVO DE LOS NUMEROS DE LAS ENTRADAS Y SALIDAS UTILIZADAS NOMBRE DEL ALMACEN ENTRADA SALIDA DEL : DEL : HASTA : HASTA : Nombre, Cargo y Firma del Almacenista N Nom bre , Cargo y Firma del Jefe de propiedad, planta y equipo (o quienes han sus veces, por delegación o en cumplimiento de sus funciones Nombre, Cargo Y Firma del Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones ( MODELO ) NOMBRE DE LA FUERZA O UNIDAD EJECUTORA __________________ HOJA DE VIDA DEL BIEN MUEBLE NOMBRE DE LA UNIDAD : _______________________________ CODIGO DE LA UNIDAD : _______________________________ CIUDAD : _ ______________________________ ALMACEN : _______________________________ FECHA Y HORA : ________________________________ NOMBRE DEL BIEN FE F FEC HA DE ADQUISICION M M MARCA MO MO DELO PLA PLACA PRO PRO VEEDOR NIT NIT o CC CAR CAR ACTERISTICAS TECNICAS: VID VID A UTIL ME METODO DE DEPRECIACI Ó N COSTO DE ADQUISICION (VR. (VR. 
+
+HISTORICO) VA VA LOR EN LIBROS VAL VAL ORIZACION CODIGO CONTABLE CODIGO IDENTIFICACION RECURSO PRESUPUESTAL PARA SU ADQUISICIÓN : PRESUPUESTO NACIONAL FONDO INTERNO DONACION 
+
+## 10 110
+
+RES RES PONSABLE DEL BIEN: NOMBRE DEPENDENCIA NOMBRE RESPONSABLE IDENTIFICACION MANTENIMIENTO: CLASE REPUESTOS MANO DE OBRA VALOR TOTAL No mbre, Cargo y Firma del Almacenista Nombre, Cargo y Firma del Jefe de Propiedades, planta y equipo ( o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones ) N O N ombre, Cargo y Firma del Jefe Logístico o quienes hagan sus veces, por delegación o en cumplimiento de sus funciones (MODELO) Cifras en pesos Dirección / Denominación Departamento Municipio No. 
+
+Departamento Municipio Matrícula Inmobiliaria Cédula Catastral Area Cta. Contable Valor Cuenta Valor Cuenta Valor Cuenta Valor Firma: Grado, Nombre y Apellidos del Responsbale de los Inmuebles MINISTERIO DE DEFENSA NACIONAL RELACION DE BIENES INMUEBLES Unidad Ejecutora OBSERVACIONES No. Escritura Depreciación Valorización Provisión Ubicación Notaría Fecha Adquisición Costo Histórico Información del Inmueble (MODELO) REPUBLICA DE COLOMBIA MINISTERIO DE DEFENSA NACIONAL NOMBRE DE LA UNIDAD CERTIFICACION DE PAZ Y SALVO Yo,____________________________________________, identificado con cédula No.__________________ de ___________________, en mi calidad de a lmacenista o j efe de p ropiedades, planta y equipo de ________________(Unidad), manifiesto que revisado el listado de bienes entregados para el desempeño de las funciones del señor____________________, identificado con cédula No__________________ de ___________________, quien s e desempeñaba como ________________(Cargo), hizo entrega de dicho bienes en buen estado, en cons ecuencia se encuentra a PAZ Y SALVO. 
+
+Expedido en _________ (Ciudad), a los __ _ ( en letras y número) días del mes de _______ de______ _ ( año en letras y en número) Firma Nombres c ompletos C.C. No. 
+
+Cargo Nota 19: El presente PAZ Y SALVO debe ser firmado por el a lmacenista o J efe de Propiedades, planta y equipo de la Unidad o Batallón respectivo; en su defecto por el Jefe Logístico de la Unidad. 
+
+(MODELO) REPUBLICA DE COLOMBIA MINISTERIO DE DEFENSA NACIONAL NOMBRE DE LA UNIDAD ACTA DE EVALUACION BAJA DE BIENES ACTA N°. _________/ AÑO LUGAR Y FECHA: ASUNTO: EVALUAR Y RECOMENDAR LA BAJA DE BIENES, QUE NO SON NECESARIOS PARA LA UNIDAD ASI COMO SU DESTINACION FINAL. 
+
+IN INTERVIENEN : Grado Nombre y Apellidos Cargo En las instalaciones de ( NOMBRE DE LA UNIDAD ) , con el objeto de estudiar la necesidad y conveniencia de dar de baja los bienes muebles que se encuentren en buenas condiciones en la Unidad, pero que ésta no requiere para el Cumplimiento de sus funciones; así como los bienes inservibles u obsoletos y recomendar la baja de los mismos , según concepto técnico. 
+
+Una vez revisados y analizados todos los documentos que soportan la solicitud y realizadas las observaciones, verificaciones y consultas que se consideraron necesarias, se recomienda dar de baja los bienes relacionados en el anexo No. 
+
+XXX por valor de (Letras y números), por considerarlos inservibles, servibles innecesarios u obsoletos, para el normal desarrollo de las actividades de la Unidad y porque ya cumplieron con el objeto para el cual fueron adquiridos. 
+
+Igualmente, se recomienda ……. 
+
+( seleccionar el literal ) ➢ Venta ➢ Permuta ➢ Destrucción ➢ Desmantelamiento (Para reparación de partes) ➢ Entregados en parte de pago ➢ Entregados a otras Unidades con fines de instrucción (Escuelas de formación) ➢ Entregados en adopción (Cuando se trate de caninos y equinos) (Nota 1 0 ) ➢ Entregados a entidades protectoras de animales (Semovientes) ➢ Entregados a museos con fines educativos o culturales ➢ Utilizados como elementos de disuasión o exhibición o como patrimonio cultural o BIC ➢ Arrecife Natural (Hundimiento) para el caso de Unidades a Flote ➢ Entregados al programa Computadores para educar, como partes y/o repuestos ➢ Entregados a la aseguradora cuando el contrato de seguros así lo disponga. 
+
+➢ Acuerdos con países aliados Gov to Gov (cuando aplique). 
+
+➢ Proyectos de Ciencia y Tecnología e innovación I+D+I Una vez definido lo anterior, en constancia esta acta se firma por: (relacionan y firman los funcionarios participantes) Grado Nombre y Apellidos Cargo Firma Graddo Nombre y apellido _________________________________________________________________________________________ Del Ordenador d el Gasto o Quienes h agan s us v eces, p or d elegación o e n c umplimiento d e s us f unciones, Comandante d e l a Unidad Centralizada Administrativamente q ue t enga a c argo el c ontrol d e los b ienes, (NOMBRE DE LA UNIDAD) (MODELO) REPÚBLICA DE COLOMBIA MINISTERIO DE DEFENSA NACIONAL NOMBRE DE LA UNIDAD RESOLUCIÓN NÚMERO ( ) Por medio de la cual se autoriza dar de baja unos bienes de la (NOMBRE DE LA UNIDAD), por encontrarse inservibles. obsoleto o vencidos EL ORDENADOR DEL GASTO O QUIENES HAGAN SUS VECES, POR DELEGACIÓN O EN CUMPLIMIENTO DE SUS FUNCIONES, COMANDANTE DE LA UNIDAD CENTRALIZADA ADMINISTRATIVAMENTE QUE TENGA A CARGO EL CONTROL DE BIENES, AUTORIZAR (NOMBRE DE LA UNIDAD) En uso de las facultades legales, en especial las conferidas en los artículos Nos. 1,2,3,4 y 6 de la Ley 87 de 1993 y (facultad de ordenación del gasto o quien haga sus veces). Y CONSIDERANDO Que la Ley 42 de 1993 y sus modificaciones derogó expresamente las leyes y decretos que constituían el funcionamiento de dere cho de la Resolución No 004 de 1960, por la cual se dictan normas para el inventario , registro, responsabilidad y control de l o s bienes de la Nación, por lo cual corresponde a cada una de las Entidades establecer los mecanismos de procedimientos y requisitos pa ra la legalización de los inventarios fiscales. 
+
+Que de acuerdo con el concepto técnico determinó que los bienes relacionados en el cuerpo de la presente resolución, son inservibles, obsoletos, vencidos e innecesario para la (Unidad). 
+
+Que es deber de la (Unidad) dar de baja definitiva de sus bienes fiscales que se están fuera de servicio por encontrarse , inservibles, obsoletos, vencidos e innecesarios.. 
+
+Que la Resolución 1236 de 11 de diciembre 2002. “ Por la cual se aprueba y adopta el Manual de Procedimientos Administrativo s y Contables para le Manejo de los Bienes de las Unidades Ejecutoras de la Sección Presupuestal 1501 Ministerio de Defensa” Que, de conformidad, con el acta de evaluación baja de bienes (enunciar No del acta y fecha del acta). En la cual se recomienda dar d e baja definitivamente de los inventarios y la propiedad, planta y equipo de la (Unidad), en razón a que los elementos se e ncu entran inservibles, obsoletos, vencidos e innecesarios, y que ya no prestan la función para lo cual fueron adquiridos, los elementos que a cont inuación se relacionan: Referencia N° material y/o N° de inventario del activo fijo Descripción del material o activo fijo N° serie valor contable TOTAL $ 0.00,00 Son:( Escribir valor en letras). 
+
+RESUELVE ARTICULO 1: Autorizar al almacenista de la (Unidad) dar de baja bienes en el considerando de esta providencia y retirar los bienes definitivamente del patrimonio de la (Unidad), los cuales deben ser descargados de los inventarios y la propiedad, planta y equipo de la (Unidad) ARTICULO 2: Los bienes dados de baja tendrán la siguiente destinación ( Venta ,permuta, destrucción, desmantelamiento (para reparación de partes), entregados en parte de pago, entregados a otras unidades con fines de instrucción (escuelas de formaci ón), entregados en adopción (cuando se trate de caninos), y equinos (nota 
+
+## 1 0 ),
+
+entregados a entidades protectoras de animales (semovientes), entregados a museos con fines educativos o culturales, utilizados como elementos de disuasión o exhibición, ar recife natur al (hundimiento) para el caso de unidades a flote, entregados al programa computadores para educar, como partes y/o repuestos , entregados a la aseguradora cuando el contrato de seguros así lo disponga, acuerdos de venta o donación con países aliados go v to gov (cuando aplique), venta de material aprovechable (quincallería). 
+
+ARTICULO 3: La presente esolución rige a partir de la fecha de su expedición COMUNÍQUESE Y CÚMPLASE Dada en (cuidad) a los _______________________________________ Grado, Nombre y Apellidos El Ordenador del Gasto o quienes haga sus veces, por delegación o en cumplimiento de sus funciones, C omandante de l a U nidad C entralizada A dministrativamente que tenga a cargo el control de los bienes, (Unidad) Nota 20: adicionalmente la resolución debe incluir el visto bueno del Ordenador del Gasto o quienes haga sus veces, por delegación o en cumplimiento de sus funciones, C omandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de los bienes , jefe control de inventarios o Contador. 
+
+(MODELO) REPUBLICA DE COLOMBIA MINISTERIO DE DEFENSA NACIONAL NOMBRE DE LA UNIDAD ACTA DE DESTINACION FINAL BIENES DADOS DE BAJA ACTA N°. 
+
+_________/ AÑO LUGAR Y FECHA : ASUNTO : DESTINACION FINAL DE BIENES, DE ACUERDO CON LA RESOLUCION DE BAJA, No. 
+
+DE XXXX. 
+
+INTERVIENEN: Grado Nombre y Apellidos Cargo En las instalaciones de ( NOMBRE DE LA UNIDAD ), con el objeto de efectuar la destinación final autorizada por el Ordenador del gasto o quienes haga sus veces, por delegación o en cumplimiento de sus funciones, comandante de la unidad centralizada administrativamente que tenga a cargo el control de los bienes , en la Resolución No. 
+
+de XXXX , de los bienes que se relacionan: Una vez revisados y analizados todos los documentos soporte y realizadas las observaciones, verificaciones y consultas establecidas en el Manual de procedimientos administrativos y contables para el manejo de bienes del Ministerio de Defensa Nacional, los bienes relacionados por valor de (Letras y números), son objeto de: ➢ Venta ➢ Permuta ➢ Destrucción ➢ Desmantelamiento (Para reparación de partes) ➢ Entregados en parte de pago ➢ Entregados a otras Unidades con fines de instrucción (Escuelas de formación) ➢ Entregados en adopción (Cuando se trate de caninos y equinos) (Nota 1 0 ) ➢ Entregados a entidades protectoras de animales (Semovientes) ➢ Entregados a museos con fines educativos o culturales ➢ Utilizados como elementos de disuasión o exhibición o como patrimonio cultural o BIC ➢ Arrecife Natural (Hundimiento) para el caso de Unidades a Flote ➢ Entregados al programa Computadores para educar, como partes y/o repuestos ➢ Entregados a la aseguradora cuando el contrato de seguros así lo disponga. 
+
+➢ Acuerdos con países aliados Gov to Gov (cuando aplique). 
+
+➢ Proyectos de Ciencia y Tecnologia e Innovacion I+D+I Una vez definido lo anterior, en constancia esta acta se firma por: (relacionan y firman los funcionarios designados para esta diligencia) Grado Nombre y Apellidos Cargo Firma (MODELO) REPUBLICA DE COLOMBIA MINISTERIO DE DEFENSA NACIONAL NOMBRE DE LA UNIDAD ACTA DE RECIBO DE BIENES COOPERACION INDUSTRIAL Y SOCIAL OFFSET LUGAR Y FECHA: INTERVIENEN : ASUNTO ENTREGA DE BIENES, BAJO LA POLITICA DE COOPERACION INDUSTRIAL Y SOCIAL – OFFSET CELEBRADO MEDIANTE CONVENIO DERIVADO No. XXX DEL XXX DE 20XX POR UN VALOR DE XXX CON DESTINO A XXXXX. 
+
+______________________________________________________________________________ Al efecto se procedió como sigue: El representante legal de la empresa XXXXX certifica que el material entregado al Ministerio de Defensa Nacional – Unidad XXX corresponde a Cooperación Industrial y Social – Offset, celebrado mediante Convenio Derivado No. XXX del XX de XX de 20XX por un valor de XXX, el cual tiene destinación específica a XXXXXX. 
+
+DATOS DEL PROGRAMA En virtud del Convenio celebrado en el m arco de la política de Cooperación Industrial y Social del XXX de XX de 20XX , suscrito entre el Ministerio de Defensa Nacional - Unidad XX y la empresa XXXXX, se recibe los siguientes bines no reembolsables ( Materiales y equipos), sin costo para el Ministerio de Defensa Nacional – Unidad XXX, según la f actura electrónica o los documento soporte para no obligados a factura para efectos aduaneros No. XXX y su control será llevado por parte de XXX: VALOR TOTAL USD XXXXX,00 No siendo otro el motivo de la presente se da por terminada y en constancia firman los que en ella intervienen. 
+
+_______________________________________ Nombre y firma : e l Ordenador del Gasto o quienes haga sus veces, por delegación o en cumplimiento de sus funciones, C omandante de la U nidad C entralizada A dministrativamente que tenga a cargo el control de los bienes ______________________________________________ Nombre y firma 2do. Comandante y Jefe de Estado Mayor Fuerza ITEM DESCRIPCION CANT UNIT VALOR FOB TOTAL, U$ 
+
+## 12. DEFINICIONES
+
+Las definiciones contenidas en el presente Glosario de términos son exclusivamente de aspectos administrativos y contables. 
+
+Activo. 
+
+Cuentas representativas de los bienes, derechos y pertenencias, tangibles e intangibles, del ente público los cuales se espera que contribuyan al desarrollo de la función administrativa o cometido estatal. 
+
+Activo fijo. 
+
+Bienes adquiridos por el ente público, para utilizarlos directamente en el desarrollo de su cometido estatal. 
+
+Dadas sus características inmovilizan temporalmente capitales, que en el tiempo tendera a desaparecer por efecto de la depreciación. 
+
+Activo amortizable. 
+
+Propiedad del ente público que de acuerdo con su naturaleza está sujeto a consumirse como consecuencia del uso o extinción del plazo legal o contractual de utilización, pactado o al momento de su adquisición o que cumple con un ciclo productivo determinad o. 
+
+Activo control administrativo . 
+
+Propiedad, planta y equipo que, por su costo de adquisición o valor incorporado, puede reconocerse como gasto para depreciarse en el mismo período contable en que se adquirió o se incorporó, de acuerdo con la entidad 50Uvt durante la vigencia. 
+
+Acto Administrativo . 
+
+Es la autorización reglamentaria que se debe obtener para realizar los ajustes contables, una vez realizada la depuración, o asignación de responsabilidades o investigaciones de acuerdo con la situación presentada en la depuración (hurto, pérdida, daño o avería, obsolescencia o extravío. 
+
+Activo depreciable . Bienes tangibles adquiridos por el ente público, a cualquier título, que se encuentran registrados contablemente en alguna de estas cuentas: edificaciones, plantas y ductos, redes, líneas y cables, maquinaria y equipo, equipo médico y científico, enseres y equipo de oficina, equipo de comunicación y computación, equipo de transpor te, tracción y elevación, y equipo de comedor, cocina, despensa y hotelería. 
+
+Activos retirados . Representa el valor comercial de las propiedades, planta y equipo totalmente depreciados, agostados y amortizados, que hayan sido retirados del servicio. 
+
+Amortización. 
+
+Desvalorización periódica de los bienes cuyo valor disminuye con el tiempo o con el uso. Para los activos fijos, la amortización se llama depreciación, mientras que, se denomina amortización para los activos intangibles o no renovables. 
+
+Aseguradora . 
+
+Es la entidad que presta el servicio de aseguramiento y que asume la obligación del pago de la indemnización cuando se produce el evento asegurado. 
+
+Avalúo. 
+
+Proceso de valuación de una propiedad. Estimación del precio de un bien. 
+
+Avalúo técnico . Procedimiento aplicado para determinar el valor comercial o de reposición de un bien, efectuado por peritos o especialistas. 
+
+Avalúo para efectos contables. 
+
+Se refiere a la valoración técnica que efectúa el funcionario, persona natural o jurídica expertas, designado por la entidad pública, que permita acopiar la información y documentación suficiente y pertinente sobre el valor actual de un bien mueble e inmueble y que generalmente se establece en función del precio de mercado que estos tienen. 
+
+Avaluador. 
+
+Personal de la entidad pública, personas naturales o jurídicas independientes, que cuenten con la idoneidad y capacidad para realizar avalúos de bienes muebles e inmuebles. 
+
+Almacén Bodega . Área de un edificio, construida con techo y paredes laterales, destinada para almacenamiento de bienes. 
+
+Almacén abierto . 
+
+Área al descubierto y cerrada por malla metálica para almacenamiento de materiales. 
+
+Almacén Abierto Cubierto . Área techada cerrada sin paredes laterales. 
+
+Almacén Iglú . Área dentro de una estructura de acero y concreta cubierta con tierra, destinada al almacenamiento de municiones y explosivos. 
+
+Almacén de Recibo y Clasificación . 
+
+Área empleada para recibir, inspeccionar, preparar el material nuevo o usado antes de llevarlo a los sitios de almacenamiento. 
+
+Almacén bóveda . 
+
+Espacio especialmente construido para almacenamiento de material, que requiere el máximo de protección contra hurto o destrucción. 
+
+Almacén de inflamables . Área de bodega destinada para el almacenamiento de bienes inflamables. 
+
+Almacén con temperatura controlada. 
+
+Espacio para almacenamiento cuyas condiciones d e temperatura se controlan de acuerdo con las características del bien almacenado y sus indicaciones técnicas. 
+
+Almacén Polvorín . Área sobre el suelo o bajo éste destinado para el almacenamiento de municiones y explosivos. 
+
+Almacén Cuarto Oscuro . Área carente de luz natural o artificial destinada para el bodegaje de bienes que por su composición química no puede tener contacto con la luz. 
+
+Almacenamiento . Es la acción de guardar los bienes de acuerdo con su naturaleza, características técnicas, índice de rotación de los bienes, y todas aquellas normas que faciliten la ubicación y despacho de estos . 
+
+Baja de Bienes. 
+
+Es el retiro definitivo de un bien, tanto de forma física como de los registros de la Entidad que no se encuentre en condiciones de prestar el servicio para el cual se adquirió, perdió su potencial de servicio por encontrarse obsoleto, inservible, vencido, por reparación antieconómica, no susceptibles de readaptación, limitaciones para su reparación o reconf iguración para su uso, por término del ciclo de vida; o no se requieran para el cumplimiento del cometido estatal . 
+
+Bi enes de consumo . Bienes finales que son comprados y usados para la satisfacción directa de alguna necesidad. No necesitan transformación productiva. 
+
+Bienes devolutivos. 
+
+Bienes que no se consumen con el primer uso, se deterioran y perecen con el tiempo por su naturaleza. Deben ser devueltos a la administración que los entregó. Son objeto de depreciación, provisión y amortización. 
+
+Bienes muebles en bodega . Comprende los activos adquiridos a cualquier título, que tienen las características de permanencia, consumo y explotación, para ser utilizados en el futuro por parte del ente público, en desarrollo de su función administrativa o cometido estatal. 
+
+Bienes muebles obsoletos. 
+
+Representa el valor de los bienes muebles, que requieren mantenimiento preventivo o correctivo, con el fin de recuperar y conservar la capacidad normal de producción y utilización del bien. 
+
+Bienes muebles totalmente depreciados. 
+
+Representa el valor de los bienes muebles, que requieren mantenimiento preventivo o correctivo, con el fin de recuperar y conservar la capacidad normal de producción y utilización del bien. 
+
+Centro de Costo . 
+
+Es la división de cualquier d ependencia funcional de la Unidad en la que se generan costos. 
+
+Comité de baja de bienes . 
+
+Comité encargado de autorizar la baja de bien con base el concepto técnico. 
+
+Conciliación . 
+
+Procedimiento de comparación de movimientos mensuales entre el sistema Grupo SAP - SILOG - de acuerdo con los saldos existentes de los bienes y el conteo físico. 
+
+Conteo Físico . Procedimiento de verificar físicamente la existencia de los bienes de las Unidades Ejecutoras, con la planilla o relación ordenada, completa, detallada y valorizada de todos los bienes que integran su patrimonio. 
+
+Costo. 
+
+Valoración en términos monetarios de todos los recursos involucrados en la producción de un bien, la prestación de un servicio o ambos. 
+
+Costo de reposición. 
+
+Está determinado por el costo en el que el Ministerio de Defensa y la Policía Nacional incurrirían en una fecha determinada para reponer la capacidad operativa del activo existente. 
+
+Cuenta de orden . Valor de aquellos bienes y derechos que no pertenecen al ente público, pero que pueden afectarlo y que por alguna eventualidad se encuentran temporalmente bajo su tutela o manejo en la fecha de corte. 
+
+Cuentadante . Dicho de una persona: Que da o ha dado cuenta de fondos que ha manejado , a quien puede exigírsela y censurarla . 
+
+Custodia . 
+
+Guardar los bienes, efectuando un control de las entradas y salidas, mediante tarjetas de control de existencias o libros auxiliares sistematizados. 
+
+Depósito Habilitado . 
+
+Es el recinto privado habilitado por la Autoridad Aduanera para el almacenamiento de mercancías y material reservado bajo control aduanero, que en el cumplimiento de obligaciones contractuales y convenios internacionales arriban al país, para su nacionaliz ación. 
+
+Depreciación. 
+
+Distribución sistemática del costo de un activo en los periodos que conforman su vida útil estimada, de acuerdo con el método de reconocido valor técnico adoptado. 
+
+Documento soporte para no obligados a facturar . 
+
+es un documento que se utiliza para respaldar la compra de un bien o servicio cuando el proveedor no está obligado a expedir una factura de venta. 
+
+Este documento es necesario para documentar las operaciones en las declaraciones tributarias y para soportar los costos, deducciones o impuestos descontables. 
+
+Donación . 
+
+Ingreso sin contraprestación, recibidos de otros gobiernos o de instituciones públicas o privadas de carácter nacional o internacional. 
+
+Entidad del Gobierno General . 
+
+Corresponde a las entidades que desarrollan actividades orientadas hacia la producción y provisión, gratuita o aprecios económicamente no significativos, de bienes o servicios, con fines de distribución de la renta y la riqueza. 
+
+Equipo de comedor, cocina, despensa y hotelería . Comprende los utensilios, instrumentos, aparatos y maquinaria utilizado en hoteles, restaurantes y cafeterías, de propiedad del ente público, adquiridos a cualquier título, para ser utilizados en el desarrollo de su función administrativa o cometido esta tal o por actividades conexas. 
+
+Equipos de comunicación y computación . Comprende los instrumentos, aparatos y maquinaria, de propiedad del ente público, adquiridos a cualquier título, y para el desarrollo de su función administrativa o cometido estatal. 
+
+Equipo de transporte, tracción y elevación . Comprende los aparatos y maquinaria utilizadas para la movilización, aérea, terrestre, férrea, marítima y fluvial, de tracción y elevación, de propiedad del ente público, adquiridos a cualquier título, para el desarrollo de su función administrativa o co metido estatal. 
+
+Equipo médico y científico . 
+
+Comprende los utensilios, instrumentos aparatos y maquinaria de investigación y de laboratorio, de propiedad del ente público, adquiridos a cualquier título, para ser utilizados en el desarrollo de su función administrativa o cometido estatal. 
+
+Factura electrónica. 
+
+Documento que el vendedor entrega al comprador, detallando las mercancías vendidas o los servicios prestados, indicando la naturaleza de cada uno de ellos, calidad, cantidad, precio, condiciones, etc. 
+
+Good - will . Prestigio alcanzado por una entidad por distintos conceptos. 
+
+Inmuebles . Cualesquiera bienes fijos, permanentes, que no puedan trasladarse. 
+
+Insinuación de donación: manifestación que se hace ante notario sobre la decisión libre y voluntaria de donar un bien, a fin de que este autorice la escritura pública mediante la cual se protocoliza la donación. 
+
+Intangibles. 
+
+Son recursos identificables, de carácter no monetario y sin apariencia física, sobre los cuales la entidad tiene el control, espera obtener beneficios económicos futuros o potencial de servicio, y puede realizar mediciones fiables. Estos activos se caract erizan porque no se espera venderlos en el curso de las actividades de la entidad y se prevé usarlos durante más de 12 meses. 
+
+Inventarios. 
+
+Son activos adquiridos, los que se encuentren en proceso de transformación y los producidos, así como los productos agrícolas, que se tengan con la intención de a) comercializarse en el curso normal de la operación, b) distribuirse en forma gratuita o a p recios de no mercado en el curso normal de la operación, o c) transformarse o consumirse en actividades de producción de bienes o prestación de servicios. 
+
+Inventarios de manera empresarial . 
+
+El inventario es un documento donde se registran todos los bienes tangibles y en existencia de una empresa, que pueden utilizarse para su alquiler, uso, transformación, consumo o venta. 
+
+Debe ser una relación detallada en la que se incluyan, además de los tangibles, los derechos y deudas de una empresa. 
+
+Licencia. 
+
+Derecho que adquiere una empresa para explotar un invento, una marca o una tecnología determinada. 
+
+Logística Inversa. 
+
+El proceso de planeación, implementación y control de forma eficiente y al coste óptimo del flujo de materias primas, materiales derivados de la producción, productos acabados y equipos, así como el de la información relacionada desde el punto de consumo h acia el punto de origen, o de reaprovechamiento en cualquier etapa del ciclo de vida, con el objeto de optimizar los recursos y asegurar su disposición final, siendo garante en el cumplimiento de las normas y estrategias que permitan fo rtalecer la responsabilidad social respetuosa y amigable con el Medio Ambiente. 
+
+Maquinaria y equipo. 
+
+Comprende elementos y herramientas de propiedad del ente público, adquiridos a cualquier título, para ser utilizados en el desarrollo de su función administrativa o cometido estatal. 
+
+Marca . 
+
+Distintivo que asocia un determinado bien o servicio con el agente económico que lo produce o comercializa. 
+
+Merma: Disminución , pérdida, decremento en la cantidad, peso o medida, que sufren las mercancías y bienes por causas naturales. 
+
+Muebles. 
+
+Cualesquiera bienes que puedan trasladarse de un lugar o sitio Muebles, enseres y equipos de oficina . Comprende los elementos, de propiedad del ente público, adquiridos a cual quier título, para el desarrollo de su función administrativa o cometido estatal. 
+
+Perito . 
+
+Persona que, por sus especiales conocimientos, es llamado para informar sobre hechos cuya apreciación se relaciona con su especial saber o experiencia. 
+
+Patente. 
+
+Derechos legales para explotar en forma exclusiva un nuevo invento, tecnología o proceso productivo, que se concede a una persona natural o jurídica por un tiempo determinado. 
+
+Permuta . 
+
+Contrato comercial por el que dos personas se obligan recíprocamente a dar una cosa por otra. La permuta o cambio es un contrato en que las partes se obligan mutuamente a dar una especie o cuerpo cierto por otro. 
+
+Propiedades, planta y equipo . 
+
+Son activos tangibles empleados por la entidad para la producción o suministro de bienes, para la prestación de servicios y para propósitos administrativos; los bienes muebles que se tengan para generar ingresos producto de su arrendamiento; y los bienes i nmuebles arrendados por un valor inferior al valor de mercado del arrendamiento. 
+
+Estos activos se caracterizan porque no se espera venderlos en el curso de las actividades ordinarias de la entidad y se prevé usarlos durante má s de 12 meses. 
+
+Quincalla . 
+
+Conjunto de objetos de metal, generalmente de escaso valor, como tijeras, dedales, imitaciones de Joyas, cerraduras, bisagras, pomos de puertas, etc. 
+
+Reparaciones . 
+
+Erogaciones en que incurre la Entidad con el fin de recuperar la capacidad normal de uso del activo. 
+
+Semovientes. 
+
+Comprende los animales que se utilicen para investigación, educación, seguridad, transporte, entretenimiento, esparcimiento, control de aduanas o para cualquier otra actividad que no sea pecuaria. También incluye los semovientes de propiedad de terceros qu e cumplan la definición de activo. 
+
+Sistema FMS. 
+
+El Gobierno de los Estados Unidos, mediante su política exterior ha establecido el programa de Ventas Militares y Control de Exportaciones de Armas, ofreciendo vender a los diferentes gobiernos de su área de influencia, material y servicios de defensa. 
+
+Las ventas militares que efectúa el Gobierno de los Estados Unidos al Gobierno de Colombia, opera mediante convenio pactado directamente de Gobierno a Gobierno, avalado por los respectivos Congresos, que deben ser suscritos por el representante autorizado del Departamento de Defensa de los Estados Unidos y el Ministerio de Defensa de Colombia, por intermedio de un contrato proforma establecido, denominado LOA (Letter of Offer and Aceptance – Carta de Oferta y Aceptación). 
+
+Software . Conjunto de programas o instrucciones necesarias para que un ordenador o una computadora lleve a cabo su tarea y todo lo relacionado a estos programas. 
+
+Suministro . Proveer de bienes a los servidores públicos para el cabal cumplimiento de las funciones del cargo. 
+
+Unidad Operativa . Se consideran las Brigadas, Batallones, Bases o Dependencias, que tenga una infraestructura administrativa y financiera. 
+
+Usuario Aduanero Permanente . Se entiende por usuario aduanero permanente al funcionario del Ministerio de Defensa – Fuerza Pública, que haya sido reconocido e inscrito como tal, por la Dirección de Impuestos y Aduanas Nacionales - DIAN, previo cumplimiento de los requisitos señalados en la norma correspondiente y los demás requisitos que conforme a las leyes establezca la Dirección General de Aduanas Nacionales. 
+
+UVT . Unidad de Valor Tributario , es la medida equivalente a pesos utilizada para determinar diferentes obligaciones tributarias Valor de realización . Representa el importe en efectivo o su equivalente mediante el cual se espera sea convertido un activo en condiciones normales. 
+
+Valor de mercado . Es el valor por el cual un activo puede ser intercambiado entre partes interesadas y debidamente informado, en una transacción realizada en condiciones de independencia mutua. Cuando el valor de mercado se obtiene en un mercado abierto, activo y ordenado , el valor de mercado puede ser un valor de entrada o de salida observable y un valor no específico para la entidad. 
+
+Valuación: Es la actividad, por medio de la cual se determina el valor de un bien, de conformidad con los métodos, técnicas, actuaciones, criterios y herramientas que se consideren necesarios y pertinentes para el dictamen. El dictamen de la valuación se denomina av alúo. 
+
+Vida útil de activos depreciables . En todos los casos, la vida útil de un activo depreciable debe definirse, por parte del ente público, en relación con el servicio esperado del activo. En circunstancias normales se considera se considera como vida Este do ). 
+
+Se actualiza el formato dada la restructuración de la Gestión General de MINDEFENSA con Resolución No. 
+
+del de diciembre de 2021; corresponde a la versión No. 
+
+5, no obstante, para efectos del Sistema de Gestión y Desempeño Institucional, se considera emisión inicial. 
+
+## 10 de abril de 2025
+
+Se realizaron cambios en: Introducción, Disposiciones generales y los siguientes numerales: 1. Marco conceptual de los bienes, articulado a la política contable, 1.2 Clasificación de los Bienes, 1.2.1.1 Inventario Particulado a la política contable, 1.4.6 Método Valuación de Invent ario , 2.2 tipos de almacenes, 
+
+#### 2.2.1 Almacenes
+
+– Sistema de Información Logístico - SILOG, 
+
+#### 2.4.1 Funciones
+
+del almacenista Generales, 2.2.5 funciones del responsable de los bienes en servicio y bienes con control administrativo, 
+
+### 2.7 perfiles; 2.7.1 almacenis ta;
+
+2.7.2 auxiliar del almacén , 3.1 entrada de HISTÓRICO DE CAMBIOS VERSIÓN No. 
+
+FECHA DE EMISIÓN CAMBIOS REALIZADOS almacén ; 3.1.1 entrada de bienes de acuerdo con su orige n, 
+
+###### 3.1.1.1.1 Adquisiciones
+
+nacionales, 
+
+##### 3.1.1.4 Recibidos
+
+sin contraprestación, 3.1.1.4.1 Donación, 3.1.1.4.4 Bienes Recibidos en donación destinados a actividades de acción integral, 3.2 salida de almacén, .1 procedimiento para el ingreso de bienes, 
+
+#### 4.1.1 Almacén virtual en el Sistema de
+
+Información Logístico - SILOG, .1.2.1.1 Bienes recibidos en el extranjero de acuerdo a la normatividad vigente , 4.1.2.4 Donación, 4.1.2.5 Bienes recibidos sin contrap restación, 4.1.2.5.8 Combustible de aviación, marítimo fluviales y terrestre , 4.1.2.5.11 Bienes considerados en el grupo de inventarios, 4.2 procedimiento para la salida de bienes, .2.1.1.2 Suministro de bienes de consumo - Materiales y suministros, 
+
+####### 4.2.1.1.2.1 Dotación de vestuario, 4.2.1.1.2.2
+
+Dotación de vestuario personal de t ropa de las Fuerzas Militares, numeral 
+
+####### 4.2.1.1.2.3 Combustibles, numeral 4.2.1.1.2.4 Repuestos,
+
+##### 4.2.1.3 Transferencia de bienes,
+
+Se incluyeron los numerales: 
+
+######## 1.2.1.2.1.1.3 Maquinaria
+
+y equipo, 
+
+######## 1.2.1.2.1.1.4 Equipo
+
+médico y científico, 
+
+######## 1.2.1.2.1.1.5 Muebles,
+
+enseres y equipo de oficina, 
+
+######## 1.2.1.2.1.1.6 Equipo
+
+de comunicaciones y computación, 
+
+######## 1.2.1.2.1.1.7 Equipo de transporte, tracción
+
+y elevación, 
+
+######## 1.2.1.2.1.1.8 Equipo
+
+de comedor, cocina, despensa y hotelería, 
+
+######## 1.2.1.2.1.1.9 Bienes de arte y cultura, 1.2.1.2.2.4 Plantas,
+
+ductos y Túneles, 1.2.1.2.2.5 Redes, líneas y cables, 
+
+##### 1.2.1.3 Bienes
+
+con control administrativo, 1.2.2.1 Marca, 1.2.2.2 Patentes, 
+
+##### 1.2.2.3 Derechos,
+
+##### 1.2.2.4 Licencias,
+
+##### 1.2.2.5 Software, 1.2.3.1 En tránsito, 1.2.3.2 En poder
+
+de terceros, 1.2.3.3 Maquinaria, planta y equipo en montaje, 
+
+##### 1.2.3.4. Propiedades
+
+planta y equipo en tránsito, 
+
+##### 1.2.3.5 Bienes
+
+muebles en bodega, 1.2.3.6 Propiedades, Planta y Equipo en Mantenimiento, 1.2.3.7. Propiedades, Planta y Equipo no Explotados, 1.3.5 Valor residual, 1.4 reconocimiento de bienes , 
+
+#### 1.4.1 De
+
+los Inventarios, 
+
+#### 1.4.4. Bienes
+
+Históricos y culturales, 1.5 medición inicial , 
+
+#### 1.5.1 Inventarios , 1.5.2 Propiedades Planta y equipo,
+
+#### 1.5.3 Intangibles,
+
+##### 1.5.3.1 Activos
+
+intangibles adquiridos, 
+
+##### 1.5.3.2 Activos
+
+intangibles HISTÓRICO DE CAMBIOS VERSIÓN No. 
+
+FECHA DE EMISIÓN CAMBIOS REALIZADOS generados internamente, 
+
+#### 1.5.4 Bienes
+
+Históricos y culturales, 1.7 estado consolidado de almacén, 
+
+###### 3.1.1.1.2 Adquisiciones
+
+en el exterior, 3.1.1.1.3 Adquisiciones de bienes en control administra, 
+
+###### 3.1.1.4.3 Convenios
+
+de Cooperación y colaboración, 
+
+####### 3.1.1.5.12.3 Apoyos
+
+de material entre la Fuerza Pública, 
+
+##### 3.2.1.2 Suministro de Materiales y suministros
+
+(b ienes de consumo), 
+
+##### 3.2.1.3 Suministro
+
+de bienes en control administrativo, 
+
+### 4.1 Procedimientos
+
+Administrativos , 
+
+###### 4.1.2.4.1 Bienes recibidos de cooperación inter nacional,
+
+4.2.1.3.2 aspectos de la norma de CISA, 
+
+###### 4.2.1.3.3 Entrega gratuita de Bienes Muebles
+
+entre Entidades Públicas, 4.2.1.5 Baja en cuenta de bienes. 
+
+Se realiza ajustes a los registros contables, del numeral 7 procedimiento contable. 
+
+Se incluyeron las siguientes definiciones : Activo control administrativo , Aseguradora , Baja de Bienes, Comité de baja de bienes , Conciliación , Documento soporte para no obligados a facturar , Inventarios de manera empresarial , Logística Inversa , Merma , Perito , Permuta , Quincalla , Reparaciones , Valuación 

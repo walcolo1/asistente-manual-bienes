@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-05-09T03:07:51.637Z",
+  "sourceFile": "manual.md",
+  "outputFile": "manual.structured.md",
+  "stats": {
+    "headersRemoved": 1038,
+    "phrasesProcessed": 18696,
+    "chaptersDetected": 7,
+    "sectionsDetected": 551
+  }
+}

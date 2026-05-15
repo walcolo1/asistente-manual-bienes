@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── VIEWPORT LOCK ──────────────────────────────────────────────────────────
+   These rules force the page to exactly fit the viewport.
+   NOTE: overflow:hidden is intentionally NOT applied to <html> because it can
+   interfere with pointer-event hit-testing in some browsers. Body and #root
+   are sufficient to prevent document scroll.
+   ─────────────────────────────────────────────────────────────────────────── */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  /* No overflow:hidden here — keeps browser pointer events working */
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f7f9fb;
+  color: #191c1e;
+  /* Explicitly reset Vite scaffold globals */
+  display: block;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  max-width: none;    /* kill Vite's 1280px max-width */
+  text-align: left;  /* kill Vite's centered text */
+}
+
+/* ─── SCROLLBAR ──────────────────────────────────────────────────────────── */
+.scrollbar-thin {
+  scrollbar-width: thin;
+  scrollbar-color: #c4c6cf transparent;
+}
+.scrollbar-thin::-webkit-scrollbar {
+  width: 4px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background-color: #c4c6cf;
+  border-radius: 9999px;
+}
+
+/* ─── ANIMATIONS ─────────────────────────────────────────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Bounce for loading dots — used via inline style animation: 'bounce 1s infinite' */
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-5px); }
+}
+
+/* SlideUp for SourceViewer modal */
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(16px) scale(0.98); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+/* FadeInLeft for TOC section items */
+@keyframes fadeInLeft {
+  from { opacity: 0; transform: translateX(-8px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
