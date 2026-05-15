@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import API_BASE_URL from '../config/api';
 
 const API_BASE = API_BASE_URL;
