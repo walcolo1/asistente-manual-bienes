@@ -91,11 +91,18 @@ body {
 .app-container {
   display: grid;
   grid-template-columns: 260px minmax(0, 1fr) 320px;
+  grid-template-rows: 1fr;
   height: 100vh;
+  height: 100dvh;
   width: 100vw;
   overflow: hidden;
   font-family: 'Inter', sans-serif;
   background: #f7f9fb;
+}
+
+/* On desktop, mobile-header is a hidden grid child (display:none via media query default) */
+.app-container > .mobile-header {
+  display: none;
 }
 
 .toc-sidebar {
@@ -130,49 +137,69 @@ body {
   .app-container {
     grid-template-columns: 1fr;
     grid-template-rows: auto 1fr;
-  }
-  
-  .sidebar-container {
-    position: fixed;
-    top: 0;
-    left: -280px; /* Hidden by default */
-    bottom: 0;
-    width: 260px;
-    z-index: 50;
-    transition: left 0.3s ease;
-  }
-  
-  .sidebar-container.open {
-    left: 0;
-  }
-  
-  .sidebar-overlay.open {
-    display: block;
+    height: 100vh;
+    height: 100dvh;
   }
 
-  .right-panel-container {
-    display: none; /* Hidden on mobile */
-  }
-
-  .mobile-header {
+  /* Mobile header: fila 1 del grid */
+  .app-container > .mobile-header {
     display: flex;
+    grid-column: 1;
+    grid-row: 1;
     align-items: center;
     justify-content: space-between;
     padding: 12px 16px;
     background: #ffffff;
     border-bottom: 1px solid #c4c6cf;
     z-index: 30;
+    min-height: 56px;
   }
+
+  /* Sidebar: fixed, fuera del flujo del grid */
+  .sidebar-container {
+    position: fixed;
+    top: 0;
+    left: -280px;
+    bottom: 0;
+    width: 280px;
+    z-index: 50;
+    transition: left 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+    background: #ffffff;
+    box-shadow: 4px 0 24px rgba(0,0,0,0.15);
+  }
+
+  .sidebar-container.open {
+    left: 0;
+  }
+
+  .sidebar-overlay.open {
+    display: block;
+  }
+
+  /* Main: fila 2 del grid — ocupa todo el resto */
+  .app-container > main {
+    grid-column: 1;
+    grid-row: 2;
+    height: 100%;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .right-panel-container {
+    display: none;
+  }
+
+
 
   .desktop-chat-header {
     display: none !important;
   }
-  
+
   .toc-sidebar {
     width: 100% !important;
     border-right: none !important;
   }
-  
+
   .toc-main {
     width: 100% !important;
   }
@@ -181,12 +208,13 @@ body {
     display: none !important;
   }
 
-  /* Increase touch targets for mobile */
+  /* Targets táctiles mínimos */
   button {
     min-height: 44px;
   }
-  
-  input[type="text"] {
-    font-size: 16px; /* Prevents iOS zoom */
+
+  input[type="text"],
+  textarea {
+    font-size: 16px; /* Evita zoom automático en iOS */
   }
 }

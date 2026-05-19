@@ -312,7 +312,7 @@ function App() {
       // Clasificar el error para mensajes más claros
       let userMsg = err.message;
       if (!userMsg || userMsg === 'Failed to fetch') {
-        userMsg = 'No se pudo obtener la respuesta. Verifique que el backend esté activo en el puerto 3000.';
+        userMsg = 'No se pudo obtener la respuesta. Verifique la conexión con el servicio.';
       } else if (userMsg.toLowerCase().includes('quota') || userMsg.toLowerCase().includes('límite')) {
         userMsg = 'Se alcanzó el límite temporal de consultas de IA. Intenta más tarde.';
       } else if (userMsg.toLowerCase().includes('rate')) {
