@@ -82,6 +82,7 @@ const SectionViewer = ({ sectionId, onAskAbout, onClose }) => {
   const [error, setError]       = useState(null);
   const [copied, setCopied]     = useState(false);
   const [asking, setAsking]     = useState(false);
+  const [showChunks, setShowChunks] = useState(false);
 
   useEffect(() => {
     if (!sectionId) { setData(null); setError(null); return; }
@@ -92,6 +93,7 @@ const SectionViewer = ({ sectionId, onAskAbout, onClose }) => {
     setData(null);
     setCopied(false);
     setAsking(false);
+    setShowChunks(false);
 
     fetch(`${API_BASE}/api/section/${encodeURIComponent(sectionId)}`)
       .then(r => {
@@ -242,30 +244,43 @@ const SectionViewer = ({ sectionId, onAskAbout, onClose }) => {
         {/* Fragmentos individuales si hay más de 1 */}
         {chunkCount > 1 && Array.isArray(data.chunks) && (
           <div style={{ marginTop: 20 }}>
-            <p style={{
-              margin: '0 0 10px', fontSize: 11, fontWeight: 600,
-              color: '#74777f', textTransform: 'uppercase', letterSpacing: '0.06em',
-            }}>
-              Fragmentos ({chunkCount})
-            </p>
-            <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
-              {data.chunks.map((chunk, i) => (
-                <div key={chunk.id} style={{
-                  background: '#f2f4f6', border: '1px solid #e0e3e5',
-                  borderRadius: 8, padding: '10px 14px',
-                }}>
-                  <p style={{ margin: '0 0 4px', fontSize: 10, color: '#74777f', fontFamily: 'monospace' }}>
-                    [{i + 1}] {(chunk.id || '').slice(0, 8)}…
-                  </p>
-                  <p style={{
-                    margin: 0, fontSize: 12, color: '#44474e',
-                    lineHeight: 1.6, whiteSpace: 'pre-wrap',
+            <button
+              onClick={() => setShowChunks(!showChunks)}
+              style={{
+                display: 'inline-flex', alignItems: 'center', gap: 6,
+                padding: '6px 12px', background: 'transparent',
+                border: '1px solid #c4c6cf', borderRadius: 6,
+                color: '#44474e', fontSize: 11, fontWeight: 600,
+                cursor: 'pointer', transition: 'all 0.15s'
+              }}
+              onMouseEnter={e => { e.currentTarget.style.background = '#f2f4f6'; }}
+              onMouseLeave={e => { e.currentTarget.style.background = 'transparent'; }}
+            >
+              <svg width="12" height="12" fill="none" stroke="currentColor" viewBox="0 0 24 24" style={{ transform: showChunks ? 'rotate(180deg)' : 'rotate(0deg)', transition: 'transform 0.2s' }}>
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+              </svg>
+              {showChunks ? 'Ocultar fragmentos técnicos' : 'Ver fragmentos técnicos'}
+            </button>
+            {showChunks && (
+              <div style={{ display: 'flex', flexDirection: 'column', gap: 8, marginTop: 12 }}>
+                {data.chunks.map((chunk, i) => (
+                  <div key={chunk.id} style={{
+                    background: '#f2f4f6', border: '1px solid #e0e3e5',
+                    borderRadius: 8, padding: '10px 14px',
                   }}>
-                    {cleanText(chunk.content)}
-                  </p>
-                </div>
-              ))}
-            </div>
+                    <p style={{ margin: '0 0 4px', fontSize: 10, color: '#74777f', fontFamily: 'monospace' }}>
+                      [{i + 1}] {(chunk.id || '').slice(0, 8)}…
+                    </p>
+                    <p style={{
+                      margin: 0, fontSize: 12, color: '#44474e',
+                      lineHeight: 1.6, whiteSpace: 'pre-wrap',
+                    }}>
+                      {cleanText(chunk.content)}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            )}
           </div>
         )}
       </div>

@@ -91,7 +91,7 @@ async function run() {
         }
 
         const h1Match = line.match(/^#\s+(.*)/);
-        const hNxMatch = line.match(/^(#{2,6})\s+(.*)/);
+        const hNxMatch = line.match(/^(#{2,7})\s+(.*)/);
 
         if (h1Match) {
             processAccumulatedText();
