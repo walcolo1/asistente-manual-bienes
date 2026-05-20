@@ -43,6 +43,11 @@ app.use(cors({
 }));
 app.use(express.json());
 
+// ✅ Health check — registrado primero para garantizar disponibilidad
+app.get('/api/health', (req, res) => {
+  res.status(200).json({ status: 'ok', message: 'Backend is running' });
+});
+
 app.use('/api/search',      searchRoutes);
 app.use('/api/ask',         rateLimitMiddleware, askRoutes);   // ← rate limit + Gemini
 app.use('/api/ask-section', askSectionRoutes);                 // ← rate limit incluido en la ruta
@@ -50,12 +55,8 @@ app.use('/api/source',      sourceRoutes);
 app.use('/api/toc',         tocRoutes);                        // ← sin Gemini
 app.use('/api/section',     sectionRoutes);                    // ← sin Gemini
 
-app.get('/api/health', (req, res) => {
-  res.status(200).json({ status: 'ok', message: 'Backend is running' });
-});
-
 app.listen(PORT, () => {
-  console.log(`Server listening on port ${PORT}`);
+  console.log(`Servidor backend activo en puerto ${PORT}`);
   console.log(`GEMINI_API_KEY detectada: ${process.env.GEMINI_API_KEY ? 'sí' : 'no'}`);
   console.log(`Rate limit configurado: ${process.env.ASK_RATE_LIMIT_PER_MINUTE || 10}/min | ${process.env.ASK_RATE_LIMIT_PER_DAY || 50}/día`);
 });
