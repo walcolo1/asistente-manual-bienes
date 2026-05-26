@@ -8,6 +8,7 @@ import TableOfContents   from './components/TableOfContents';
 import SectionViewer     from './components/SectionViewer';
 import HistoryPanel      from './components/HistoryPanel';
 import InfographicModal  from './components/InfographicModal';
+import Academia          from './components/Academia';
 import API_BASE_URL      from './config/api';
 
 const WELCOME_MSG = {
@@ -450,6 +451,8 @@ function App() {
 
   const renderMainPanel = () => {
     switch (activeView) {
+      case 'academia':
+        return <Academia />;
       case 'toc':
         return (
           <div className="toc-layout-container" style={{ display: 'flex', height: '100%', overflow: 'hidden' }}>
@@ -569,6 +572,7 @@ function App() {
   };
 
   const renderRightPanel = () => {
+    if (activeView === 'academia') return null;
     if (activeView === 'toc' || activeView === 'references' ||
         activeView === 'history' || activeView === 'settings') {
       return (
@@ -672,7 +676,7 @@ function App() {
       />
 
       {/* Root layout */}
-      <div className="app-container">
+      <div className={`app-container ${activeView === 'academia' ? 'no-right-panel' : ''}`}>
 
         {/* Mobile Header */}
         <div className="mobile-header">
