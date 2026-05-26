@@ -208,6 +208,13 @@ const TableOfContents = ({ activeSectionId, onSectionClick }) => {
   const [error, setError]     = useState(null);
   const [openChapters, setOpenChapters] = useState({});
   const [searchTerm, setSearchTerm]     = useState('');
+  const [favoriteSections, setFavoriteSections] = useState(() => {
+    try {
+      return JSON.parse(localStorage.getItem('manualBienes.favoriteSections') || '[]');
+    } catch {
+      return [];
+    }
+  });
 
   useEffect(() => {
     let cancelled = false;
@@ -259,11 +266,30 @@ const TableOfContents = ({ activeSectionId, onSectionClick }) => {
     setOpenChapters(prev => ({ ...prev, [chapId]: !prev[chapId] }));
   }, []);
 
+  const toggleFavorite = useCallback((sectionId) => {
+    setFavoriteSections(prev => (
+      prev.includes(sectionId)
+        ? prev.filter(id => id !== sectionId)
+        : [...prev, sectionId]
+    ));
+  }, []);
+
+  useEffect(() => {
+    localStorage.setItem('manualBienes.favoriteSections', JSON.stringify(favoriteSections));
+  }, [favoriteSections]);
+
   const chapters = Array.isArray(toc) 
     ? toc 
     : Array.isArray(toc?.chapters) 
       ? toc.chapters 
       : [];
+
+  const favoriteItems = chapters.flatMap(chapter => {
+    const sections = Array.isArray(chapter.sections) ? chapter.sections : [];
+    return sections
+      .filter(section => favoriteSections.includes(section.id))
+      .map(section => ({ ...section, chapter: chapter.chapter }));
+  });
 
   // ── Lógica de Filtrado ──
   const queryTokens = normalizeText(searchTerm).split(/\s+/).filter(Boolean);
@@ -367,6 +393,24 @@ const TableOfContents = ({ activeSectionId, onSectionClick }) => {
 
       {/* Tree */}
       <div className="scrollbar-thin" style={S.scrollArea}>
+        {favoriteItems.length > 0 && (
+          <div className="toc-favorites">
+            <p>Favoritos</p>
+            {favoriteItems.slice(0, 6).map(item => (
+              <button
+                key={item.id}
+                type="button"
+                onClick={() => onSectionClick?.(item.id)}
+                className={item.id === activeSectionId ? 'active' : ''}
+                title={item.section}
+              >
+                <span>★</span>
+                <strong>{item.section}</strong>
+              </button>
+            ))}
+          </div>
+        )}
+
         {filteredChapters.length === 0 && (
           <p style={{ color: '#74777f', fontSize: 13, padding: '32px 12px', textAlign: 'center' }}>
             {searchTerm ? 'No se encontraron coincidencias.' : 'No se encontró tabla de contenido.'}
@@ -429,9 +473,11 @@ const TableOfContents = ({ activeSectionId, onSectionClick }) => {
               <div style={S.sectionList(isOpen)}>
                 {sections.map(sec => {
                   const isActive = sec.id === activeSectionId;
+                  const isFavorite = favoriteSections.includes(sec.id);
                   // Guard: chunkIds puede ser undefined
                   const chunkCount = Array.isArray(sec.chunkIds) ? sec.chunkIds.length : 0;
                   return (
+                    <div className="toc-section-row" key={sec.id}>
                     <button
                       key={sec.id}
                       style={S.sectionBtn(isActive)}
@@ -446,6 +492,15 @@ const TableOfContents = ({ activeSectionId, onSectionClick }) => {
                         <span style={S.chunkCount}>{chunkCount}</span>
                       )}
                     </button>
+                    <button
+                      type="button"
+                      className={`toc-favorite-button ${isFavorite ? 'active' : ''}`}
+                      onClick={() => toggleFavorite(sec.id)}
+                      title={isFavorite ? 'Quitar de favoritos' : 'Agregar a favoritos'}
+                    >
+                      ★
+                    </button>
+                    </div>
                   );
                 })}
               </div>

@@ -10,6 +10,16 @@ const QUOTA_MSG          = 'Se alcanzó el límite temporal de consultas de IA. 
 // Configurable vía ASK_MIN_RELEVANCE_SCORE en .env
 const MIN_RELEVANCE_SCORE = parseInt(process.env.ASK_MIN_RELEVANCE_SCORE || '3', 10);
 
+function buildExcerpt(content, maxLength = 260) {
+  const compact = String(content || '')
+    .replace(/^#{1,6}\s+/gm, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (compact.length <= maxLength) return compact;
+  return `${compact.slice(0, maxLength).replace(/\s+\S*$/, '')}...`;
+}
+
 async function askQuestion(req, res) {
   try {
     const { question } = req.body;
@@ -104,6 +114,7 @@ async function askQuestion(req, res) {
       const usedChunks = chunks.map(chunk => ({
         id:    chunk.id,
         score: chunk.score,
+        excerpt: buildExcerpt(chunk.content),
         metadata: {
           chapter: chunk.metadata?.chapter || 'Sin capítulo',
           section: chunk.metadata?.section || 'Sin sección',

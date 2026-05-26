@@ -9,6 +9,7 @@ const sourceRoutes        = require('./routes/source.routes');
 const tocRoutes           = require('./routes/toc.routes');
 const sectionRoutes       = require('./routes/section.routes');
 const askSectionRoutes    = require('./routes/ask-section.routes');
+const infographicRoutes   = require('./routes/infographic.routes');
 const rateLimitMiddleware = require('./middleware/rate-limit.middleware');
 
 const app  = express();
@@ -54,9 +55,13 @@ app.use('/api/ask-section', askSectionRoutes);                 // ← rate limit
 app.use('/api/source',      sourceRoutes);
 app.use('/api/toc',         tocRoutes);                        // ← sin Gemini
 app.use('/api/section',     sectionRoutes);                    // ← sin Gemini
+app.use('/api/infographic', rateLimitMiddleware, infographicRoutes);
 
 app.listen(PORT, () => {
   console.log(`Servidor backend activo en puerto ${PORT}`);
   console.log(`GEMINI_API_KEY detectada: ${process.env.GEMINI_API_KEY ? 'sí' : 'no'}`);
   console.log(`Rate limit configurado: ${process.env.ASK_RATE_LIMIT_PER_MINUTE || 10}/min | ${process.env.ASK_RATE_LIMIT_PER_DAY || 50}/día`);
 });
+
+module.exports = app;
+

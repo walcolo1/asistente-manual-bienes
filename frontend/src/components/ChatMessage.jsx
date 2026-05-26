@@ -1,163 +1,271 @@
 import React from 'react';
 
-/**
- * ChatMessage — Burbuja de chat.
- * Props:
- *   role          'user' | 'system'
- *   content       string
- *   sources       Array<{ chapter, section, source }>
- *   usedChunks    Array<{ id, metadata }>  — para hacer los chips clickeables
- *   isError       bool
- *   onSourceClick (chunkId: string) => void
- */
-const ChatMessage = ({ role, content, sources, usedChunks = [], isError, onSourceClick }) => {
+const ACTIONS = [
+  { id: 'more', label: 'Ver mas', icon: 'M12 5v14m7-7H5' },
+  { id: 'source', label: 'Ir a fuente', icon: 'M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14' },
+  { id: 'copy', label: 'Copiar', icon: 'M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z' },
+  { id: 'infographic', label: 'Infografía', icon: 'M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z' },
+];
+
+const KEYWORD_PATTERN = /\b(requisito|procedimiento|validacion|responsable|aprobacion|documento|soporte|registro|control|inventario|baja|alta|traslado|obligatorio|debe|debera|acta|evidencia|sistema)\b/gi;
+
+function cleanLine(line) {
+  return String(line || '')
+    .replace(/^#{1,6}\s*/, '')
+    .replace(/\*\*/g, '')
+    .replace(/\s+$/g, '')
+    .trim();
+}
+
+function splitResponse(content) {
+  const lines = String(content || '').split(/\r?\n/);
+  const sections = [];
+  let current = { title: 'Resumen', lines: [] };
+
+  lines.forEach((rawLine) => {
+    const line = cleanLine(rawLine);
+    if (!line) {
+      if (current.lines.length && current.lines[current.lines.length - 1] !== '') {
+        current.lines.push('');
+      }
+      return;
+    }
+
+    const heading = rawLine.match(/^\s{0,3}#{1,4}\s+(.+)$/);
+    const titledLine = line.match(/^([A-ZÁÉÍÓÚÑ][^:]{2,48}):\s*(.*)$/);
+
+    if (heading || (titledLine && line.length < 90)) {
+      if (current.lines.some(Boolean)) sections.push(current);
+      current = {
+        title: cleanLine(heading ? heading[1] : titledLine[1]),
+        lines: titledLine?.[2] ? [cleanLine(titledLine[2])] : [],
+      };
+      return;
+    }
+
+    current.lines.push(line);
+  });
+
+  if (current.lines.some(Boolean)) sections.push(current);
+  return sections.length ? sections : [{ title: 'Respuesta', lines: [String(content || '')] }];
+}
+
+function extractConcepts(content) {
+  const found = new Map();
+  String(content || '').replace(KEYWORD_PATTERN, (match) => {
+    const key = match.toLowerCase();
+    if (!found.has(key)) found.set(key, match);
+    return match;
+  });
+  return Array.from(found.values()).slice(0, 6);
+}
+
+function renderHighlighted(text) {
+  const parts = String(text || '').split(KEYWORD_PATTERN);
+  return parts.map((part, index) => {
+    if (part.match(KEYWORD_PATTERN)) {
+      return <mark key={`${part}-${index}`} className="concept-highlight">{part}</mark>;
+    }
+    return <React.Fragment key={`${part}-${index}`}>{part}</React.Fragment>;
+  });
+}
+
+function renderLine(line, index) {
+  if (!line) return <div key={index} className="answer-gap" />;
+
+  const numbered = line.match(/^(\d+)[.)]\s+(.+)$/);
+  const bullet = line.match(/^[-*•]\s+(.+)$/);
+
+  if (numbered) {
+    return (
+      <div className="answer-step" key={index}>
+        <span className="step-index">{numbered[1]}</span>
+        <p>{renderHighlighted(numbered[2])}</p>
+      </div>
+    );
+  }
+
+  if (bullet) {
+    return (
+      <div className="answer-bullet" key={index}>
+        <span />
+        <p>{renderHighlighted(bullet[1])}</p>
+      </div>
+    );
+  }
+
+  return <p className="answer-paragraph" key={index}>{renderHighlighted(line)}</p>;
+}
+
+const SourceChip = ({ src, chunkId, onSourceClick }) => {
+  const clickable = Boolean(chunkId);
+  return (
+    <button
+      type="button"
+      className="source-chip"
+      disabled={!clickable}
+      onClick={() => clickable && onSourceClick?.(chunkId)}
+      title={clickable ? 'Ver fuente en contexto' : 'Fuente sin fragmento enlazado'}
+    >
+      <span>{src.section || src.chapter || 'Fuente'}</span>
+      {clickable && (
+        <svg width="12" height="12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+        </svg>
+      )}
+    </button>
+  );
+};
+
+const ChatMessage = ({ role, content, sources = [], usedChunks = [], isError, onSourceClick, onSuggestionClick, onGenerateInfographic, isLastAssistant }) => {
   const isUser = role === 'user';
   const [copied, setCopied] = React.useState(false);
 
-  const handleCopy = () => {
-    navigator.clipboard.writeText(content).then(() => {
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2000);
-    });
-  };
+  const sections = React.useMemo(() => splitResponse(content), [content]);
+  const concepts = React.useMemo(() => extractConcepts(content), [content]);
 
-  const bubbleStyle = isUser
-    ? { background: '#1b365d', color: '#ffffff', borderRadius: '16px 16px 4px 16px' }
-    : isError
-    ? { background: '#ffdad6', color: '#93000a', border: '1px solid #f2b8b5', borderRadius: '16px 16px 16px 4px' }
-    : { background: '#ffffff', color: '#191c1e', border: '1px solid #e0e3e5', borderRadius: '16px 16px 16px 4px' };
-
-  /**
-   * Encuentra el ID del chunk correspondiente a este source chip.
-   */
   const findChunkId = (src) => {
     const match = usedChunks.find(
-      (c) =>
-        c.metadata?.chapter === src.chapter &&
-        c.metadata?.section === src.section
+      (chunk) =>
+        chunk.metadata?.chapter === src.chapter &&
+        chunk.metadata?.section === src.section
     );
     return match?.id || null;
   };
 
-  return (
-    <div
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        width: '100%',
-        alignItems: isUser ? 'flex-end' : 'flex-start',
-        animation: 'fadeIn 0.3s ease-out forwards',
-        marginBottom: 4,
-      }}
-    >
-      <div
-        style={{
-          maxWidth: '82%',
-          padding: '12px 16px',
-          fontSize: 14,
-          lineHeight: 1.6,
-          whiteSpace: 'pre-wrap',
-          wordBreak: 'break-word',
-          boxShadow: '0 1px 3px rgba(0,0,0,0.06)',
-          fontFamily: 'inherit',
-          position: 'relative',
-          ...bubbleStyle,
-        }}
-      >
-        {content}
+  const copyAnswer = () => {
+    navigator.clipboard.writeText(content || '').then(() => {
+      setCopied(true);
+      window.setTimeout(() => setCopied(false), 1600);
+    });
+  };
 
-        {/* Copy button for system messages */}
-        {!isUser && !isError && (
-          <button
-            onClick={handleCopy}
-            title="Copiar respuesta"
-            style={{
-              position: 'absolute',
-              top: 8,
-              right: 8,
-              background: 'transparent',
-              border: 'none',
-              cursor: 'pointer',
-              color: copied ? '#1a7240' : '#74777f',
-              padding: 4,
-              borderRadius: 4,
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              transition: 'all 0.15s',
-              opacity: 0.6,
-            }}
-            onMouseEnter={e => { e.currentTarget.style.opacity = '1'; e.currentTarget.style.background = '#f2f4f6'; }}
-            onMouseLeave={e => { e.currentTarget.style.opacity = '0.6'; e.currentTarget.style.background = 'transparent'; }}
-          >
+  const openFirstSource = () => {
+    const first = sources.map(findChunkId).find(Boolean);
+    if (first) onSourceClick?.(first);
+  };
+
+  if (isUser) {
+    return (
+      <article className="message-row user-message">
+        <div className="message-label">Pregunta</div>
+        <div className="user-card">{content}</div>
+      </article>
+    );
+  }
+
+  if (role === 'system' && content?.startsWith('Bienvenido')) {
+    return (
+      <article className="welcome-panel">
+        <div className="welcome-icon">
+          <svg width="22" height="22" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.5L19 8.5V19a2 2 0 01-2 2z" />
+          </svg>
+        </div>
+        <div>
+          <p className="welcome-title">Copiloto tecnico del Manual de Bienes</p>
+          <p className="welcome-copy">Pregunta por procedimientos, requisitos, responsables o validaciones. Las fuentes apareceran a la derecha con fragmentos verificables.</p>
+        </div>
+      </article>
+    );
+  }
+
+  return (
+    <article className={`message-row assistant-message ${isError ? 'is-error' : ''}`}>
+      <div className="assistant-header">
+        <div>
+          <span className="message-label">{isError ? 'Aviso del sistema' : 'Respuesta'}</span>
+          {!isError && <p>Respuesta estructurada con evidencia documental.</p>}
+        </div>
+        {!isError && (
+          <button className="icon-action" type="button" onClick={copyAnswer} title="Copiar respuesta">
             {copied ? (
-              <svg width="12" height="12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M5 13l4 4L19 7" />
+              <svg width="15" height="15" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.4} d="M5 13l4 4L19 7" />
               </svg>
             ) : (
-              <svg width="12" height="12" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+              <svg width="15" height="15" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d={ACTIONS[2].icon} />
               </svg>
             )}
           </button>
         )}
-
-        {/* Source chips — clickable */}
-        {!isUser && sources && sources.length > 0 && (
-          <div style={{ marginTop: 12, paddingTop: 12, borderTop: '1px solid #e0e3e5' }}>
-            <p style={{ margin: '0 0 6px', fontSize: 10, fontWeight: 700, textTransform: 'uppercase', letterSpacing: '0.08em', color: '#74777f' }}>
-              Fuentes:
-            </p>
-            <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
-              {sources.map((src, idx) => {
-                const chunkId = findChunkId(src);
-                const isClickable = Boolean(chunkId);
-                return (
-                  <span
-                    key={idx}
-                    onClick={() => isClickable && onSourceClick?.(chunkId)}
-                    role={isClickable ? 'button' : undefined}
-                    tabIndex={isClickable ? 0 : undefined}
-                    onKeyDown={(e) => { if (isClickable && (e.key === 'Enter' || e.key === ' ')) onSourceClick?.(chunkId); }}
-                    title={isClickable ? 'Ver fragmento del manual' : undefined}
-                    style={{
-                      display: 'inline-flex',
-                      alignItems: 'center',
-                      gap: 4,
-                      fontSize: 11,
-                      padding: '3px 10px',
-                      borderRadius: 6,
-                      background: isClickable ? '#dce8fa' : '#eceef0',
-                      color: '#2e476f',
-                      border: `1px solid ${isClickable ? '#aec7f7' : '#c4c6cf'}`,
-                      cursor: isClickable ? 'pointer' : 'default',
-                      transition: 'all 0.15s',
-                      outline: 'none',
-                      userSelect: 'none',
-                      fontFamily: 'inherit',
-                    }}
-                    onMouseEnter={(e) => { if (isClickable) { e.currentTarget.style.background = '#c5d9f5'; e.currentTarget.style.borderColor = '#1b365d'; } }}
-                    onMouseLeave={(e) => { if (isClickable) { e.currentTarget.style.background = '#dce8fa'; e.currentTarget.style.borderColor = '#aec7f7'; } }}
-                  >
-                    <strong>{src.chapter}</strong>
-                    {src.section && (
-                      <span style={{ marginLeft: 4, fontWeight: 400, color: '#44474e' }}>
-                        — {src.section}
-                      </span>
-                    )}
-                    {isClickable && (
-                      <svg width="10" height="10" fill="none" stroke="#2e476f" viewBox="0 0 24 24" style={{ flexShrink: 0, opacity: 0.7 }}>
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                      </svg>
-                    )}
-                  </span>
-                );
-              })}
-            </div>
-          </div>
-        )}
       </div>
-    </div>
+
+      {!isError && concepts.length > 0 && (
+        <div className="concept-row">
+          {concepts.map((concept) => (
+            <span key={concept}>{concept}</span>
+          ))}
+        </div>
+      )}
+
+      <div className="answer-card-stack">
+        {sections.map((section, index) => (
+          <section className="answer-card" key={`${section.title}-${index}`}>
+            <div className="answer-card-title">
+              <span className="section-glyph">{index + 1}</span>
+              <h3>{section.title}</h3>
+            </div>
+            <div className="answer-body">
+              {section.lines.map(renderLine)}
+            </div>
+          </section>
+        ))}
+      </div>
+
+      {!isError && sources.length > 0 && (
+        <div className="message-sources">
+          <span>Fuentes usadas</span>
+          <div>
+            {sources.slice(0, 4).map((src, index) => (
+              <SourceChip key={`${src.chapter}-${src.section}-${index}`} src={src} chunkId={findChunkId(src)} onSourceClick={onSourceClick} />
+            ))}
+          </div>
+        </div>
+      )}
+
+      {!isError && (
+        <div className="quick-actions">
+          {ACTIONS
+            .filter((action) => action.id !== 'infographic' || isLastAssistant)
+            .map((action) => (
+            <button
+              type="button"
+              key={action.id}
+              className={action.id === 'infographic' ? 'infographic-action-btn' : undefined}
+              onClick={
+                action.id === 'copy' ? copyAnswer
+                : action.id === 'source' ? openFirstSource
+                : action.id === 'infographic' ? () => onGenerateInfographic?.()
+                : undefined
+              }
+              disabled={action.id === 'source' && sources.length === 0}
+            >
+              <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d={action.icon} />
+              </svg>
+              {action.id === 'copy' && copied ? 'Copiado' : action.label}
+            </button>
+          ))}
+        </div>
+      )}
+
+      {!isError && onSuggestionClick && (
+        <div className="suggestion-strip">
+          <span>Tambien puedes preguntar</span>
+          {[
+            'Que documentos son obligatorios?',
+            'Quien aprueba este proceso?',
+            'Que validaciones debo revisar?',
+          ].map((suggestion) => (
+            <button type="button" key={suggestion} onClick={() => onSuggestionClick(suggestion)}>
+              {suggestion}
+            </button>
+          ))}
+        </div>
+      )}
+    </article>
   );
 };
 

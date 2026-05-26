@@ -16,6 +16,16 @@ const cacheService   = require('../services/cache.service');
 const QUOTA_MSG      = 'Se alcanzó el límite temporal de consultas de IA. Intenta más tarde.';
 const NOT_FOUND_MSG  = 'No se pudo cargar el contenido de esta sección.';
 
+function buildExcerpt(content, maxLength = 260) {
+  const compact = String(content || '')
+    .replace(/^#{1,6}\s+/gm, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (compact.length <= maxLength) return compact;
+  return `${compact.slice(0, maxLength).replace(/\s+\S*$/, '')}...`;
+}
+
 async function askSection(req, res) {
   try {
     const { sectionId, question } = req.body;
@@ -77,6 +87,7 @@ async function askSection(req, res) {
     const usedChunks = contextChunks.map(c => ({
       id:    c.id,
       score: c.score,
+      excerpt: buildExcerpt(c.content),
       metadata: {
         chapter: sectionData.chapter,
         section: sectionData.section,

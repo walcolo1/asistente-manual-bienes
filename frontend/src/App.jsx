@@ -7,11 +7,12 @@ import SourceViewer      from './components/SourceViewer';
 import TableOfContents   from './components/TableOfContents';
 import SectionViewer     from './components/SectionViewer';
 import HistoryPanel      from './components/HistoryPanel';
+import InfographicModal  from './components/InfographicModal';
 import API_BASE_URL      from './config/api';
 
 const WELCOME_MSG = {
   role: 'system',
-  content: 'Bienvenido al Consultor Técnico del Manual de Bienes. ¿En qué puedo ayudarle hoy?',
+  content: 'Bienvenido al Consultor Tecnico del Manual de Bienes. En que puedo ayudarle hoy?',
   sources: [],
   usedChunks: [],
 };
@@ -87,7 +88,7 @@ const SettingsPanel = () => (
           icon: '💬',
           title: 'Chat con Gemini',
           desc: 'Solo cuando el usuario envía una pregunta explícitamente por el chat.',
-          ok: null, // neutro
+          ok: null,
         },
         {
           icon: '⚡',
@@ -150,7 +151,7 @@ const SettingsPanel = () => (
   </div>
 );
 
-// ── LocalStorage Helpers ────────────────────────────────────────────────────────
+// ── LocalStorage Helpers ──────────────────────────────────────────────────────
 const loadLocal = (key, defaultVal) => {
   try {
     const item = localStorage.getItem(key);
@@ -176,30 +177,22 @@ function App() {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   // ── Vista activa ──
-  const [activeView, setActiveView] = useState('chat'); // 'chat' | 'toc' | 'references' | 'history' | 'settings'
+  const [activeView, setActiveView] = useState('chat');
 
   // ── Chat state ──
   const [messages, setMessages] = useState(() => loadLocal('manualBienes.activeMessages', [WELCOME_MSG]));
   const [loading, setLoading]   = useState(false);
   const [latestSources, setLatestSources] = useState(() => loadLocal('manualBienes.recentSources', { sources: [], usedChunks: [] }).sources || []);
   const [latestUsedChunks, setLatestUsedChunks] = useState(() => loadLocal('manualBienes.recentSources', { sources: [], usedChunks: [] }).usedChunks || []);
-  const messagesEndRef          = useRef(null);
+  const messagesEndRef = useRef(null);
 
   // ── Historial de sesión ──
-  const [history, setHistory]   = useState(() => loadLocal('manualBienes.sessionHistory', []));
+  const [history, setHistory] = useState(() => loadLocal('manualBienes.sessionHistory', []));
 
   // ── Persistencia de estados ──
-  useEffect(() => {
-    saveLocal('manualBienes.activeMessages', messages);
-  }, [messages]);
-
-  useEffect(() => {
-    saveLocal('manualBienes.recentSources', { sources: latestSources, usedChunks: latestUsedChunks });
-  }, [latestSources, latestUsedChunks]);
-
-  useEffect(() => {
-    saveLocal('manualBienes.sessionHistory', history);
-  }, [history]);
+  useEffect(() => { saveLocal('manualBienes.activeMessages', messages); }, [messages]);
+  useEffect(() => { saveLocal('manualBienes.recentSources', { sources: latestSources, usedChunks: latestUsedChunks }); }, [latestSources, latestUsedChunks]);
+  useEffect(() => { saveLocal('manualBienes.sessionHistory', history); }, [history]);
 
   // ── TOC + sección seleccionada ──
   const [activeSectionId, setActiveSectionId] = useState(null);
@@ -210,13 +203,19 @@ function App() {
   const [viewerLoading, setViewerLoading] = useState(false);
   const [viewerError, setViewerError]     = useState(null);
 
+  // ── Infographic state ──
+  const [showInfographic, setShowInfographic]       = useState(false);
+  const [infographicData, setInfographicData]       = useState(null);
+  const [infographicLoading, setInfographicLoading] = useState(false);
+  const [infographicError, setInfographicError]     = useState(null);
+  const [infographicQuestion, setInfographicQuestion] = useState('');
+
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
   }, [messages, loading]);
 
   // ── Handlers ──────────────────────────────────────────────────────────────
 
-  /** Nueva Consulta: limpia todo y vuelve al chat */
   const handleNewConsulta = useCallback(() => {
     setMessages([WELCOME_MSG]);
     setLatestSources([]);
@@ -229,14 +228,12 @@ function App() {
     setIsMobileMenuOpen(false);
   }, []);
 
-  /** Limpiar solo el chat */
   const handleClear = useCallback(() => {
     setMessages([WELCOME_MSG]);
     setLatestSources([]);
     setLatestUsedChunks([]);
   }, []);
 
-  /** Limpiar historial */
   const handleClearHistory = useCallback(() => {
     if (window.confirm('¿Estás seguro de que deseas eliminar todo el historial de la sesión?')) {
       setHistory([]);
@@ -244,7 +241,6 @@ function App() {
     }
   }, []);
 
-  /** Enviar pregunta a /api/ask → única llamada que usa Gemini */
   const handleSend = useCallback(async (question) => {
     if (!question.trim()) return;
     setActiveView('chat');
@@ -257,17 +253,11 @@ function App() {
         body: JSON.stringify({ question: question.trim() }),
       });
 
-      // Intentar parsear JSON en todos los casos (incluso errores HTTP)
       let data;
-      try {
-        data = await response.json();
-      } catch {
-        throw new Error('El servidor devolvió una respuesta no válida. Verifique que el backend esté activo.');
-      }
+      try { data = await response.json(); }
+      catch { throw new Error('El servidor devolvió una respuesta no válida. Verifique que el backend esté activo.'); }
 
-      // Rate limit → 429 (el middleware devuelve { answer, sources, usedChunks, rateLimited: true })
       if (response.status === 429) {
-        // El rate limiter usa data.answer (no data.error)
         const msg = data?.answer || data?.error || 'Has realizado muchas consultas seguidas. Intenta nuevamente en un minuto.';
         setMessages(prev => [...prev, { role: 'system', content: msg, isError: false, sources: [], usedChunks: [] }]);
         return;
@@ -278,24 +268,15 @@ function App() {
         throw new Error(msg);
       }
 
-      // Si la IA responde que no encontró información, no mostramos fuentes para evitar confusión
-      const NOT_FOUND_MSG = "No encontré esa información en los capítulos cargados del manual.";
+      const NOT_FOUND_MSG = 'No encontré esa información en los capítulos cargados del manual.';
       const isNotFound = data.answer && data.answer.includes(NOT_FOUND_MSG);
-      
       const sources    = isNotFound ? [] : (data.sources || []);
       const usedChunks = isNotFound ? [] : (data.usedChunks || []);
 
       setLatestSources(sources);
       setLatestUsedChunks(usedChunks);
-      
-      setMessages(prev => [...prev, { 
-        role: 'system', 
-        content: data.answer, 
-        sources, 
-        usedChunks 
-      }]);
+      setMessages(prev => [...prev, { role: 'system', content: data.answer, sources, usedChunks }]);
 
-      // Guardar en historial de sesión
       setHistory(prev => {
         const newHist = [...prev, {
           id: Date.now().toString() + Math.random().toString(36).substr(2, 5),
@@ -304,12 +285,11 @@ function App() {
           sources,
           usedChunks,
           createdAt: new Date().toISOString(),
-          fromCache: !!data.fromCache
+          fromCache: !!data.fromCache,
         }];
         return newHist.length > 50 ? newHist.slice(newHist.length - 50) : newHist;
       });
     } catch (err) {
-      // Clasificar el error para mensajes más claros
       let userMsg = err.message;
       if (!userMsg || userMsg === 'Failed to fetch') {
         userMsg = 'No se pudo obtener la respuesta. Verifique la conexión con el servicio.';
@@ -324,7 +304,6 @@ function App() {
     }
   }, []);
 
-  /** Restaurar ítem de historial al chat */
   const handleRestoreHistory = useCallback((item) => {
     setLatestSources(item.sources || []);
     setLatestUsedChunks(item.usedChunks || []);
@@ -337,7 +316,6 @@ function App() {
     setIsMobileMenuOpen(false);
   }, []);
 
-  /** Click en fuente → abre SourceViewer */
   const handleSourceClick = useCallback(async (chunkId) => {
     if (!chunkId) return;
     setViewerChunkId(chunkId);
@@ -362,70 +340,88 @@ function App() {
     setViewerError(null);
   }, []);
 
-  /** Click en sección del TOC → sin Gemini */
+  const handleGenerateInfographic = useCallback(async () => {
+    let lastQuestion = '';
+    let lastAnswer = '';
+    for (let i = messages.length - 1; i >= 0; i--) {
+      if (messages[i].role === 'system' && !messages[i].isError && !messages[i].content?.startsWith('Bienvenido')) {
+        lastAnswer = messages[i].content;
+        for (let j = i - 1; j >= 0; j--) {
+          if (messages[j].role === 'user') { lastQuestion = messages[j].content; break; }
+        }
+        break;
+      }
+    }
+    if (!lastAnswer) return;
+
+    setShowInfographic(true);
+    setInfographicData(null);
+    setInfographicError(null);
+    setInfographicLoading(true);
+    setInfographicQuestion(lastQuestion);
+
+    try {
+      const response = await fetch(`${API_BASE_URL}/api/infographic`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question: lastQuestion, answer: lastAnswer }),
+      });
+      let data;
+      try { data = await response.json(); }
+      catch { throw new Error('El servidor devolvió una respuesta no válida.'); }
+      if (!response.ok) throw new Error(data?.error || `Error del servidor (${response.status})`);
+      setInfographicData(data);
+    } catch (err) {
+      setInfographicError(err.message || 'No se pudo generar la infografía.');
+    } finally {
+      setInfographicLoading(false);
+    }
+  }, [messages]);
+
+  const handleCloseInfographic = useCallback(() => {
+    setShowInfographic(false);
+    setInfographicData(null);
+    setInfographicError(null);
+    setInfographicLoading(false);
+  }, []);
+
   const handleSectionClick = useCallback((sectionId) => {
     setActiveSectionId(sectionId);
-    // Si estábamos en TOC, nos quedamos; si venimos de otro panel, cambiamos a chat para ver el viewer
-    // En realidad el viewer se muestra en la columna central cuando activeView === 'toc'
     setActiveView('toc');
     setIsMobileMenuOpen(false);
   }, []);
 
-  /** "Preguntar sobre esta sección" → llama a /api/ask-section con sectionId directo */
   const handleAskAboutSection = useCallback(async (sectionId, question) => {
     if (!sectionId) return;
-
     const effectiveQuestion = question?.trim() || `Proporciona un resumen técnico de esta sección del manual (ID: ${sectionId}).`;
-
-    // Cambiar a vista chat para mostrar la respuesta
     setActiveView('chat');
-    setMessages(prev => [...prev, {
-      role: 'user', content: effectiveQuestion, sources: [], usedChunks: [],
-    }]);
+    setMessages(prev => [...prev, { role: 'user', content: effectiveQuestion, sources: [], usedChunks: [] }]);
     setLoading(true);
-
     try {
       const response = await fetch(`${API_BASE_URL}/api/ask-section`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ sectionId: sectionId.trim(), question: effectiveQuestion }),
       });
-
       let data;
-      try {
-        data = await response.json();
-      } catch {
-        throw new Error('El servidor devolvió una respuesta no válida.');
-      }
+      try { data = await response.json(); }
+      catch { throw new Error('El servidor devolvió una respuesta no válida.'); }
 
-      // Rate limit 429
       if (response.status === 429) {
         const msg = data?.answer || data?.error || 'Has realizado muchas consultas seguidas. Intenta nuevamente en un minuto.';
         setMessages(prev => [...prev, { role: 'system', content: msg, isError: false, sources: [], usedChunks: [] }]);
         return;
       }
+      if (!response.ok) throw new Error(data?.error || `Error del servidor (${response.status}).`);
 
-      if (!response.ok) {
-        const msg = data?.error || `Error del servidor (${response.status}).`;
-        throw new Error(msg);
-      }
-
-      // Si la IA responde que no encontró información, no mostramos fuentes para evitar confusión
-      const NOT_FOUND_MSG = "No encontré esa información en los capítulos cargados del manual.";
+      const NOT_FOUND_MSG = 'No encontré esa información en los capítulos cargados del manual.';
       const isNotFound = data.answer && data.answer.includes(NOT_FOUND_MSG);
-
       const sources    = isNotFound ? [] : (data.sources || []);
       const usedChunks = isNotFound ? [] : (data.usedChunks || []);
 
       setLatestSources(sources);
       setLatestUsedChunks(usedChunks);
-      
-      setMessages(prev => [...prev, { 
-        role: 'system', 
-        content: data.answer, 
-        sources, 
-        usedChunks 
-      }]);
+      setMessages(prev => [...prev, { role: 'system', content: data.answer, sources, usedChunks }]);
 
       setHistory(prev => {
         const newHist = [...prev, {
@@ -435,14 +431,14 @@ function App() {
           sources,
           usedChunks,
           createdAt: new Date().toISOString(),
-          fromCache: !!data.fromCache
+          fromCache: !!data.fromCache,
         }];
         return newHist.length > 50 ? newHist.slice(newHist.length - 50) : newHist;
       });
     } catch (err) {
       let userMsg = err.message;
       if (!userMsg || userMsg === 'Failed to fetch') {
-        userMsg = 'No se pudo conectar al servidor. Verifique su conexión o intente nuevamente en unos segundos (el servidor podría estar despertando).';
+        userMsg = 'No se pudo conectar al servidor. Verifique su conexión o intente nuevamente en unos segundos.';
       }
       setMessages(prev => [...prev, { role: 'system', content: userMsg, isError: true, sources: [], usedChunks: [] }]);
     } finally {
@@ -450,26 +446,21 @@ function App() {
     }
   }, []);
 
-  // ── Layout helpers ─────────────────────────────────────────────────────────
+  // ── Layout helpers ──────────────────────────────────────────────────────────
 
-  /** Columna central según vista activa */
   const renderMainPanel = () => {
     switch (activeView) {
       case 'toc':
         return (
           <div className="toc-layout-container" style={{ display: 'flex', height: '100%', overflow: 'hidden' }}>
-            {/* Árbol de contenido */}
             <div className={`toc-sidebar ${activeSectionId ? 'hidden-on-mobile' : ''}`} style={{
-              flexShrink: 0,
-              borderRight: '1px solid #e0e3e5',
-              overflow: 'hidden',
+              flexShrink: 0, borderRight: '1px solid #e0e3e5', overflow: 'hidden',
             }}>
               <TableOfContents
                 activeSectionId={activeSectionId}
                 onSectionClick={handleSectionClick}
               />
             </div>
-            {/* Detalle de sección */}
             <div className={`toc-main ${!activeSectionId ? 'hidden-on-mobile' : ''}`} style={{ flex: 1, minWidth: 0, overflow: 'hidden' }}>
               <SectionViewer
                 sectionId={activeSectionId}
@@ -510,43 +501,21 @@ function App() {
       default:
         return (
           <>
-            {/* Header chat desktop - kept inline but you can also refactor later */}
-            <header className="hidden-mobile-header" style={{
-              flexShrink: 0,
-              display: 'none', // Overridden via media query if needed, but since we have mobile-header now, let's keep it visible on desktop only
-              padding: '12px 20px',
-              background: '#ffffff', borderBottom: '1px solid #c4c6cf',
-            }}>
-               {/* This is the inner content but we want a flex layout. We will use className instead of display none */}
-            </header>
-            <div style={{
-              flexShrink: 0,
-              display: 'flex', alignItems: 'center', justifyContent: 'space-between',
-              padding: '12px 20px',
-              background: '#ffffff', borderBottom: '1px solid #c4c6cf',
-            }} className="desktop-chat-header">
+            <div className="chat-topbar desktop-chat-header">
               <div>
-                <p style={{ margin: 0, fontSize: 14, fontWeight: 600, color: '#191c1e', lineHeight: 1.2 }}>
-                  Manual de Bienes
-                </p>
-                <p style={{ margin: 0, fontSize: 11, color: '#74777f', lineHeight: 1.2 }}>
-                  Consultor técnico documental
-                </p>
+                <div className="breadcrumb">
+                  <strong>Manual de Bienes</strong>
+                  <span>/</span>
+                  <span>Copiloto documental</span>
+                  <span>/</span>
+                  <span>Chat</span>
+                </div>
               </div>
               <button
                 id="btn-limpiar-chat"
                 type="button"
                 onClick={handleClear}
-                style={{
-                  display: 'flex', alignItems: 'center', gap: 6,
-                  fontSize: 12, fontWeight: 500,
-                  padding: '6px 12px', borderRadius: 8,
-                  border: '1px solid #c4c6cf',
-                  background: '#f2f4f6', color: '#44474e',
-                  cursor: 'pointer', transition: 'all 0.15s',
-                }}
-                onMouseEnter={e => { e.currentTarget.style.color = '#c00'; e.currentTarget.style.borderColor = '#f2b8b5'; e.currentTarget.style.background = '#fff8f7'; }}
-                onMouseLeave={e => { e.currentTarget.style.color = '#44474e'; e.currentTarget.style.borderColor = '#c4c6cf'; e.currentTarget.style.background = '#f2f4f6'; }}
+                className="context-pill"
               >
                 <svg width="14" height="14" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
@@ -556,59 +525,52 @@ function App() {
               </button>
             </div>
 
-            {/* Messages */}
-            <div
-              className="scrollbar-thin"
-              style={{ flex: '1 1 0', minHeight: 0, overflowY: 'auto', padding: '20px 24px' }}
-            >
-              <div style={{ maxWidth: 720, margin: '0 auto', display: 'flex', flexDirection: 'column', gap: 16 }}>
-                {messages.map((msg, idx) => (
-                  <ChatMessage key={idx} {...msg} onSourceClick={handleSourceClick} />
-                ))}
+            <div className="scrollbar-thin chat-scroll">
+              <div className="chat-stream">
+                {messages.map((msg, idx) => {
+                  const isLastAssistant = msg.role === 'system'
+                    && !msg.isError
+                    && !msg.content?.startsWith('Bienvenido')
+                    && idx === messages.length - 1;
+                  return (
+                    <ChatMessage
+                      key={idx}
+                      {...msg}
+                      onSourceClick={handleSourceClick}
+                      onSuggestionClick={handleSend}
+                      onGenerateInfographic={handleGenerateInfographic}
+                      isLastAssistant={isLastAssistant}
+                    />
+                  );
+                })}
 
                 {loading && (
-                  <div style={{ display: 'flex', justifyContent: 'flex-start' }}>
-                    <div style={{
-                      background: '#fff', border: '1px solid #e0e3e5',
-                      borderRadius: '16px 16px 16px 4px',
-                      padding: '12px 20px', display: 'flex', alignItems: 'center', gap: 10,
-                    }}>
+                  <div className="loading-card">
+                    <div style={{ display: 'flex', gap: 5 }}>
                       {[0, 150, 300].map(d => (
-                        <span key={d} style={{
-                          width: 8, height: 8, borderRadius: '50%', background: '#74777f',
-                          display: 'inline-block',
-                          animation: 'bounce 1s infinite', animationDelay: `${d}ms`,
-                        }} />
+                        <span className="dot" key={d} style={{ animationDelay: `${d}ms` }} />
                       ))}
-                      <span style={{ fontSize: 13, color: '#74777f' }}>Analizando manual...</span>
                     </div>
+                    <span>Analizando manual y preparando fuentes...</span>
                   </div>
                 )}
                 <div ref={messagesEndRef} />
               </div>
             </div>
 
-            {/* Input */}
-            <div style={{ flexShrink: 0, background: '#ffffff', borderTop: '1px solid #c4c6cf', padding: '16px 24px' }}>
-              <div style={{ maxWidth: 720, margin: '0 auto' }}>
+            <div className="chat-input-shell">
+              <div className="chat-input-inner">
                 <ChatInput onSend={handleSend} disabled={loading} />
               </div>
-              <p style={{ textAlign: 'center', fontSize: 11, color: '#74777f', marginTop: 8, marginBottom: 0 }}>
-                IA entrenada con normativa vigente del Manual de Bienes
-              </p>
             </div>
           </>
         );
     }
   };
 
-  // ── Columna derecha según vista ────────────────────────────────────────────
   const renderRightPanel = () => {
-    // En vista TOC, la columna derecha muestra las fuentes del último chat
-    // En vista chat, muestra el panel de fuentes clásico
     if (activeView === 'toc' || activeView === 'references' ||
         activeView === 'history' || activeView === 'settings') {
-      // Panel derecho informativo
       return (
         <aside className="right-panel-container" style={{
           height: '100%', display: 'flex', flexDirection: 'column',
@@ -647,8 +609,7 @@ function App() {
                 {latestSources.map((src, i) => (
                   <div key={i} style={{
                     background: '#f2f4f6', borderRadius: 6,
-                    padding: '8px 10px', marginBottom: 6,
-                    fontSize: 11,
+                    padding: '8px 10px', marginBottom: 6, fontSize: 11,
                   }}>
                     <p style={{ margin: 0, fontWeight: 600, color: '#1b365d', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>
                       {src.chapter}
@@ -671,7 +632,6 @@ function App() {
       );
     }
 
-    // Vista chat → panel de fuentes completo
     return (
       <div className="right-panel-container" style={{ height: '100%' }}>
         <SourcesPanel
@@ -685,6 +645,17 @@ function App() {
 
   return (
     <>
+      {/* Infographic Modal */}
+      {showInfographic && (
+        <InfographicModal
+          data={infographicData}
+          loading={infographicLoading}
+          error={infographicError}
+          question={infographicQuestion}
+          onClose={handleCloseInfographic}
+        />
+      )}
+
       {/* Source Viewer modal */}
       <SourceViewer
         chunkId={viewerChunkId}
@@ -695,18 +666,18 @@ function App() {
       />
 
       {/* Mobile overlay */}
-      <div 
+      <div
         className={`sidebar-overlay ${isMobileMenuOpen ? 'open' : ''}`}
         onClick={() => setIsMobileMenuOpen(false)}
       />
 
       {/* Root layout */}
       <div className="app-container">
-        
-        {/* Mobile Header (only visible on mobile via CSS) */}
+
+        {/* Mobile Header */}
         <div className="mobile-header">
           <div style={{ display: 'flex', alignItems: 'center', gap: 10 }}>
-            <button 
+            <button
               onClick={() => setIsMobileMenuOpen(true)}
               style={{ background: 'transparent', border: 'none', color: '#1b365d', padding: 4, cursor: 'pointer' }}
             >
@@ -716,12 +687,11 @@ function App() {
             </button>
             <h1 style={{ margin: 0, fontSize: 16, fontWeight: 600, color: '#1b365d' }}>Manual de Bienes</h1>
           </div>
-          
           <button
             onClick={handleNewConsulta}
             style={{
               background: '#1b365d', color: 'white', border: 'none', borderRadius: 8,
-              padding: '6px 12px', fontSize: 12, fontWeight: 600, cursor: 'pointer'
+              padding: '6px 12px', fontSize: 12, fontWeight: 600, cursor: 'pointer',
             }}
           >
             Nueva Consulta
@@ -734,7 +704,7 @@ function App() {
             activeView={activeView}
             onView={(view) => {
               setActiveView(view);
-              setIsMobileMenuOpen(false);
+              if (window.innerWidth <= 768) setIsMobileMenuOpen(false);
             }}
             onNewConsulta={handleNewConsulta}
             historyCount={history.length}

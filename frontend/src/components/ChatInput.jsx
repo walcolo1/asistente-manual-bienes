@@ -3,88 +3,70 @@ import React, { useState } from 'react';
 const ChatInput = ({ onSend, disabled }) => {
   const [input, setInput] = useState('');
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    if (!input.trim() || disabled) return;
-    onSend(input.trim());
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    const value = input.trim();
+    if (!value || disabled) return;
+    onSend(value);
     setInput('');
   };
+
+  const quickPrompts = [
+    'Resumir el capitulo actual',
+    'Listar requisitos',
+    'Mostrar validaciones',
+  ];
 
   const isDisabled = disabled || !input.trim();
 
   return (
-    <form
-      onSubmit={handleSubmit}
-      style={{
-        display: 'flex',
-        alignItems: 'center',
-        gap: 10,
-        width: '100%',
-      }}
-    >
-      <input
-        type="text"
-        value={input}
-        onChange={(e) => setInput(e.target.value)}
-        placeholder="Escriba su consulta técnica aquí..."
-        disabled={disabled}
-        autoComplete="off"
-        style={{
-          flex: '1 1 0',
-          minWidth: 0,
-          fontSize: 16,
-          padding: '10px 16px',
-          borderRadius: 8,
-          border: '1px solid #c4c6cf',
-          background: '#f7f9fb',
-          color: '#191c1e',
-          outline: 'none',
-          transition: 'border-color 0.15s, box-shadow 0.15s',
-          fontFamily: 'inherit',
-          opacity: disabled ? 0.6 : 1,
-        }}
-        onFocus={(e) => {
-          e.target.style.borderColor = '#1b365d';
-          e.target.style.boxShadow = '0 0 0 3px rgba(27,54,93,0.12)';
-          e.target.style.background = '#ffffff';
-        }}
-        onBlur={(e) => {
-          e.target.style.borderColor = '#c4c6cf';
-          e.target.style.boxShadow = 'none';
-          e.target.style.background = '#f7f9fb';
-        }}
-      />
+    <div className="composer-shell">
+      <div className="composer-prompts">
+        {quickPrompts.map((prompt) => (
+          <button
+            type="button"
+            key={prompt}
+            disabled={disabled}
+            onClick={() => setInput(prompt)}
+          >
+            {prompt}
+          </button>
+        ))}
+      </div>
 
-      <button
-        type="submit"
-        disabled={isDisabled}
-        style={{
-          flexShrink: 0,
-          width: 44,
-          height: 44,
-          borderRadius: 8,
-          border: 'none',
-          background: isDisabled ? '#c4c6cf' : '#1b365d',
-          color: '#ffffff',
-          cursor: isDisabled ? 'not-allowed' : 'pointer',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          transition: 'background 0.15s, transform 0.1s',
-          outline: 'none',
-          pointerEvents: isDisabled ? 'none' : 'auto',
-        }}
-        onMouseEnter={(e) => { if (!isDisabled) e.currentTarget.style.background = '#162d50'; }}
-        onMouseLeave={(e) => { if (!isDisabled) e.currentTarget.style.background = '#1b365d'; }}
-        onMouseDown={(e) => { if (!isDisabled) e.currentTarget.style.transform = 'scale(0.95)'; }}
-        onMouseUp={(e) => { e.currentTarget.style.transform = 'scale(1)'; }}
-        title="Enviar consulta (Enter)"
-      >
-        <svg width="18" height="18" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
-          <path strokeLinecap="round" strokeLinejoin="round" d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
-        </svg>
-      </button>
-    </form>
+      <form onSubmit={handleSubmit} className="chat-composer">
+        <div className="composer-input-wrap">
+          <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 10h.01M12 10h.01M16 10h.01M7 16h10M5 5h14a2 2 0 012 2v10a2 2 0 01-2 2H8l-5 3V7a2 2 0 012-2z" />
+          </svg>
+          <input
+            type="text"
+            value={input}
+            onChange={(event) => setInput(event.target.value)}
+            placeholder="Pregunta al manual por procedimiento, responsable, soporte o excepcion..."
+            disabled={disabled}
+            autoComplete="off"
+          />
+        </div>
+
+        <button
+          type="submit"
+          disabled={isDisabled}
+          className="send-button"
+          title="Enviar consulta"
+        >
+          <svg width="18" height="18" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.4}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-6-6l6 6-6 6" />
+          </svg>
+        </button>
+      </form>
+
+      <div className="composer-options">
+        <span>Solo fuentes del manual</span>
+        <span>Fuentes visibles</span>
+        <span>Modo lectura rapida</span>
+      </div>
+    </div>
   );
 };
 
