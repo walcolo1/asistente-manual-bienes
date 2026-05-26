@@ -508,10 +508,6 @@ export default function Academia() {
 
                   <div className="chapter-card-metadata">
                     <div className="meta-item">
-                      <Icon name="clock" size={12} />
-                      <span>{ch.header.duration}</span>
-                    </div>
-                    <div className="meta-item">
                       <Icon name="doc" size={12} />
                       <span>Dificultad: {ch.header.difficulty}</span>
                     </div>
@@ -667,10 +663,6 @@ export default function Academia() {
                 </div>
 
                 <div className="learning-meta-grid">
-                  <div className="meta-card">
-                    <strong>Duración Estimada</strong>
-                    <p>{formatInlineMarkdown(activeChapter.header.duration)}</p>
-                  </div>
                   <div className="meta-card">
                     <strong>Dificultad Académica</strong>
                     <p>{formatInlineMarkdown(activeChapter.header.difficulty)}</p>
@@ -1069,10 +1061,10 @@ export default function Academia() {
                     <div className="quiz-nav-summary">
                       <span className="quiz-nav-chapter-title">Evaluación Oficial del Capítulo {activeChapter.num}</span>
                       <div className="quiz-nav-stats">
-                        <span><strong>Pregunta:</strong> {showReviewScreen ? 'Revisión' : currentQuestionIndex + 1} de {quizQuestions.length}</span>
-                        <span><strong>Respondidas:</strong> {Object.keys(quizSelectedAnswers).length} de {quizQuestions.length}</span>
-                        <span><strong>Pendientes:</strong> {quizQuestions.length - Object.keys(quizSelectedAnswers).length}</span>
-                        <span><strong>Mínimo Aprobatorio:</strong> 13 / 15 correctas (más del 80%)</span>
+                        <div className="stat-line">▪ <strong>Pregunta:</strong> {showReviewScreen ? 'Revisión' : currentQuestionIndex + 1} de 15</div>
+                        <div className="stat-line">▪ <strong>Respondidas:</strong> {Object.keys(quizSelectedAnswers).length}/15</div>
+                        <div className="stat-line">▪ <strong>Pendientes:</strong> {15 - Object.keys(quizSelectedAnswers).length}</div>
+                        <div className="stat-line">▪ <strong>Mínimo aprobatorio:</strong> 13/15 (más del 80%)</div>
                       </div>
                     </div>
 
