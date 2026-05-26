@@ -50,6 +50,8 @@ export default function Academia() {
   const [quizSubmitted, setQuizSubmitted] = useState(false);
   const [quizScore, setQuizScore] = useState(0);
   const [quizApproved, setQuizApproved] = useState(false);
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [showReviewScreen, setShowReviewScreen] = useState(false);
 
   // Notas / Trazabilidad
   const [scores, setScores] = useState(() => {
@@ -127,15 +129,17 @@ export default function Academia() {
       setQuizSelectedAnswers({});
       setQuizScore(0);
       setQuizApproved(false);
+      setCurrentQuestionIndex(0);
+      setShowReviewScreen(false);
       setLoadingStudyPlan(false);
       
-      // Preparar 20 preguntas aleatorias del banco de este capítulo
+      // Preparar 15 preguntas aleatorias del banco de este capítulo
       const currentChapter = academyData.chapters.find(c => c.id === chapterId);
       if (currentChapter && currentChapter.bancoPreguntas) {
         // Barajar preguntas
         const shuffled = [...currentChapter.bancoPreguntas].sort(() => 0.5 - Math.random());
-        // Tomar hasta 20 preguntas (o el total si el banco tiene menos, pero nuestros bancos tienen exactamente 20)
-        const selected = shuffled.slice(0, 20).map(q => {
+        // Tomar hasta 15 preguntas (o el total si el banco tiene menos, pero nuestros bancos tienen exactamente 20)
+        const selected = shuffled.slice(0, 15).map(q => {
           // Guardar el índice correcto original
           const correctOptionText = q.options[q.correct];
           // Barajar opciones
@@ -163,7 +167,8 @@ export default function Academia() {
   };
 
   const handleSubmitQuiz = () => {
-    if (Object.keys(quizSelectedAnswers).length < quizQuestions.length) {
+    const answeredCount = Object.keys(quizSelectedAnswers).length;
+    if (answeredCount < quizQuestions.length) {
       alert(`Por favor, responda todas las ${quizQuestions.length} preguntas antes de enviar.`);
       return;
     }
@@ -176,7 +181,7 @@ export default function Academia() {
     });
 
     const finalPercentage = Math.round((correctCount / quizQuestions.length) * 100);
-    const approved = finalPercentage >= 80; // Se aprueba con más del 80% (17/20 respuestas correctas)
+    const approved = correctCount >= 13; // Se aprueba con más del 80% (mínimo 13 respuestas correctas de 15, ya que 12/15 = 80%)
 
     setQuizScore(finalPercentage);
     setQuizApproved(approved);
@@ -194,6 +199,15 @@ export default function Academia() {
 
   // ── Generar Comprobante PDF ──
   const handleOpenCertificate = (chapterId) => {
+    if (!student || !student.id || !student.name || !student.grade) {
+      alert("Por favor, complete sus datos de registro primero.");
+      return;
+    }
+    const score = scores[chapterId] || 0;
+    if (score <= 80) {
+      alert("No ha aprobado la evaluación de este capítulo aún.");
+      return;
+    }
     setCertChapter(chapterId);
     setShowCertificate(true);
   };
@@ -308,6 +322,7 @@ export default function Academia() {
   if (showCertificate && certChapter) {
     const ch = academyData.chapters.find(c => c.id === certChapter);
     const score = scores[certChapter] || 0;
+    const correctCount = Math.round((score * 15) / 100);
     const certCode = `MDN-GF-M-001-CH${certChapter}-${student.id}-${score}`;
     
     return (
@@ -344,9 +359,9 @@ export default function Academia() {
                 
                 <p className="cert-achievement-detail">
                   Correspondiente al <strong>Manual de Procedimientos Administrativos y Financieros para el Manejo de Bienes (GF-M-001 V.2)</strong>, 
-                  obteniendo una calificación aprobatoria de <strong>{score}%</strong> de competencias logradas.
+                  obteniendo una calificación aprobatoria de <strong>{correctCount} respuestas correctas de 15</strong> (equivalente al <strong>{score}%</strong> de competencias logradas).
                 </p>
-
+ 
                 <div className="cert-signatures-grid">
                   <div className="cert-signature-block">
                     <div className="cert-sign-line" />
@@ -359,10 +374,10 @@ export default function Academia() {
                     <p>Directora de Finanzas MDN</p>
                   </div>
                 </div>
-
+ 
                 <div className="cert-validation-block">
                   <p>Unidad: {student.unit}</p>
-                  <p>Fecha de Expedición: {new Date().toLocaleDateString('es-CO')}</p>
+                  <p>Fecha de Expedición: {new Date().toLocaleDateString('es-CO')} {new Date().toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit' })}</p>
                   <p className="cert-code">Código de Validación: {certCode}</p>
                 </div>
               </div>
@@ -480,7 +495,7 @@ export default function Academia() {
           <div className="chapters-grid">
             {academyData.chapters.map((ch) => {
               const score = scores[ch.id];
-              const approved = score !== undefined && score >= 80;
+              const approved = score !== undefined && score > 80;
 
               return (
                 <div key={ch.id} className={`chapter-card ${approved ? 'approved-card' : ''}`}>
@@ -628,7 +643,7 @@ export default function Academia() {
             ) : (
               <div className="sidebar-status-pending">
                 <strong>⏳ Pendiente de Evaluación</strong>
-                <p>Aprobación con {'>'}= 80% (17/20 correctas)</p>
+                <p>Aprobación con más del 80% (mínimo 13/15 correctas)</p>
               </div>
             )}
           </div>
@@ -717,8 +732,7 @@ export default function Academia() {
                   {activeChapter.temario.map((item, idx) => (
                     <div key={idx} className="temario-academic-card">
                       <div className="temario-card-header">
-                        <h4>{item.title}</h4>
-                        <span className="ref-tag">Ref: {item.reference}</span>
+                        <h4>{item.title} — <span className="ref-tag">Ref: {item.reference}</span></h4>
                       </div>
                       <div className="temario-card-body">
                         {formatMarkdown(item.explanation)}
@@ -952,8 +966,7 @@ export default function Academia() {
                     {activeChapter.glosario.map((g, idx) => (
                       <div key={idx} className="glosario-term-card">
                         <div className="term-title">
-                          <strong>{formatInlineMarkdown(g.term)}</strong>
-                          <span className="term-ref">Ref: {g.ref}</span>
+                          <strong>{formatInlineMarkdown(g.term)}</strong> — <span className="term-ref">Ref: {g.ref}</span>
                         </div>
                         <p className="term-definition">{formatInlineMarkdown(g.definition)}</p>
                       </div>
@@ -1050,134 +1063,299 @@ export default function Academia() {
               </div>
               <div className="classroom-card-body">
                 
-                {/* Instrucciones */}
-                <div className="quiz-instructions-strip">
-                  <Icon name="lock" size={18} className="text-accent" />
-                  <div>
-                    <strong>Evaluación de Competencias Protegida</strong>
-                    <p>
-                      Cuestionario de 20 preguntas aleatorias de selección única. Se aprueba con más del 80% de aciertos 
-                      (mínimo 17 respuestas correctas de 20). No se permite retroceder ni alterar las respuestas una vez enviada la prueba.
-                    </p>
-                  </div>
-                </div>
-
-                {/* Examen de 20 Preguntas */}
-                <div className="quiz-questions-stream">
-                  {quizQuestions.map((q, idx) => {
-                    const selectedOption = quizSelectedAnswers[idx];
-                    
-                    return (
-                      <div key={idx} className="quiz-question-card">
-                        <div className="question-header">
-                          <span className="question-number">Pregunta {idx + 1} de 20</span>
-                          <h4>{formatInlineMarkdown(q.question)}</h4>
-                        </div>
-                        <div className="question-options-list">
-                          {q.options.map((opt, optIdx) => {
-                            const isSelected = selectedOption === optIdx;
-                            const isCorrect = q.correct === optIdx;
-                            
-                            let optionClass = 'option-neutral';
-                            if (isSelected) {
-                              optionClass = 'option-selected';
-                            }
-                            if (quizSubmitted) {
-                              if (isCorrect) {
-                                optionClass = 'option-correct';
-                              } else if (isSelected) {
-                                optionClass = 'option-incorrect';
-                              } else {
-                                optionClass = 'option-disabled';
-                              }
-                            }
-
-                            return (
-                              <button
-                                key={optIdx}
-                                type="button"
-                                disabled={quizSubmitted}
-                                onClick={() => handleSelectOption(idx, optIdx)}
-                                className={`quiz-option-btn ${optionClass}`}
-                              >
-                                <span className="option-letter">{['A', 'B', 'C', 'D'][optIdx]}.</span>
-                                <span className="option-text">{formatInlineMarkdown(opt)}</span>
-                                {quizSubmitted && isCorrect && <span className="mark-icon">✓</span>}
-                                {quizSubmitted && isSelected && !isCorrect && <span className="mark-icon">✗</span>}
-                              </button>
-                            );
-                          })}
-                        </div>
-
-                        {/* Retroalimentación en caso de fallo */}
-                        {quizSubmitted && selectedOption !== q.correct && (
-                          <div className="quiz-feedback-box">
-                            <strong>Fundamento Contable/Logístico del Manual:</strong>
-                            <p>{formatInlineMarkdown(q.feedback)}</p>
-                          </div>
-                        )}
-                      </div>
-                    );
-                  })}
-                </div>
-
-                {/* Resultados del Examen */}
-                {quizSubmitted ? (
-                  <div className="quiz-results-card animate-fade-in">
-                    <div className="score-circle-shell">
-                      <div className={`score-ring ${quizApproved ? 'ring-success' : 'ring-error'}`}>
-                        {quizScore}%
-                      </div>
-                      <div>
-                        <h4>Calificación: {quizScore}%</h4>
-                        {quizApproved ? (
-                          <p className="text-success font-bold">¡APROBADO! Has completado con éxito este capítulo.</p>
-                        ) : (
-                          <p className="text-error font-bold">NO APROBADO. Requiere al menos el 80% (17 respuestas correctas).</p>
-                        )}
+                {/* ── Navegador Superior de Preguntas ── */}
+                {!quizSubmitted && (
+                  <div className="quiz-navigator-container">
+                    <div className="quiz-nav-summary">
+                      <span className="quiz-nav-chapter-title">Evaluación Oficial del Capítulo {activeChapter.num}</span>
+                      <div className="quiz-nav-stats">
+                        <span><strong>Pregunta:</strong> {showReviewScreen ? 'Revisión' : currentQuestionIndex + 1} de {quizQuestions.length}</span>
+                        <span><strong>Respondidas:</strong> {Object.keys(quizSelectedAnswers).length} de {quizQuestions.length}</span>
+                        <span><strong>Pendientes:</strong> {quizQuestions.length - Object.keys(quizSelectedAnswers).length}</span>
+                        <span><strong>Mínimo Aprobatorio:</strong> 13 / 15 correctas (más del 80%)</span>
                       </div>
                     </div>
 
-                    <div className="results-actions-row">
-                      {quizApproved ? (
-                        <>
-                          <button 
-                            onClick={() => handleOpenCertificate(activeChapterId)} 
-                            className="btn-download-cert"
-                          >
-                            📜 Generar Certificado del Capítulo
-                          </button>
-                          <button 
+                    <div className="quiz-navigator-dots">
+                      {quizQuestions.map((_, idx) => {
+                        const isCurrent = currentQuestionIndex === idx && !showReviewScreen;
+                        const isAnswered = quizSelectedAnswers[idx] !== undefined;
+                        
+                        let dotClass = "nav-pending";
+                        if (isCurrent) {
+                          dotClass = "nav-active";
+                        } else if (isAnswered) {
+                          dotClass = "nav-answered";
+                        }
+
+                        return (
+                          <button
+                            key={idx}
+                            type="button"
                             onClick={() => {
-                              if (activeChapterId < 7) {
-                                handleGeneratePlan(activeChapterId + 1);
-                              } else {
-                                setActiveChapterId(null);
-                              }
-                            }} 
-                            className="btn-next-chapter"
+                              setShowReviewScreen(false);
+                              setCurrentQuestionIndex(idx);
+                            }}
+                            className={`navigator-dot ${dotClass}`}
                           >
-                            Continuar al Siguiente Capítulo →
+                            {idx + 1}
                           </button>
-                        </>
-                      ) : (
-                        <button 
-                          onClick={() => handleGeneratePlan(activeChapterId)} 
-                          className="btn-retry-quiz"
-                        >
-                          Repetir Evaluación del Capítulo
-                        </button>
-                      )}
+                        );
+                      })}
+                      
+                      <button
+                        type="button"
+                        onClick={() => setShowReviewScreen(true)}
+                        className={`navigator-dot nav-review-btn ${showReviewScreen ? 'nav-active' : ''}`}
+                        title="Revisión General"
+                      >
+                        📋
+                      </button>
                     </div>
                   </div>
-                ) : (
-                  <button 
-                    onClick={handleSubmitQuiz} 
-                    className="btn-submit-evaluation"
-                  >
-                    Confirmar y Enviar Evaluación
-                  </button>
                 )}
+
+                {/* ── Caso 1: Cuestionario en Curso (Pregunta por pantalla) ── */}
+                {!quizSubmitted && !showReviewScreen && (
+                  <div className="quiz-question-card animate-fade-in">
+                    {(() => {
+                      const q = quizQuestions[currentQuestionIndex];
+                      if (!q) return <p>Cargando cuestionario oficial...</p>;
+                      const selectedOption = quizSelectedAnswers[currentQuestionIndex];
+                      
+                      return (
+                        <>
+                          <div className="question-header">
+                            <span className="question-number">Pregunta {currentQuestionIndex + 1} de {quizQuestions.length}</span>
+                            <h4>{formatInlineMarkdown(q.question)}</h4>
+                          </div>
+                          
+                          <div className="question-options-list">
+                            {q.options.map((opt, optIdx) => {
+                              const isSelected = selectedOption === optIdx;
+                              const optionClass = isSelected ? 'option-selected' : 'option-neutral';
+
+                              return (
+                                <button
+                                  key={optIdx}
+                                  type="button"
+                                  onClick={() => handleSelectOption(currentQuestionIndex, optIdx)}
+                                  className={`quiz-option-btn ${optionClass}`}
+                                >
+                                  <span className="option-letter">{['A', 'B', 'C', 'D'][optIdx]}.</span>
+                                  <span className="option-text">{formatInlineMarkdown(opt)}</span>
+                                </button>
+                              );
+                            })}
+                          </div>
+
+                          <div className="quiz-navigation-controls">
+                            <button
+                              type="button"
+                              disabled={currentQuestionIndex === 0}
+                              onClick={() => setCurrentQuestionIndex(prev => prev - 1)}
+                              className="btn-classroom-prev"
+                            >
+                              Anterior
+                            </button>
+
+                            {currentQuestionIndex < quizQuestions.length - 1 ? (
+                              <button
+                                type="button"
+                                onClick={() => setCurrentQuestionIndex(prev => prev + 1)}
+                                className="btn-classroom-next"
+                              >
+                                Siguiente
+                              </button>
+                            ) : (
+                              <button
+                                type="button"
+                                onClick={() => setShowReviewScreen(true)}
+                                className="btn-classroom-review"
+                              >
+                                Revisar respuestas 📋
+                              </button>
+                            )}
+                          </div>
+                        </>
+                      );
+                    })()}
+                  </div>
+                )}
+
+                {/* ── Caso 2: Pantalla de Resumen e Instrucción de Envío ── */}
+                {!quizSubmitted && showReviewScreen && (
+                  <div className="quiz-review-card animate-fade-in">
+                    <h4>Consolidado de Respuestas y Estado de Avance</h4>
+                    <p className="review-intro">
+                      Por favor, verifique el estado de su examen oficial antes de enviar la evaluación para su calificación en los libros de la Academia.
+                    </p>
+
+                    <div className="review-summary-stats">
+                      <div className="review-stat-box">
+                        <strong>Total Preguntas</strong>
+                        <span>{quizQuestions.length}</span>
+                      </div>
+                      <div className="review-stat-box">
+                        <strong>Respondidas</strong>
+                        <span>{Object.keys(quizSelectedAnswers).length}</span>
+                      </div>
+                      <div className="review-stat-box">
+                        <strong>Pendientes</strong>
+                        <span className={quizQuestions.length - Object.keys(quizSelectedAnswers).length > 0 ? 'text-error font-bold' : ''}>
+                          {quizQuestions.length - Object.keys(quizSelectedAnswers).length}
+                        </span>
+                      </div>
+                    </div>
+
+                    {quizQuestions.length - Object.keys(quizSelectedAnswers).length > 0 ? (
+                      <div className="review-warning-alert">
+                        <strong>⚠️ Evaluación Pendiente</strong>
+                        <p>No ha respondido la totalidad del cuestionario. Debe contestar las 15 preguntas obligatoriamente antes de enviar.</p>
+                      </div>
+                    ) : (
+                      <div className="review-success-alert">
+                        <strong>✓ Evaluación Completa</strong>
+                        <p>Todas las preguntas han sido respondidas. Puede proceder a calificar su evaluación para registrar su nota.</p>
+                      </div>
+                    )}
+
+                    <div className="review-actions">
+                      <button
+                        type="button"
+                        onClick={() => {
+                          setShowReviewScreen(false);
+                          const firstUnanswered = quizQuestions.findIndex((_, idx) => quizSelectedAnswers[idx] === undefined);
+                          setCurrentQuestionIndex(firstUnanswered !== -1 ? firstUnanswered : 0);
+                        }}
+                        className="btn-classroom-back-quiz"
+                      >
+                        Volver a las Preguntas
+                      </button>
+
+                      <button
+                        type="button"
+                        disabled={Object.keys(quizSelectedAnswers).length < quizQuestions.length}
+                        onClick={handleSubmitQuiz}
+                        className="btn-submit-evaluation"
+                      >
+                        Enviar Evaluación Oficial
+                      </button>
+                    </div>
+                  </div>
+                )}
+
+                {/* ── Caso 3: Evaluación Enviada y Calificada (Resultados) ── */}
+                {quizSubmitted && (
+                  <div className="quiz-results-container">
+                    <div className="quiz-results-card animate-fade-in">
+                      <div className="score-circle-shell">
+                        <div className={`score-ring ${quizApproved ? 'ring-success' : 'ring-error'}`}>
+                          {quizScore}%
+                        </div>
+                        <div>
+                          <h4>Calificación Final: {quizScore}% ({Math.round((quizScore * 15) / 100)} / 15 correctas)</h4>
+                          {quizApproved ? (
+                            <p className="text-success font-bold">¡APROBADO! Ha superado de forma satisfactoria la evaluación de este capítulo.</p>
+                          ) : (
+                            <p className="text-error font-bold">NO APROBADO. Se requiere más del 80% (mínimo 13 respuestas correctas de 15).</p>
+                          )}
+                        </div>
+                      </div>
+
+                      <div className="results-actions-row">
+                        {quizApproved ? (
+                          <>
+                            <button 
+                              onClick={() => handleOpenCertificate(activeChapterId)} 
+                              className="btn-download-cert"
+                            >
+                              📜 Generar Comprobante Oficial
+                            </button>
+                            <button 
+                              onClick={() => {
+                                if (activeChapterId < 7) {
+                                  handleGeneratePlan(activeChapterId + 1);
+                                } else {
+                                  setActiveChapterId(null);
+                                }
+                              }} 
+                              className="btn-next-chapter"
+                            >
+                              Continuar al Siguiente Capítulo →
+                            </button>
+                          </>
+                        ) : (
+                          <button 
+                            onClick={() => handleGeneratePlan(activeChapterId)} 
+                            className="btn-retry-quiz"
+                          >
+                            Repetir Evaluación (Nuevo Intento)
+                          </button>
+                        )}
+                      </div>
+                    </div>
+
+                    <div className="quiz-questions-stream mt-6">
+                      <h4 className="results-review-title">Revisión de Respuestas y Fundamentos del Manual</h4>
+                      {quizQuestions.map((q, idx) => {
+                        const selectedOption = quizSelectedAnswers[idx];
+                        const isCorrect = q.correct === selectedOption;
+                        
+                        return (
+                          <div key={idx} className="quiz-question-card">
+                            <div className="question-header">
+                              <span className="question-number">Pregunta {idx + 1} de 15</span>
+                              <h4>{formatInlineMarkdown(q.question)}</h4>
+                            </div>
+                            
+                            <div className="question-options-list">
+                              {q.options.map((opt, optIdx) => {
+                                const isSelected = selectedOption === optIdx;
+                                const isOptionCorrect = q.correct === optIdx;
+                                
+                                let optionClass = 'option-neutral';
+                                if (isSelected) {
+                                  optionClass = 'option-selected';
+                                }
+                                if (isOptionCorrect) {
+                                  optionClass = 'option-correct';
+                                } else if (isSelected) {
+                                  optionClass = 'option-incorrect';
+                                } else {
+                                  optionClass = 'option-disabled';
+                                }
+
+                                return (
+                                  <button
+                                    key={optIdx}
+                                    type="button"
+                                    disabled
+                                    className={`quiz-option-btn ${optionClass}`}
+                                  >
+                                    <span className="option-letter">{['A', 'B', 'C', 'D'][optIdx]}.</span>
+                                    <span className="option-text">{formatInlineMarkdown(opt)}</span>
+                                    {isOptionCorrect && <span className="mark-icon">✓</span>}
+                                    {isSelected && !isOptionCorrect && <span className="mark-icon">✗</span>}
+                                  </button>
+                                );
+                              })}
+                            </div>
+
+                            {/* Retroalimentación en caso de fallo */}
+                            {!isCorrect && (
+                              <div className="quiz-feedback-box">
+                                <strong>Fundamento Contable/Logístico del Manual:</strong>
+                                <p>{formatInlineMarkdown(q.feedback)}</p>
+                              </div>
+                            )}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                )}
+
               </div>
             </div>
           )}
